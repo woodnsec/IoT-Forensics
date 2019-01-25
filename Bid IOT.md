@@ -41,8 +41,9 @@ Name of representative (if one exists)
 
 ### Qualifications:
 
-* (high level overview of team structure)
-* (short bio and overview of qualifications for first team member)
-* (short bio and overview of qualifications for second team member)
-* (short bio and overview of qualifications for third team member)
-* (short bio and overview of qualifications for fourth team member)
+* (high level overview of team structure) and bio for each member.
+* Elisabeth 
+* Ashley 
+* Amber 
+* Ronald 
+* Nate is an Security Analyst with experience in vulnerability analysis, penetration testing, and network analysis. I have both the Certified Penetration Tester (CPT), and GIAC Certified Incident Handler (GCIH) certifications. At home I enjoy working in my homelab with network segmentation and virtuization of servers and infrastructure. 
