@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Project Bid: IOT Forensics
+=======
+# Bid for Internet of Things (IoT) Forensics
+>>>>>>> 4c6199aa277d23ec5019a9ba2ee57828aada0624
 ## Insure Group 1
 
 
@@ -8,6 +12,7 @@
 * Amber Makovicka
 * Ronald Ramirez
 * Nate Wood
+<<<<<<< HEAD
 
 ### Email addresses:
 * emhenderson@unomaha.edu
@@ -46,3 +51,6 @@ Name of representative (if one exists)
 * (short bio and overview of qualifications for second team member)
 * (short bio and overview of qualifications for third team member)
 * (short bio and overview of qualifications for fourth team member)
+=======
+* Ronald Ramirez
+>>>>>>> 4c6199aa277d23ec5019a9ba2ee57828aada0624
