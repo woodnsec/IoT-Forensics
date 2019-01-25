@@ -33,7 +33,7 @@ John Springer
 
 (1-3 paragraphs about why the team is interested in this project. Focus on the interesting aspects of the project and how the team matches well to the project area)
 - #### Notes 
-### Paragraph 1
+#### Paragraph 1
 - This applies to energy-based railway systems such as UP to passenger based railway systems such as Amtrak. (MAKE SURE WE ARE TOTALLY ACCURATE)
 - Critical part of infrastructure, that we presume it's secure
 - Do not think about trains everyday and how they are a part of our critical infrastructure
