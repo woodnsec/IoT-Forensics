@@ -26,10 +26,10 @@ Dr. Matt Hale
 IOT Forensics
 
 ### Project Agency (optional):
-Project External customer or federal agency (if one exists)
+National Security Agency
 
 ### Technical Director / External Customer:
-Name of representative (if one exists)
+Albert Holt
 
 ### Reason for wanting this project:
 
@@ -41,9 +41,8 @@ Name of representative (if one exists)
 
 ### Qualifications:
 
-* (high level overview of team structure) and bio for each member.
 * Elisabeth 
 * Ashley 
 * Amber 
 * Ronald 
-* Nate is an Security Analyst with experience in vulnerability analysis, penetration testing, and network analysis. I have both the Certified Penetration Tester (CPT), and GIAC Certified Incident Handler (GCIH) certifications. At home I enjoy working in my homelab with network segmentation and virtuization of servers and infrastructure. 
+* Nate Wood is a graduate student at UNO majoring in Cybersecurity. He is currently working as a Security Analyst at an international company. He has experience with vulnerability analysis, penetration testing, network analysis, and scripting in Python. He has both the Certified Penetration Tester (CPT), and GIAC Certified Incident Handler (GCIH) certifications. In his spare time he works in his  homelab with network segmentation and virtualization of servers and infrastructure. 
