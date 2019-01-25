@@ -44,5 +44,5 @@ Albert Holt
 * Elisabeth 
 * Ashley 
 * Amber 
-* Ronald 
+* Ronald is a an undergraduate student who is also enrolled in the graduate program in Cybersecurity. I currently work as an Information Security intern who has experience digital forensics, vulnerabilitiy analysis, and python automation. Relevant strengths include network and classical computer forensics. 
 * Nate Wood is a graduate student at UNO majoring in Cybersecurity. He is currently working as a Security Analyst at an international company. He has experience with vulnerability analysis, penetration testing, network analysis, and scripting in Python. He has both the Certified Penetration Tester (CPT), and GIAC Certified Incident Handler (GCIH) certifications. In his spare time he works in his  homelab with network segmentation and virtualization of servers and infrastructure. 
