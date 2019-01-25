@@ -36,7 +36,9 @@ John Springer
 - Look at inner workings of train onboard systems in the US 
 - Before trains would have to worry about train robbers, and now robbers aren't physically there. 
 - Critical part of infrastructure, that we presume it's secure
+- Do not think about trains everyday and how they are a part of our critical infrastructure
 - This applies to energy-based railway systems such as UP to passenger based railway systems such as Amtrak. (MAKE SURE WE ARE TOTALLY ACCURATE)
+- We have an interest in how things work behind the scenes and reverse engineering backdoors and finding vulnerabilities 
 
 ### Project Scope:
 
