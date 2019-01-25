@@ -55,8 +55,9 @@ John Springer
 ### Qualifications:
 
 * (high level overview of team structure)
-* (short bio and overview of qualifications for first team member)
-* (short bio and overview of qualifications for second team member)
-* (short bio and overview of qualifications for third team member)
-* (short bio and overview of qualifications for fourth team member)
+* (short bio and overview of qualifications for EH member)
+* (short bio and overview of qualifications for AL team member)
+* (short bio and overview of qualifications for AM team member)
+* (short bio and overview of qualifications for RR team member)
+* (short bio and overview of qualifications for NW team member)
 
