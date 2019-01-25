@@ -33,15 +33,15 @@ John Springer
 
 (1-3 paragraphs about why the team is interested in this project. Focus on the interesting aspects of the project and how the team matches well to the project area)
 - #### Notes 
-#### Paragraph 1
+#### Paragraph 1 (AL)
 - This applies to energy-based railway systems such as UP to passenger based railway systems such as Amtrak. (MAKE SURE WE ARE TOTALLY ACCURATE)
 - Critical part of infrastructure, that we presume it's secure
 - Do not think about trains everyday and how they are a part of our critical infrastructure
-#### Paragraph 2
+#### Paragraph 2 (AM)
 - Look at inner workings of train onboard systems in the US 
 - We have an interest in how things work behind the scenes and reverse engineering backdoors and finding vulnerabilities 
 - Mention inclusive looks at train's on-board systems, rail systems and how the command and control systems bring it all together
-#### Paragraph 3
+#### Paragraph 3 (EH)
 - Talk about possible attacks?
 - Before trains would have to worry about train robbers, and now robbers aren't physically there. 
 - Physical attacks, natural disasters
