@@ -35,7 +35,7 @@ Albert Holt
 
 (1-3 paragraphs about why the team is interested in this project. Focus on the interesting aspects of the project and how the team matches well to the project area)
 
-Brief Notes [still working on this]
+*Brief Notes [still working on this -ronald]
 
 Living in the world of technology, the Internet of Things (IOT) is becoming the more and more popular. The idea of IOT brings a lot of new abilities to a user in hopes of improving or making a task easier through a certain device. From internet connected TV’s to internet connected home security systems. [One of our members uses IOT devices such as Philips Hue Smart Home Lighting. //not sure if this is accurate] However, with the rise of IOT devices this brings the question of how secure these devices are really which is very interesting to our team.
 
@@ -44,6 +44,16 @@ Our reasoning for selecting this project is mainly because of our experience in 
 ### Project Scope:
 
 (2-3 paragraphs about what the project work will entail and what outcomes are to be expected. This should be a sort of “executive summary” that overviews what the initial plans are for the team)
+
+*Brief Notes [still working on this -ronald]
+
+Goal: Compare both traditional/classical forensics to IoT stuff
+-reasearch any similarities (i'm sure similiarities from IoT devices go hand and hand with your typical/classical forensics since some of these devices are usually connected to a network or some sort of central hub
+
+stuff we would look at/report on:
+-mainly research IoT devices and see any previous work done by others if any on this matter
+-continue to compare it to the typical/classical forensics 
+-maybe even test some of this ? Ex. do some foreniscs on an IoT device vs traditional device (find similarties and differences?) [just a thought -ronald]
 
 ### Qualifications:
 
