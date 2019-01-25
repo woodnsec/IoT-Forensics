@@ -45,5 +45,5 @@ Name of representative (if one exists)
 * Elisabeth 
 * Ashley 
 * Amber 
-* Ronald 
+* Ronald is a an undergraduate student who is also enrolled in the graduate program in Cybersecurity. I currently work as an Information Security intern who has experience digital forensics, vulnerabilitiy detection, python automation. Relevant strengths include network and classical computer forensics. 
 * Nate is an Security Analyst with experience in vulnerability analysis, penetration testing, and network analysis. I have both the Certified Penetration Tester (CPT), and GIAC Certified Incident Handler (GCIH) certifications. At home I enjoy working in my homelab with network segmentation and virtuization of servers and infrastructure. 
