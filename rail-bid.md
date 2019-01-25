@@ -21,13 +21,13 @@ University of Nebraska-Omaha
 Dr. Matt Hale
 
 ### Project:			
-Project Name 
+Vulnerability Analysis of Rail Systems 
 
 ### Project Agency (optional):	
-Project External customer or federal agency (if one exists)
+US Transportation Command
 
 ### Technical Director / External Customer: 	
-Name of representative (if one exists)	
+John Springer	
 
 ### Reason for wanting this project:
 
