@@ -50,6 +50,10 @@ John Springer
 
 ### Project Scope:
 
+End goal: Identify potentially high-risk vulnerabilities to these systems so that freight trains can continue to safely serve the nation.
+
+In this project, take an all-inclusive look into the train's on-board systems, the rail systems themselves and the command and control systems that bring it all together.
+
 (2-3 paragraphs about what the project work will entail and what outcomes are to be expected. This should be a sort of “executive summary” that overviews what the initial plans are for the team)
 
 ### Qualifications:
