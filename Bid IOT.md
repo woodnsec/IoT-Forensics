@@ -35,6 +35,12 @@ Albert Holt
 
 (1-3 paragraphs about why the team is interested in this project. Focus on the interesting aspects of the project and how the team matches well to the project area)
 
+Brief Notes [still working on this]
+
+Living in the world of technology, the Internet of Things (IOT) is becoming the more and more popular. The idea of IOT brings a lot of new abilities to a user in hopes of improving or making a task easier through a certain device. From internet connected TV’s to internet connected home security systems. [One of our members uses IOT devices such as Philips Hue Smart Home Lighting. //not sure if this is accurate] However, with the rise of IOT devices this brings the question of how secure these devices are really which is very interesting to our team.
+
+Our reasoning for selecting this project is mainly because of our experience in forensics. All of our group members have all been through UNO’s Cybersecurity course in Forensics which is based on the classical techniques that have been around for years. (not sure if should add some sort of date?). From the knowledge we’ve learned from this class we feel that some techniques transition into the different types of IOT devices that are out there. Therefore, …
+
 ### Project Scope:
 
 (2-3 paragraphs about what the project work will entail and what outcomes are to be expected. This should be a sort of “executive summary” that overviews what the initial plans are for the team)
