@@ -40,6 +40,7 @@ John Springer
 #### Paragraph 2
 - Look at inner workings of train onboard systems in the US 
 - We have an interest in how things work behind the scenes and reverse engineering backdoors and finding vulnerabilities 
+- Mention inclusive looks at train's on-board systems, rail systems and how the command and control systems bring it all together
 #### Paragraph 3
 - Talk about possible attacks?
 - Before trains would have to worry about train robbers, and now robbers aren't physically there. 
