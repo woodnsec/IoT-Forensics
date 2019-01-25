@@ -1,4 +1,4 @@
-## Project Bid
+## Project Bid: Vulnerability Analysis of Rail Systems
 
 ### Names:
 * Elisabeth Henderson
