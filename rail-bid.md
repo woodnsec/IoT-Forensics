@@ -14,15 +14,20 @@ ambermakovicka@unomaha.edu
 ronaldramirez@unomaha.edu
 nwood01@unomaha.edu
 
-### University:			University of Nebraska-Omaha
+### University:			
+University of Nebraska-Omaha
 
-### Faculty Advisor:		Dr. Matt Hale
+### Faculty Advisor:		
+Dr. Matt Hale
 
-### Project:			Project Name 
+### Project:			
+Project Name 
 
-### Project Agency (optional):	Project External customer or federal agency (if one exists)
+### Project Agency (optional):	
+Project External customer or federal agency (if one exists)
 
-### Technical Director / External Customer: 	Name of representative (if one exists)	
+### Technical Director / External Customer: 	
+Name of representative (if one exists)	
 
 ### Reason for wanting this project:
 
@@ -35,8 +40,8 @@ nwood01@unomaha.edu
 ### Qualifications:
 
 (high level overview of team structure)
-•	(short bio and overview of qualifications for first team member)
-•	(short bio and overview of qualifications for second team member)
-•	(short bio and overview of qualifications for third team member)
-•	(short bio and overview of qualifications for fourth team member)
+(short bio and overview of qualifications for first team member)
+(short bio and overview of qualifications for second team member)
+(short bio and overview of qualifications for third team member)
+(short bio and overview of qualifications for fourth team member)
 
