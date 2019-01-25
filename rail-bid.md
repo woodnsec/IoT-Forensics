@@ -1,18 +1,18 @@
 ## Project Bid
 
 ### Names:
-Elisabeth Henderson
-Ashley Leedom
-Amber Makovicka
-Ronald Ramirez
-Nate Wood
+* Elisabeth Henderson
+* Ashley Leedom
+* Amber Makovicka
+* Ronald Ramirez
+* Nate Wood
 
 ### Email addresses:
-emhenderson@unomaha.edu
-aleedom@unomaha.edu
-ambermakovicka@unomaha.edu
-ronaldramirez@unomaha.edu
-nwood01@unomaha.edu
+* emhenderson@unomaha.edu
+* aleedom@unomaha.edu
+* ambermakovicka@unomaha.edu
+* ronaldramirez@unomaha.edu
+* nwood01@unomaha.edu
 
 ### University:			
 University of Nebraska-Omaha
@@ -39,9 +39,9 @@ Name of representative (if one exists)
 
 ### Qualifications:
 
-(high level overview of team structure)
-(short bio and overview of qualifications for first team member)
-(short bio and overview of qualifications for second team member)
-(short bio and overview of qualifications for third team member)
-(short bio and overview of qualifications for fourth team member)
+* (high level overview of team structure)
+* (short bio and overview of qualifications for first team member)
+* (short bio and overview of qualifications for second team member)
+* (short bio and overview of qualifications for third team member)
+* (short bio and overview of qualifications for fourth team member)
 
