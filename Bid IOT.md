@@ -37,23 +37,24 @@ Albert Holt
 
 *Brief Notes [still working on this -ronald]
 
-Living in the world of technology, the Internet of Things (IOT) is becoming the more and more popular. The idea of IOT brings a lot of new abilities to a user in hopes of improving or making a task easier through a certain device. From internet connected TV’s to internet connected home security systems. [One of our members uses IOT devices such as Philips Hue Smart Home Lighting. //not sure if this is accurate] However, with the rise of IOT devices this brings the question of how secure these devices are really which is very interesting to our team.
+Living in the world of technology, the Internet of Things (IOT) is becoming the more and more popular. The idea of IOT brings a lot of new abilities to a user in hopes of improving or making a task easier through a certain device. From internet connected TV’s to internet connected home security systems. [One team member uses several IOT devices in their home such as Philips Hue Smart Home Lighting, Google Home, and a SmartThings Hub] ~~However, with the rise of IOT devices this brings the question of how secure these devices are really which is very interesting to our team.~~ Every year more devices are added to the Internet of Things, each with their own security concerns and digital artifacts. Understanding IOT devices' behavior and artifacts will allow us to help increase their security and how to examine them forensically. 
 
-Our reasoning for selecting this project is mainly because of our experience in forensics. All of our group members have all been through UNO’s Cybersecurity course in Forensics which is based on the classical techniques that have been around for years. (not sure if should add some sort of date?). From the knowledge we’ve learned from this class we feel that some techniques transition into the different types of IOT devices that are out there. Therefore, …
+~~Our reasoning for selecting~~ We selected this project ~~is mainly~~ because of our collective experience with the forensics course at UNO. ~~All of our group members have all been through UNO’s Cybersecurity~~ The course is based upon classical techniques and embraces new technology from enterprise and open source tools. ~~that have been around for years. (not sure if should add some sort of date?).~~ ~~From the knowledge we’ve learned from~~ Our experience in the class ~~we feel that some techniques transition into the~~ has given us the foundation to examine different types of IOT devices available ~~that are out there~~. Therefore, … //not sure we need anything else. Choosing this project will allow us to expand our knowledge and contribute to the forensics field. 
 
 ### Project Scope:
 
 (2-3 paragraphs about what the project work will entail and what outcomes are to be expected. This should be a sort of “executive summary” that overviews what the initial plans are for the team)
 
+
+
 *Brief Notes [still working on this -ronald]
 
 Goal: Compare both traditional/classical forensics to IoT stuff
--reasearch any similarities (i'm sure similiarities from IoT devices go hand and hand with your typical/classical forensics since some of these devices are usually connected to a network or some sort of central hub
+- research any similarities (i'm sure similarities from IoT devices go hand and hand with your typical/classical forensics since some of these devices are usually connected to a network or some sort of central hub
 
 stuff we would look at/report on:
--mainly research IoT devices and see any previous work done by others if any on this matter
--continue to compare it to the typical/classical forensics 
--maybe even test some of this ? Ex. do some foreniscs on an IoT device vs traditional device (find similarties and differences?) [just a thought -ronald]
+- mainly research IoT devices and see any previous work done by others if any on this matter
+- continue to compare it to the typical/classical forensics 
 
 ### Qualifications:
 
