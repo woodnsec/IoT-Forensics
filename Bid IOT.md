@@ -33,13 +33,9 @@ Albert Holt
 
 ### Reason for wanting this project:
 
-(1-3 paragraphs about why the team is interested in this project. Focus on the interesting aspects of the project and how the team matches well to the project area)
+Living in the world of technology, the Internet of Things (IOT) is becoming the more and more popular. The idea of IOT brings a lot of new abilities to a user in hopes of improving or making a task easier through a certain device. From internet connected TV’s to internet connected home security systems. [One team member uses several IOT devices in their home such as Philips Hue Smart Home Lighting, Google Home, and a SmartThings Hub] Every year more devices are added to the Internet of Things, each with their own security concerns and digital artifacts. Understanding IOT devices' behavior and artifacts will allow us to help increase their security and how to examine them forensically. 
 
-*Brief Notes [still working on this -ronald]
-
-Living in the world of technology, the Internet of Things (IOT) is becoming the more and more popular. The idea of IOT brings a lot of new abilities to a user in hopes of improving or making a task easier through a certain device. From internet connected TV’s to internet connected home security systems. [One team member uses several IOT devices in their home such as Philips Hue Smart Home Lighting, Google Home, and a SmartThings Hub] ~~However, with the rise of IOT devices this brings the question of how secure these devices are really which is very interesting to our team.~~ Every year more devices are added to the Internet of Things, each with their own security concerns and digital artifacts. Understanding IOT devices' behavior and artifacts will allow us to help increase their security and how to examine them forensically. 
-
-~~Our reasoning for selecting~~ We selected this project ~~is mainly~~ because of our collective experience with the forensics course at UNO. ~~All of our group members have all been through UNO’s Cybersecurity~~ The course is based upon classical techniques and embraces new technology from enterprise and open source tools. ~~that have been around for years. (not sure if should add some sort of date?).~~ ~~From the knowledge we’ve learned from~~ Our experience in the class ~~we feel that some techniques transition into the~~ has given us the foundation to examine different types of IOT devices available ~~that are out there~~. Therefore, … //not sure we need anything else. Choosing this project will allow us to expand our knowledge and contribute to the forensics field. 
+We selected this project because of our collective experience with the forensics course at UNO.  The course is based upon classical techniques and embraces new technology from enterprise and open source tools. Our experience in the class has given us the foundation to examine different types of IOT devices available. Choosing this project will allow us to expand our knowledge and contribute to the forensics field. 
 
 ### Project Scope:
 
