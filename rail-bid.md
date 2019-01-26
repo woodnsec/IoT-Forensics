@@ -60,7 +60,7 @@ In this project, take an all-inclusive look into the train's on-board systems, t
 
 * (high level overview of team structure)
 * (short bio and overview of qualifications for EH member)
-* (short bio and overview of qualifications for AL team member)
+* Ashley Leedom is an undergrad student pursuing a B.S. in Cybersecurity with a minor in Computer Science.  She has worked as an intern in Union Pacific's Authentication and Authorization team where she maintained the security of critical infrastructure and developed secure web applications.  Relevant skills include proficiency in several programming languages and reverse-engineering applications, familiarity with railroad infrastructure, and a passion for large-scale research projects.  
 * Amber Makovicka is a graduate student majoring in Cybersecurity. She has interned at different organizations, including the US Army Corps of Engineers. Her background pertains to vulnerability analysis, system administration, and networking configuration and documentation. In addition, she has proficient communication and people skills. 
 * (short bio and overview of qualifications for RR team member)
 * (short bio and overview of qualifications for NW team member)
