@@ -62,6 +62,6 @@ This Capstone team consists of three graduate and two undergraduate students tha
 * (short bio and overview of qualifications for EH member)
 * Ashley Leedom is an undergraduate student pursuing a B.S. in Cybersecurity with a minor in Computer Science.  She has worked as an intern in Union Pacific's Authentication and Authorization team where she maintained the security of critical infrastructure and developed secure web applications.  Relevant skills include proficiency in several programming languages and reverse-engineering applications, familiarity with railroad infrastructure, and a passion for large-scale research projects.  
 * Amber Makovicka is a graduate student majoring in Cybersecurity. She has interned at different organizations, including the US Army Corps of Engineers. Her background pertains to vulnerability analysis, system administration, and networking configuration and documentation. In addition, she has proficient communication and people skills. 
-* (short bio and overview of qualifications for RR team member)
+* Ronald Ramirez is a graduate student at UNO who is majoring in Cybersecurity with a minor in Computer Science. He currently works as an Information Security intern who has experience digital forensics, vulnerabilitiy analysis, and python web automation. Relevant strengths include experience in web penetration and system access control
 * (short bio and overview of qualifications for NW team member)
 
