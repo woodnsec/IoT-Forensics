@@ -1,6 +1,4 @@
 # Bid for Internet of Things (IoT) Forensics
-## Insure Group 1
-
 
 ### Names:
 * Elisabeth Henderson
