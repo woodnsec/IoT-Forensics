@@ -31,12 +31,18 @@ John Springer
 
 ### Reason for wanting this project:
 
-Incoming.
+Since the installation of the First Transcontinental Railroad, U.S. railroads have served as a linchpin of the economy that impacts nearly every American industry.  In 2017, railroads generated over $200 billion in revenue, accounted for around 1/3 of U.S. exports, and supported nearly 1.1 million jobs.  From energy and raw materials to agricultural and food products, nearly every cornerstone of American business is supported by our nation's railway systems (cite). Without railroads, our access to fresh food, clean water, and affordable electricity would be compromised. If someone were to cripple our railroad systems, the fallout would be catastrophic. Our team recognizes the crucial role our railways play in maintaining critical U.S. infrastructure. Our previous experience working with railways, maintaining large networks, and detecting vulnerabilities in complex systems make us uniquely qualified to handle this project. 
 
+Considering the ubiquitous nature of the railway, we are excited to have an in-depth look at the various systems that power our nation’s most essential transportation industry. Analyzing the different subsystems that make up a train’s on-board systems and seeing how they interact would be enlightening. Modern train systems are designed to operate efficiently in the digital age. However, that leaves them vulnerable to digital attacks. We want to investigate what attacks are possible and what the short term and long term effects might be. For example, if someone disabled the braking system of a single train, how quickly would that be discovered, how long would it take to fix, and what effects, if any, would it have on the system’s ability to ensure freight reaches its destination in a timely manner. This is just one small example. We are curious to explore the topic and delve deep into the U.S. rail systems to uncover just how vulnerable they are.
 
 ### Project Scope:
 
-Incoming.
+In train and railway systems, security, integrity, and availability are the highest priorities. A single compromised system could have consequences as minor as delaying freight, or as major as shutting down multiple tracks. Due to individual system significance, we plan to analyze each subsystem from the position of a security/network analyst or ethical hacker that’s looking for points of entry into the system. With such a large network of interconnected components, it would be imperative for us to analyze the individual components and ensure communications between them are secure.
+
+In addition to discovering system vulnerabilities, we want to investigate the criticality, effects, and ease of discovery/exploitation. Vulnerabilities that are unlikely to be found and exploited may rank low in priority but should still be monitored. Likewise high risk or obvious vulnerabilities may require immediate action. If selected for this project, our primary objectives would be to learn more about the rail system, the critical vulnerabilities, and their potential ramifications. 
+
+
+"The Economic Impact of America's Freight Railroads." AAR.org, Association of American Railroads, Nov. 2018.
 
 ### Qualifications:
 
