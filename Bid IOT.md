@@ -36,32 +36,10 @@ Living in the world of technology, the Internet of Things (IoT) is becoming the 
 Our group has previously had exposure to this field through a forensics course at our university. The course was based upon the traditional techniques of digital forensics. The experience from this class gives us the ability in to examine different types of digital devices that include the IoT because of the similarities that go hand and hand with the traditional aspects. We’d also like to point out that IoT devices have negative effects that are important to acknowledge. The Open Web Application Security Project, known as OWASP, has highlighted ten different vulnerabilities such as poor physical security and insecure software/firmware about the Internet of Things.<sup>2</sup> We’d like to continue our knowledge from our previous experiences by examining this subject and overall help contribute to the field of IoT forensics. 
 
 ### Project Scope:
-
-(2-3 paragraphs about what the project work will entail and what outcomes are to be expected. This should be a sort of “executive summary” that overviews what the initial plans are for the team)
-
-
-
-*Brief Notes [still working on this -ronald]
-
-Goal: Compare both traditional/classical forensics to IoT stuff
-  - research any similarities (i'm sure similarities from IoT devices go hand and hand with your typical/classical   
-    forensics since some of these devices are usually connected to a network or some sort of central hub
-    stuff we would look at/report on:
-  - mainly research IoT devices and see any previous work done by others if any on this matter
-  - continue to compare it to the typical/classical forensics 
   
-As we see an increase in IoT devices throughout the upcoming years, it’s important that government agencies and public organizations have a framework to reference. ~~In this project we hope to accomplish this by providing~~ We will provide an analysis of current work in the forensics field, specifically related to IOT devices and create a framework based upon this. 
+As we see an increase in IoT devices throughout the upcoming years, it’s important that government agencies and public organizations have a framework to reference. We will provide an analysis of current work in the forensics field, specifically related to IOT devices and create a framework based upon this. 
 
 The framework will be based upon traditional forensics in the computer field, but will take special considerations for IOT devices. We will survey recent history of events related to IOT devices to help construct our IOT specific framework. Additionally we will conduct our own analysis of IOT devices to provide hands on experience to our framework. 
-
-~~Our group will be evaluating traditional forensics, such as the typical computer imaging and eDiscovery process, and we will be determining the similarities and differences between information we find for IoT. We would like to incorporate any findings from real world events and how IoT devices were used in investigations. Lastly, if the time permits, we would also like to conduct live tests on any IoT devices we can get a hold of and see what information we can extract.~~
-
-
-(i think we should also include a sentence or something about vulnerabilities that are out there as well ??)
--maybe add something about giving a attacker's point of view/ attacker/pentester view of IoT forensics, could be a different approach we take? //nate - I think a pentester approach is one way to do it but would provide too large of a scope for the semester, so either the framework and behavior analysis or a behavior analysis and pentest would be paired well. 
-- .... 
-
-
 
 ### Qualifications:
 
