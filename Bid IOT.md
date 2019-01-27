@@ -39,9 +39,11 @@ Our group has previously had exposure to this field through a forensics course a
 
 links: 
 
-<sup>1</sup> https://www.zdnet.com/article/iot-devices-will-outnumber-the-worlds-population-this-year-for-the-first-time/
+<sup>1</sup> Tung, Liam. “​IoT Devices Will Outnumber the World's Population This Year for the First Time.” ZDNet, ZDNet, 13 Feb. 2017. 
+www.zdnet.com/article/iot-devices-will-outnumber-the-worlds-population-this-year-for-the-first-time/.
 
-<sup>2 </sup> https://www.owasp.org/index.php/Top_IoT_Vulnerabilities
+<sup>2 </sup> “Top IoT Vulnerabilities.” The OWASP Foundation, OWASP, 18 May 2016.
+www.owasp.org/index.php/Top_IoT_Vulnerabilities.
 
 ### Project Scope:
 
