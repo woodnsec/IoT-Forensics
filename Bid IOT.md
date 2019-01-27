@@ -50,7 +50,5 @@ The framework will be based upon traditional forensics in the computer field but
 * Nate Wood is a graduate student majoring in Cybersecurity. He is currently working as a Security Analyst at an international company. He has experience with vulnerability analysis, penetration testing, network analysis, and scripting in Python. He has both the Certified Penetration Tester (CPT), and GIAC Certified Incident Handler (GCIH) certifications. In his spare time he works in his homelab with network segmentation and virtualization of servers and infrastructure. 
 
 <sup>1</sup> Tung, Liam. “​IoT Devices Will Outnumber the World's Population This Year for the First Time.” ZDNet, ZDNet, 13 Feb. 2017. 
-www.zdnet.com/article/iot-devices-will-outnumber-the-worlds-population-this-year-for-the-first-time/.
 
 <sup>2 </sup> “Top IoT Vulnerabilities.” The OWASP Foundation, OWASP, 18 May 2016.
-www.owasp.org/index.php/Top_IoT_Vulnerabilities.
