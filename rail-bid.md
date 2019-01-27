@@ -39,7 +39,7 @@ Considering the ubiquitous nature of the railway, we are excited to have an in-d
 
 In train and railway systems, security, integrity, and availability are the highest priorities. A single compromised system could have consequences as minor as delaying freight, or as major as shutting down multiple tracks. Due to individual system significance, we plan to analyze each subsystem from the position of a security/network analyst or ethical hacker that’s looking for points of entry into the system. With such a large network of interconnected components, it would be imperative for us to analyze the individual components and ensure communications between them are secure.
 
-In addition to discovering system vulnerabilities, we want to investigate the criticality, effects, and ease of discovery/exploitation. Vulnerabilities that are unlikely to be found and exploited may rank low in priority but should still be monitored. Likewise high risk or obvious vulnerabilities may require immediate action. If selected for this project, our primary objectives would be to learn more about the rail system, the critical vulnerabilities, and their potential ramifications. 
+In addition to discovering system vulnerabilities, we want to investigate the criticality, effects, and ease of discovery/exploitation. Vulnerabilities that are unlikely to be found and exploited may rank low in priority but should still be monitored. Likewise, high risk or obvious vulnerabilities may require immediate action. If selected for this project, our primary objectives would be to learn more about the rail system, the critical vulnerabilities, and their potential ramifications. 
 
 
 
