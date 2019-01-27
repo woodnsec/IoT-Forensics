@@ -21,7 +21,7 @@ University of Nebraska-Omaha
 Dr. Matt Hale
 
 ### Project:
-IOT Forensics
+Internet of Things (IoT) Forensics
 
 ### Project Agency (optional):
 National Security Agency
