@@ -31,17 +31,17 @@ Albert Holt
 
 ### Reason for wanting this project:
 
-Living in the world of technology, the Internet of Things (IoT) is becoming the more and more popular. Gartner, a global research company, predicts that by 2020, there will be 20.4 billion IoT devices deployed. (source 1)  The idea of IoT brings many new abilities for a user aiming to improve or making a task easier through a certain device. From internet connected wearable watches for fitness tracking, to home security systems. The rise of IoT devices are having a huge effect in the field of forensics. IoT devices brings a new source of data collection that could be beneficial to an investigator in solving a case.
+Living in the world of technology, the Internet of Things (IoT) is becoming the more and more popular. Gartner, a global research company, predicts that by 2020, there will be 20.4 billion IoT devices deployed. <sup>1</sup>  The idea of IoT brings many new abilities for a user aiming to improve or making a task easier through a certain device. From internet connected wearable watches for fitness tracking, to home security systems. The rise of IoT devices are having a huge effect in the field of forensics. IoT devices brings a new source of data collection that could be beneficial to an investigator in solving a case.
 
-Our group has previously had exposure to this field through a forensics course at our university. The course was based upon the traditional techniques of digital forensics. The experience from this class gives us the ability in to examine different types of digital devices that include the IoT because of the similarities that go hand and hand with the traditional aspects. We’d also like to point out that IoT devices have negative effects that are important to acknowledge. The Open Web Application Security Project, known as OWASP, has highlighted ten different vulnerabilities such as poor physical security and insecure software/firmware about the Internet of Things. (source 2) We’d like to continue our knowledge from our previous experiences by examining this subject and overall help contribute to the field of IoT forensics. 
+Our group has previously had exposure to this field through a forensics course at our university. The course was based upon the traditional techniques of digital forensics. The experience from this class gives us the ability in to examine different types of digital devices that include the IoT because of the similarities that go hand and hand with the traditional aspects. We’d also like to point out that IoT devices have negative effects that are important to acknowledge. The Open Web Application Security Project, known as OWASP, has highlighted ten different vulnerabilities such as poor physical security and insecure software/firmware about the Internet of Things.<sup>2</sup> We’d like to continue our knowledge from our previous experiences by examining this subject and overall help contribute to the field of IoT forensics. 
 
 (till thinking of more ideas ... ) 
 
 links: 
 
-https://www.zdnet.com/article/iot-devices-will-outnumber-the-worlds-population-this-year-for-the-first-time/
+<sup>1</sup> https://www.zdnet.com/article/iot-devices-will-outnumber-the-worlds-population-this-year-for-the-first-time/
 
-https://www.owasp.org/index.php/Top_IoT_Vulnerabilities
+<sup>2 </sup> https://www.owasp.org/index.php/Top_IoT_Vulnerabilities
 
 ### Project Scope:
 
