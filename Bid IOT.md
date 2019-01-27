@@ -37,9 +37,9 @@ Our group has previously had exposure to this field through a forensics course a
 
 ### Project Scope:
   
-As we see an increase in IoT devices throughout the upcoming years, it’s important that government agencies and public organizations have a framework to reference. We will provide an analysis of current work in the forensics field, specifically related to IOT devices and create a framework based upon this. 
+As we see an increase in IoT devices throughout the upcoming years, it’s important that government agencies and public organizations have a framework to reference. We will provide an analysis of current work in the forensics field, specifically related to IoT devices and create a framework based upon this. 
 
-The framework will be based upon traditional forensics in the computer field, but will take special considerations for IOT devices. We will survey recent history of events related to IOT devices to help construct our IOT specific framework. Additionally we will conduct our own analysis of IOT devices to provide hands on experience to our framework. 
+The framework will be based upon traditional forensics in the computer field, but will take special considerations for IoT devices. We will survey recent history of events related to IOT devices to help construct our IoT specific framework. Additionally we will conduct our own analysis of IoT devices to provide hands on experience to our framework. 
 
 ### Qualifications:
 
