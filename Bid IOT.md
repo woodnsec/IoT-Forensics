@@ -64,6 +64,9 @@ Our group will be evaluating traditional forensics, such as the typical computer
 
 
 (i think we should also include a sentence or something about vulnerabilities that are out there as well ??)
+-maybe add something about giving a attacker's point of view/ attacker/pentester view of IoT forensics, could be a different approach we take? 
+- .... 
+
 
 
 ### Qualifications:
