@@ -52,7 +52,9 @@ Goal: Compare both traditional/classical forensics to IoT stuff
   
 As we see an increase in IoT devices throughout the next upcoming years, it’s important that government agencies and different organizations have a framework to reference. In this project we hope to accomplish this by providing an analysis on the current work done by others. We will be creating our own framework from the work we will be referencing to help the field of forensics have more examples to work from (may want to reword this -ronald ). 
 
-Our group will be evaluating traditional forensics, such as the typical computer imaging and eDiscovery process, and we will be determining the similarities and differences between information we find for IoT. Also, we would like to incorporate any findings from real world events and how IoT devices were used in investigations. From our research we 
+Our group will be evaluating traditional forensics, such as the typical computer imaging and eDiscovery process, and we will be determining the similarities and differences between information we find for IoT. We would like to incorporate any findings from real world events and how IoT devices were used in investigations. Lastly, if the time permits, we would also like to conduct live tests on any IoT devices we can get a hold of and see what information we can extract.
+
+(i think we should also include a sentence or something about vulnerabilities that are out there as well ??)
 
 
 ### Qualifications:
