@@ -37,9 +37,9 @@ Our group has previously had exposure to this field through a forensics course a
 
 ### Project Scope:
   
-As we see an increase in IoT devices throughout the upcoming years, it’s important that government agencies and public organizations have a framework to reference. There are current organizations such as the National Institute of Standards and Technology (NIST) and the International Organization for Standardization (ISO) which provide documentation which are known best practices, geared toward guiding forensic investigations down an ethical path. We will provide an analysis of current work in the forensics field, specifically related to IoT devices and create a framework based upon this. 
+As we see an increase in IoT devices throughout the upcoming years, it’s important that government agencies and public organizations have a framework to reference. Organizations such as the National Institute of Standards and Technology (NIST) and the International Organization for Standardization (ISO) provide documentation for best practices, which help standardize the forensics industry. These documents will help to guide our research and outline the framework. 
 
-The framework will be based upon traditional forensics in the computer field but will take special considerations for IoT devices. We will survey recent history of events related to IoT devices to help construct our IoT specific framework. Additionally, we will conduct our own analysis of IoT devices to provide hands on experience to our framework. Thus, our goal will be to provide a review and analysis on the work done in this field and help share our ideas as we continue to learn more about the world of the Internet of Things. 
+The framework will be based upon traditional forensics in the computer field but will take special considerations for IoT devices. We will survey recent history of events related to IoT devices to help construct our IoT specific framework. Additionally, we will conduct our own analysis of IoT devices to provide hands on experience to our framework. Thus, our goal will be to provide a review and analysis on the work done in this field and help share our ideas as we continue to learn more about the Internet of Things. 
 
 ### Qualifications:
 
