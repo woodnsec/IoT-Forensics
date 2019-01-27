@@ -31,9 +31,17 @@ Albert Holt
 
 ### Reason for wanting this project:
 
-Living in the world of technology, the Internet of Things (IoT) is becoming the more and more popular. The idea of IoT brings a lot of new abilities to a user in hopes of improving or making a task easier through a certain device. From internet connected TV’s to internet connected home security systems. [One team member uses several IOT devices in their home such as Philips Hue Smart Home Lighting, Google Home, and a SmartThings Hub] Every year more devices are added to the Internet of Things, each with their own security concerns and digital artifacts. Understanding IOT devices' behavior and artifacts will allow us to help increase their security and how to examine them forensically. 
+Living in the world of technology, the Internet of Things (IoT) is becoming the more and more popular. Gartner, a global research company, predicts that by 2020, there will be 20.4 billion IoT devices deployed. (source 1)  The idea of IoT brings many new abilities for a user aiming to improve or making a task easier through a certain device. From internet connected wearable watches for fitness tracking, to home security systems. The rise of IoT devices are having a huge effect in the field of forensics. IoT devices brings a new source of data collection that could be beneficial to an investigator in solving a case.
 
-We selected this project because of our collective experience with the forensics course at UNO.  The course is based upon classical techniques and embraces new technology from enterprise and open source tools. Our experience in the class has given us the foundation to examine different types of IOT devices available. Choosing this project will allow us to expand our knowledge and contribute to the forensics field. 
+Our group has previously had exposure to this field through a forensics course at our university. The course was based upon the traditional techniques of digital forensics. The experience from this class gives us the ability in to examine different types of digital devices that include the IoT because of the similarities that go hand and hand with the traditional aspects. We’d also like to point out that IoT devices have negative effects that are important to acknowledge. The Open Web Application Security Project, known as OWASP, has highlighted ten different vulnerabilities such as poor physical security and insecure software/firmware about the Internet of Things. (source 2) We’d like to continue our knowledge from our previous experiences by examining this subject and overall help contribute to the field of IoT forensics. 
+
+(till thinking of more ideas ... ) 
+
+links: 
+
+https://www.zdnet.com/article/iot-devices-will-outnumber-the-worlds-population-this-year-for-the-first-time/
+
+https://www.owasp.org/index.php/Top_IoT_Vulnerabilities
 
 ### Project Scope:
 
@@ -50,9 +58,10 @@ Goal: Compare both traditional/classical forensics to IoT stuff
   - mainly research IoT devices and see any previous work done by others if any on this matter
   - continue to compare it to the typical/classical forensics 
   
-As we see an increase in IoT devices throughout the next upcoming years, it’s important that government agencies and different organizations have a framework to reference. In this project we hope to accomplish this by providing an analysis on the current work done by others. We will be creating our own framework from the work we will be referencing to help the field of forensics have more examples to work from (may want to reword this -ronald ). 
+As we see an increase in IoT devices throughout the next upcoming years, it’s important that government agencies and different organizations have a framework to reference. In this project we hope to accomplish this by providing an analysis on the current work done by others. We will be creating our own framework from the work we will be referencing to help the field of forensics have more examples to work from … (may want to reword this -ronald ).
 
 Our group will be evaluating traditional forensics, such as the typical computer imaging and eDiscovery process, and we will be determining the similarities and differences between information we find for IoT. We would like to incorporate any findings from real world events and how IoT devices were used in investigations. Lastly, if the time permits, we would also like to conduct live tests on any IoT devices we can get a hold of and see what information we can extract.
+
 
 (i think we should also include a sentence or something about vulnerabilities that are out there as well ??)
 
