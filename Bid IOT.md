@@ -54,7 +54,7 @@ stuff we would look at/report on:
 
 ### Qualifications:
 
-* Elisabeth 
+* Elisabeth Henderson is an undergraduate majoring in Cybersecurity and minoring in Computer Science. She is working in conjunction with the Cybersecurity Department Director to create a specialized assembly language programming competition. In addition she also works as a tutor for computer science classes. She has experience in classical forensics and reverse engineering.
 * Ashley Leedom is an undergraduate student pursuing a B.S. in Cybersecurity with a minor in Computer Science.  She has worked as an intern in Union Pacific's Authentication and Authorization team where she developed secure web applications and analyzed network peripherals for vulnerabilities.  Relevant skills include proficiency in several programming languages and reverse-engineering applications, familiarity with network forensics, and the ability to work cohesively in a team.   
 * Amber Makovicka is a graduate student majoring in Cybersecurity. She has interned at different organizations, including the US Army Corps of Engineers. Her background pertains to vulnerability analysis, system administration, and networking configuration and documentation. In addition, she has proficient communication and people skills. 
 * Ronald Ramirez is a graduate student at UNO who is majoring in Cybersecurity with a minor in Computer Science. He currently works as an Information Security intern who has experience digital forensics, vulnerabilitiy analysis, and python web automation. Relevant strengths include network and classical computer forensics. 
