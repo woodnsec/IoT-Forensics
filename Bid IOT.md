@@ -35,16 +35,6 @@ Living in the world of technology, the Internet of Things (IoT) is becoming the 
 
 Our group has previously had exposure to this field through a forensics course at our university. The course was based upon the traditional techniques of digital forensics. The experience from this class gives us the ability in to examine different types of digital devices that include the IoT because of the similarities that go hand and hand with the traditional aspects. We’d also like to point out that IoT devices have negative effects that are important to acknowledge. The Open Web Application Security Project, known as OWASP, has highlighted ten different vulnerabilities such as poor physical security and insecure software/firmware about the Internet of Things.<sup>2</sup> We’d like to continue our knowledge from our previous experiences by examining this subject and overall help contribute to the field of IoT forensics. 
 
-(till thinking of more ideas ... ) 
-
-links: 
-
-<sup>1</sup> Tung, Liam. “​IoT Devices Will Outnumber the World's Population This Year for the First Time.” ZDNet, ZDNet, 13 Feb. 2017. 
-www.zdnet.com/article/iot-devices-will-outnumber-the-worlds-population-this-year-for-the-first-time/.
-
-<sup>2 </sup> “Top IoT Vulnerabilities.” The OWASP Foundation, OWASP, 18 May 2016.
-www.owasp.org/index.php/Top_IoT_Vulnerabilities.
-
 ### Project Scope:
 
 (2-3 paragraphs about what the project work will entail and what outcomes are to be expected. This should be a sort of “executive summary” that overviews what the initial plans are for the team)
@@ -80,3 +70,9 @@ The framework will be based upon traditional forensics in the computer field, bu
 * Amber Makovicka is a graduate student majoring in Cybersecurity. She has interned at different organizations, including the US Army Corps of Engineers. Her background pertains to vulnerability analysis, system administration, and networking configuration and documentation. In addition, she has proficient communication and people skills. 
 * Ronald Ramirez is a graduate student majoring in Cybersecurity with a minor in Computer Science. He currently works as an Information Security intern who has experience digital forensics, vulnerability analysis, and python web automation. Relevant strengths include network and classical computer forensics. 
 * Nate Wood is a graduate student majoring in Cybersecurity. He is currently working as a Security Analyst at an international company. He has experience with vulnerability analysis, penetration testing, network analysis, and scripting in Python. He has both the Certified Penetration Tester (CPT), and GIAC Certified Incident Handler (GCIH) certifications. In his spare time he works in his homelab with network segmentation and virtualization of servers and infrastructure. 
+
+<sup>1</sup> Tung, Liam. “​IoT Devices Will Outnumber the World's Population This Year for the First Time.” ZDNet, ZDNet, 13 Feb. 2017. 
+www.zdnet.com/article/iot-devices-will-outnumber-the-worlds-population-this-year-for-the-first-time/.
+
+<sup>2 </sup> “Top IoT Vulnerabilities.” The OWASP Foundation, OWASP, 18 May 2016.
+www.owasp.org/index.php/Top_IoT_Vulnerabilities.
