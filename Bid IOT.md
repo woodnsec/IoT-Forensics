@@ -60,13 +60,15 @@ Goal: Compare both traditional/classical forensics to IoT stuff
   - mainly research IoT devices and see any previous work done by others if any on this matter
   - continue to compare it to the typical/classical forensics 
   
-As we see an increase in IoT devices throughout the next upcoming years, it’s important that government agencies and different organizations have a framework to reference. In this project we hope to accomplish this by providing an analysis on the current work done by others. We will be creating our own framework from the work we will be referencing to help the field of forensics have more examples to work from … (may want to reword this -ronald ).
+As we see an increase in IoT devices throughout the upcoming years, it’s important that government agencies and public organizations have a framework to reference. ~~In this project we hope to accomplish this by providing~~ We will provide an analysis of current work in the forensics field, specifically related to IOT devices and create a framework based upon this. 
 
-Our group will be evaluating traditional forensics, such as the typical computer imaging and eDiscovery process, and we will be determining the similarities and differences between information we find for IoT. We would like to incorporate any findings from real world events and how IoT devices were used in investigations. Lastly, if the time permits, we would also like to conduct live tests on any IoT devices we can get a hold of and see what information we can extract.
+The framework will be based upon traditional forensics in the computer field, but will take special considerations for IOT devices. We will survey recent history of events related to IOT devices to help construct our IOT specific framework. Additionally we will conduct our own analysis of IOT devices to provide hands on experience to our framework. 
+
+~~Our group will be evaluating traditional forensics, such as the typical computer imaging and eDiscovery process, and we will be determining the similarities and differences between information we find for IoT. We would like to incorporate any findings from real world events and how IoT devices were used in investigations. Lastly, if the time permits, we would also like to conduct live tests on any IoT devices we can get a hold of and see what information we can extract.~~
 
 
 (i think we should also include a sentence or something about vulnerabilities that are out there as well ??)
--maybe add something about giving a attacker's point of view/ attacker/pentester view of IoT forensics, could be a different approach we take? 
+-maybe add something about giving a attacker's point of view/ attacker/pentester view of IoT forensics, could be a different approach we take? //nate - I think a pentester approach is one way to do it but would provide too large of a scope for the semester, so either the framework and behavior analysis or a behavior analysis and pentest would be paired well. 
 - .... 
 
 
