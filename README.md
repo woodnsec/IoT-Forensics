@@ -1,12 +1,13 @@
-# Capstone 19 ReadME-FILE
-Insure Group 1 Capstone 19
+# Internet of Things (IoT) Forensics Executive Summary 
+
+###### Insure Group 1 Capstone 2019 
 
 - [Executive Project Summary](#executive-project-summary)
 - [Proposed project timeline](#proposed-project-timeline)
-- [Project-oriented risk list](#risk-list) - What could go wrong in the project and why?
-- [Project Methodology](#project-methodology) - What has been done in the literature and what is your technical plan?
-- [Resources/Technology needed](#resources-needed) - What do you need to be successful?
-- [First Sprint Plan](#first-sprint-plan) - Create the first plan on GitHub Kanban
+- [Project-oriented risk list](#risk-list) 
+- [Project Methodology](#project-methodology)
+- [Resources/Technology needed](#resources-needed) 
+- [First Sprint Plan](#first-sprint-plan) 
 
 ## Summary and Merit of Project
 1. A problem statement identifying relevant issues related to your bid. The problem statement might also discuss why these issues are a problematic for society, a particular industry/sector/company/agency, or a specific technology(ies).
