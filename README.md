@@ -14,6 +14,7 @@ Insure Group 1 Capstone 19
 1. The merit of accomplishing the project goals and objectives in terms of how it helps end users, society, or particular industries/sectors/companies/agencies.
 
 ### Goals and objectives
+
 *Research differences/similarities of traditional forensics, in comparison to IOT
 *
 *
@@ -29,6 +30,7 @@ As you will probably discover, there are many things that can go wrong when work
 |Risk name  | Impact     | Likelihood | Description |
 |-----------|------------|------------|-------------|
 |Some risk (40) | 8 | 5 | Some description  |
+
 
 *Maybe not enough information since IOT kinda new and there is a variety of IOT devices now in days?
 
