@@ -16,9 +16,9 @@
 
 ### Goals and objectives
 
-*Research differences/similarities of traditional forensics, in comparison to IOT
-*
-*
+Ideas :
+  *Research differences/similarities of traditional forensics, in comparison to IOT
+
 
 ## Proposed Project Timeline
 
@@ -32,8 +32,8 @@ As you will probably discover, there are many things that can go wrong when work
 |-----------|------------|------------|-------------|
 |Some risk (40) | 8 | 5 | Some description  |
 
-
-*Maybe not enough information since IOT kinda new and there is a variety of IOT devices now in days?
+Ideas:
+  *Maybe not enough information since IOT kinda new and there is a variety of IOT devices now in days?
 
 ## Project Methodology
 Methodology is extremely important for conducting a successful project. While I am always a fan of "winging it" when it comes to day-to-day life - winging it is not an option for being successful on a team. Hence, in this class you will be required to develop a technical plan (AKA `Methodology`) to succeed. Your methodology should be grounded in scientific method and best practice. It should be based on the literature in the area you are working on and should use well-tested methods when possible.
