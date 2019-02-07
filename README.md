@@ -18,7 +18,7 @@
 
 Ideas :
 
-*Research differences/similarities of traditional forensics, in comparison to IOT
+*Research differences/similarities of traditional forensics, in comparison to IoT
 
 
 ## Proposed Project Timeline
