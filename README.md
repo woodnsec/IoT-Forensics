@@ -14,6 +14,14 @@
 1. Project goals and objectives in a numbered or bulleted list that you propose to undertake to address the identified problem. Clearly identify what you are doing at a high level with minimal technical detail.
 1. The merit of accomplishing the project goals and objectives in terms of how it helps end users, society, or particular industries/sectors/companies/agencies.
 
+ideas:
+- Research traditional and IoT forensics
+- Differences and stuff
+- Issues with IoT forensics
+- Concerns with IoT forensics
+- Hands on experimentation 
+- Any devices we can get access to
+
 ### Goals and objectives
 
 Ideas :
@@ -34,8 +42,16 @@ As you will probably discover, there are many things that can go wrong when work
 |Some risk (40) | 8 | 5 | Some description  |
 
 Ideas:
+- Maybe not enough information since IOT kinda new and there is a variety of IOT devices now in days?
+- Can't get access to tech
+- Can't access applications used for digital forensics
+- Unexpected events that delay progress in project
+- Loss of data
+- Not a lot of research in the field
+- Lack of resources (challenge more than risk)
+- Two programs for digital forensics (hard to get access to those)
+- No funds 
 
-*Maybe not enough information since IOT kinda new and there is a variety of IOT devices now in days?
 
 ## Project Methodology
 Methodology is extremely important for conducting a successful project. While I am always a fan of "winging it" when it comes to day-to-day life - winging it is not an option for being successful on a team. Hence, in this class you will be required to develop a technical plan (AKA `Methodology`) to succeed. Your methodology should be grounded in scientific method and best practice. It should be based on the literature in the area you are working on and should use well-tested methods when possible.
@@ -58,6 +74,17 @@ Under your requirements section in the README.md file in your GitHub repo, clear
 |-------------------|---------|---------------------------|-------------|
 |Some resource| No | Bob | Some description  |
 |e.g. PLC unit | Yes | Gary | A programmable logic controller from Siemens for investigation.|
+
+ideas:
+- FTK (or other forensic toolkit)
+- Maybe access to steal computers
+- IoT Devices (amber is providing all the cool stuff and maybe Nate)
+- Alexa
+- Amber's car?
+- Metawear 
+- Garmin 
+- Research papers
+
 
 ## First Sprint Plan
 This milestone represents the first step forward in your capstone project. As part of that effort, you need to plan your first real sprint.
