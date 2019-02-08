@@ -14,6 +14,18 @@
 1. Project goals and objectives in a numbered or bulleted list that you propose to undertake to address the identified problem. Clearly identify what you are doing at a high level with minimal technical detail.
 1. The merit of accomplishing the project goals and objectives in terms of how it helps end users, society, or particular industries/sectors/companies/agencies.
 
+
+Goals:
+- Research
+- Rec. IoT Forensics standard
+- Hands on testing to support rec.
+- All this first part becomes our methodology
+
+Merit:
+- ubiquity of IoT devices
+- IoT is infecting critical industrial sectors
+- Having a standard for IoT forensics investigations could improve the quality and integrity of data gleaned during criminal investigations
+
 ideas:
 - Research traditional and IoT forensics
 - Research the prevalence of IoT devices in industry and education
@@ -40,16 +52,16 @@ As you will probably discover, there are many things that can go wrong when work
 
 Scale: 1 - 10, 10 being the most impactful / likely 
 
-|Risk name  | Impact     | Likelihood | Description |
-|-----------|------------|------------|-------------|
-| Underdeveloped IoT forensics standard (30) | 10 | 3 | IoT forensics is an emerging field, so it may be difficult to find a formally-recognized, tested IoT forensics standard. |
+|Risk name  | Impact     | Likelihood | Description | Mitigation |
+|-----------|------------|------------|-------------|------------|
+| Underdeveloped IoT forensics standard (30) | 10 | 3 | IoT forensics is an emerging field, so it may be difficult to find a formally-recognized, tested IoT forensics standard. | 
 | Limited access to forensic applications (21) | 7 | 3 | Access to industry-approved forensic toolkits may be limited due to inadequate funding. |
 | Loss of data (32) | 8 | 4 | Loss of data due to corruption or other unfortunate events. |
 | No formal funding (30) | 3 | 10 | No grant funding for applications or devices. All expenses will be out of pocket. | 
 | Lack of device documentation (20) | 5 | 4 | IoT devices may not have comprehensive documentation available for public perusal. | 
 
 Ideas:
-- Maybe not enough information since IOT kinda new and there is a variety of IOT devices now in days?
+- Maybe not enough information since IOT kinda new and there is a variety of IOT devices nowadays?
 - Can't get access to tech
 - Can't access applications used for digital forensics
 - Unexpected events that delay progress in project
@@ -83,16 +95,6 @@ Under your requirements section in the README.md file in your GitHub repo, clear
 | Kali Linux | No | Ronald Ramirez | Research penetration testing tools in a Kali environment that would aid in an IoT forensics investigation. | 
 | IoT Devices | No | Nate Wood and Amber Makovicka | Relevant devices include wearables, Google Home, Philip Hue lightbulbs (potential), and Arduino. | 
 | Device & Toolkit Documentation | Yes | Ashley Leedom | Gather available documentation for IoT devices and forensic toolkits. | 
-
-ideas:
-- FTK (or other forensic toolkit)
-- Maybe access to steal computers
-- IoT Devices (amber is providing all the cool stuff and maybe Nate)
-- Alexa
-- Amber's car?
-- Metawear 
-- Garmin 
-- Research papers
 
 
 ## First Sprint Plan
