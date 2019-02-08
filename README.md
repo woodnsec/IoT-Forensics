@@ -16,6 +16,7 @@
 
 ideas:
 - Research traditional and IoT forensics
+- Research the prevalence of IoT devices in industry and education
 - Differences and stuff
 - Issues with IoT forensics
 - Concerns with IoT forensics
@@ -41,12 +42,11 @@ Scale: 1 - 10, 10 being the most impactful / likely
 
 |Risk name  | Impact     | Likelihood | Description |
 |-----------|------------|------------|-------------|
-| Access to IoT devices (35) | 7 | 5 | Cannot get access to technology needed for the project |
-| Underdeveloped IoT forensics standard (30) | 10 | 3 | IoT forensics is a new field so it may be hard to find enough information |
-| Access to forensic applications (21) | 7 | 3 | Cannot get access to forensic applications such as FTK (i.e. funding) |
-| Loss of data (32) | 8 | 4 | Loss of data due to corruption or other unfortunate events |
-| No formal funding (30) | 3 | 10 | No funding for applications or devices | 
-| Unexpected events (20) | 5 | 4 | Any unexpected events that impact project progress | 
+| Underdeveloped IoT forensics standard (30) | 10 | 3 | IoT forensics is an emerging field, so it may be difficult to find a formally-recognized, tested IoT forensics standard. |
+| Limited access to forensic applications (21) | 7 | 3 | Access to industry-approved forensic toolkits may be limited due to inadequate funding. |
+| Loss of data (32) | 8 | 4 | Loss of data due to corruption or other unfortunate events. |
+| No formal funding (30) | 3 | 10 | No grant funding for applications or devices. All expenses will be out of pocket. | 
+| Lack of device documentation (20) | 5 | 4 | IoT devices may not have comprehensive documentation available for public perusal. | 
 
 Ideas:
 - Maybe not enough information since IOT kinda new and there is a variety of IOT devices now in days?
@@ -79,8 +79,10 @@ Under your requirements section in the README.md file in your GitHub repo, clear
 
 |Resource  | Dr. Hale needed? | Investigating Team member | Description |
 |-------------------|---------|---------------------------|-------------|
-|Some resource| No | Bob | Some description  |
-|e.g. PLC unit | Yes | Gary | A programmable logic controller from Siemens for investigation.|
+| FTK | No | Elisabeth Henderson | Confer with Dr. Grispos to gain access to FTK and the Steal labs. |
+| Kali Linux | No | Ronald Ramirez | Research penetration testing tools in a Kali environment that would aid in an IoT forensics investigation. | 
+| IoT Devices | No | Nate Wood and Amber Makovicka | Relevant devices include wearables, Google Home, Philip Hue lightbulbs (potential), and Arduino. | 
+| Device & Toolkit Documentation | Yes | Ashley Leedom | Gather available documentation for IoT devices and forensic toolkits. | 
 
 ideas:
 - FTK (or other forensic toolkit)
