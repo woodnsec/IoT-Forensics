@@ -54,11 +54,11 @@ Scale: 1 - 10, 10 being the most impactful / likely
 
 |Risk name  | Impact     | Likelihood | Description | Mitigation |
 |-----------|------------|------------|-------------|------------|
-| Underdeveloped IoT forensics standard (30) | 10 | 3 | IoT forensics is an emerging field, so it may be difficult to find a formally-recognized, tested IoT forensics standard. | 
-| Limited access to forensic applications (21) | 7 | 3 | Access to industry-approved forensic toolkits may be limited due to inadequate funding. |
-| Loss of data (32) | 8 | 4 | Loss of data due to corruption or other unfortunate events. |
-| No formal funding (30) | 3 | 10 | No grant funding for applications or devices. All expenses will be out of pocket. | 
-| Lack of device documentation (20) | 5 | 4 | IoT devices may not have comprehensive documentation available for public perusal. | 
+| Underdeveloped IoT forensic standard (30) | 10 | 3 | IoT forensics is an emerging field, so it may be difficult to find a formally-recognized, tested IoT forensic standard. | The team could examine developing, informal standards or adapt existing digital forensic methodologies. |
+| Limited access to forensic applications (21) | 7 | 3 | Access to industry-approved forensic toolkits may be limited due to inadequate funding. | The team can access the UNO Steal labs, which have FTK installed. Otherwise, free digital forensic toolkits like SANS SIFT and Autopsy can be procured. |
+| Loss of data (32) | 8 | 4 | During the course of the project, data could be corrupted or otherwise lost. | The team will implement redundant data storage. Data gathered from research and hands-on experimentation will be stored on flashdrives and Google Drive. |
+| No formal funding (30) | 3 | 10 | No grant funding for applications or devices will be provided to the team. All expenses will be out of pocket. | Spending will be minimized wherever possible. IoT devices will be provided by team members and digital investigation tools will be primarily open-source, with the exception of FTK. |
+| Lack of device documentation (20) | 5 | 4 | IoT devices may not have comprehensive documentation available for public perusal. | The team is working primarily with IoT devices and software that are known to have extensive documentation. | 
 
 Ideas:
 - Maybe not enough information since IOT kinda new and there is a variety of IOT devices nowadays?
