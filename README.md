@@ -37,9 +37,16 @@ An important part of project planning is identifying tasks to be completed to ad
 ## Risk list
 As you will probably discover, there are many things that can go wrong when working on a project. Issues with skillsets, technology, team member availability, etc, may arise as the project goes forward. As we discussed in class, there are three options available to deal with project management risks: monitor it (Watch it), mitigate it (do something about it), accept it (give up). For milestone one, you should identify the major sources of risk and what you plan to do about them. Prepare a risk list and rank them by risk level using the standard formula, i.e. `impact x likelihood`, to describe the top 5 risks that might affect your team's ability to pull off the tasks identified in your timeline and dictated by your objectives.
 
+Scale: 1 - 10, 10 being the most impactful / likely 
+
 |Risk name  | Impact     | Likelihood | Description |
 |-----------|------------|------------|-------------|
-|Some risk (40) | 8 | 5 | Some description  |
+| Access to IoT devices (35) | 7 | 5 | Cannot get access to technology needed for the project |
+| Underdeveloped IoT forensics standard (30) | 10 | 3 | IoT forensics is a new field so it may be hard to find enough information |
+| Access to forensic applications (21) | 7 | 3 | Cannot get access to forensic applications such as FTK (i.e. funding) |
+| Loss of data (32) | 8 | 4 | Loss of data due to corruption or other unfortunate events |
+| No formal funding (30) | 3 | 10 | No funding for applications or devices | 
+| Unexpected events (20) | 5 | 4 | Any unexpected events that impact project progress | 
 
 Ideas:
 - Maybe not enough information since IOT kinda new and there is a variety of IOT devices now in days?
