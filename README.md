@@ -80,6 +80,12 @@ Requirements are extremely important for conducting a successful project - of ei
 #### Literature Review
 For milestone 1, you should prepare a literature review document that surveys the various research and development work in your project area. Your literature review should identify important `keywords`, relevant `research papers`, and `the state of the art` in your area.
 
+1. **A Generic Digital Forensic Investigation Framework for Internet of Things (IoT)**  
+**Authors:** Victor R. Kebande and Indrakshi Ray  
+**Date Published:** September 26, 2016  
+**Published In:** 2016 IEEE 4th International Conference on Future Internet of Things (IoT) and Cloud (FiCloud)  
+**Summary:** Kebande and Ray have developed a generic IoT forensic investigation framework that reliably supports digital investigations in IoT-based infrastructures. The framework complies with the ISO/IEC 27043:2015 international standard and provides a promising baseline for IoT forensic investigations.  
+
 
 #### Technical Plan
 Once you have examined the relevant literature, you should prepare a technical plan that outlines and defines your methodology. Important consideration should be made to ensure that your methodology uses the literature to the best extent possible. Your technical plan should provide a detailed description of exactly what and how you will do what you plan to do.
