@@ -1,6 +1,4 @@
-IoT Forensics Challenge
-https://www.dfrws.org/dfrws-forensic-challenge
-
+### Research Papers
 
 Security for IoT Sensor Networks:
 https://www.nccoe.nist.gov/projects/building-blocks/iot-sensor-security
@@ -11,3 +9,15 @@ https://www.nccoe.nist.gov/sites/default/files/library/project-descriptions/iot-
 (incredibly promising) A Generic Digital Forensic Investigation Framework for IOT: https://ieeexplore.ieee.org/abstract/document/7575885
 
 DFRWS-Framework: https://www.dfrws.org/sites/default/files/session-files/paper-an_event-based_digital_forensic_investigation_framework.pdf
+
+### Data Sets
+
+IoT Forensics Challenge
+https://www.dfrws.org/dfrws-forensic-challenge
+
+### Documentation
+currently empty
+
+### Misc. 
+
+Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
