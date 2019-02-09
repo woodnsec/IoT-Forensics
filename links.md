@@ -1,35 +1,35 @@
 ### Research Papers
 
-Security for IoT Sensor Networks:
-https://www.nccoe.nist.gov/projects/building-blocks/iot-sensor-security
+[Security for IoT Sensor Networks: Summary Page](https://www.nccoe.nist.gov/projects/building-blocks/iot-sensor-security)
 
-Security for IoT Sensor Networks:
-https://www.nccoe.nist.gov/sites/default/files/library/project-descriptions/iot-sniot-sensor-network-project-description-draft.pdf
+[Security for IoT Sensor Networks: PDF](https://www.nccoe.nist.gov/sites/default/files/library/project-descriptions/iot-sniot-sensor-network-project-description-draft.pdf)
 
-(incredibly promising) A Generic Digital Forensic Investigation Framework for IOT: https://ieeexplore.ieee.org/abstract/document/7575885
+[A Generic Digital Forensic Investigation Framework for IOT](https://ieeexplore.ieee.org/abstract/document/7575885) (incredibly promising) 
 
-DFRWS-Framework: https://www.dfrws.org/sites/default/files/session-files/paper-an_event-based_digital_forensic_investigation_framework.pdf
+[DFRWS-Framework](https://www.dfrws.org/sites/default/files/session-files/paper-an_event-based_digital_forensic_investigation_framework.pdf)
 
 
-Application-Specific Digital Forensics Investigative Model in Internet of Things (IoT): https://dl.acm.org/citation.cfm?id=3104052
+[Application-Specific Digital Forensics Investigative Model in Internet of Things (IoT)](https://dl.acm.org/citation.cfm?id=3104052)
 
-Internet of Things Mobility Forensics:
-https://www.researchgate.net/publication/309479252_Internet_of_Things_Mobility_Forensics/citations  
+[Internet of Things Mobility Forensics](https://www.researchgate.net/publication/309479252_Internet_of_Things_Mobility_Forensics/citations)  
 
-Internet of Things Forensics: The Need, Process Models, and Open Issues:  
-https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/8378977  
+[Internet of Things Forensics: The Need, Process Models, and Open Issues](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/8378977)  
 
-Forensic analysis for IoT fitness trackers and its application:  
-https://link-springer-com.leo.lib.unomaha.edu/article/10.1007/s12083-018-0708-3  
+[Forensic analysis for IoT fitness trackers and its application](https://link-springer-com.leo.lib.unomaha.edu/article/10.1007/s12083-018-0708-3)  
 
 ### Data Sets
 
-IoT Forensics Challenge
-https://www.dfrws.org/dfrws-forensic-challenge
+[IoT Forensics Challenge](https://www.dfrws.org/dfrws-forensic-challenge)
 
 ### Documentation
-currently empty
+[Phillips Hue API](https://developers.meethue.com/develop/hue-api/) - Note: must have developer account (free) to access this page. 
+
+[Google Assistant Actions API](https://developers.google.com/actions/)
+
+[Google Assistant SDK](https://developers.google.com/assistant/sdk/) 
+
+[Metawear API](https://mbientlab.com/developers/)
 
 ### Misc. 
 
-Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
