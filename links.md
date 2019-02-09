@@ -10,6 +10,8 @@ https://www.nccoe.nist.gov/sites/default/files/library/project-descriptions/iot-
 
 DFRWS-Framework: https://www.dfrws.org/sites/default/files/session-files/paper-an_event-based_digital_forensic_investigation_framework.pdf
 
+
+Application-Specific Digital Forensics Investigative Model in Internet of Things (IoT): https://dl.acm.org/citation.cfm?id=3104052
 ### Data Sets
 
 IoT Forensics Challenge
