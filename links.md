@@ -14,7 +14,13 @@ DFRWS-Framework: https://www.dfrws.org/sites/default/files/session-files/paper-a
 Application-Specific Digital Forensics Investigative Model in Internet of Things (IoT): https://dl.acm.org/citation.cfm?id=3104052
 
 Internet of Things Mobility Forensics:
-https://www.researchgate.net/publication/309479252_Internet_of_Things_Mobility_Forensics/citations
+https://www.researchgate.net/publication/309479252_Internet_of_Things_Mobility_Forensics/citations  
+
+Internet of Things Forensics: The Need, Process Models, and Open Issues:  
+https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/8378977  
+
+Forensic analysis for IoT fitness trackers and its application:  
+https://link-springer-com.leo.lib.unomaha.edu/article/10.1007/s12083-018-0708-3  
 
 ### Data Sets
 
