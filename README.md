@@ -92,6 +92,19 @@ For milestone 1, you should prepare a literature review document that surveys th
 **Published In:** Information Security Research and Education (INSuRE) Conference, 2016  
 **Summary:** K. M. S. Rahman, M. Bishop, and A. Holt examine mobility forensics in the world of IoT. The authors focus on IoT devices in smart homes by conducting research used to create a classification process which can be referenced in other IoT environments.
 
+3. **Internet of Things Forensics: The Need, Process Models, and Open Issues**  
+**Authors:** Maxim Chernyshev, Sherali Zeadally, Zubair Baig, and Andrew Woodward  
+**Date Published:** June 11, 2018  
+**Published in:** IT Professional (Volume: 20, Issue: 3, May/June 2018)  
+**Summary:** Maxim Chernyshev, Sherali Zeadally, Zubair Baig, and Andrew Woodward present a high-level overview of the need for IoT forensics, the current models in the field, and the open issues around IoT devices and forensic evidence acquisition. Process models discussed include Forensic-Aware IoT, Next Best Thing triage model, and the Digital Forensic Investigation Framework for IoT.
+
+4. **Forensic analysis for IoT fitness trackers and its application**  
+**Authors:** Serim Kang, Soram Kim, and Jongsung Kim  
+**Published in:** Peer-to-Peer Networking and Applications  
+**Date Published:** December 22, 2018  
+**Summary:** Serim Kang, Soram Kim, and Jongsung Kim present their findings from studying the forensic data that may be pulled from the wearable devices Xiaomi Mi Band 2 and Fitbit Alta HR, including how forensic investigators can extract and analyze the data. 
+
+
 #### Technical Plan
 Once you have examined the relevant literature, you should prepare a technical plan that outlines and defines your methodology. Important consideration should be made to ensure that your methodology uses the literature to the best extent possible. Your technical plan should provide a detailed description of exactly what and how you will do what you plan to do.
 
