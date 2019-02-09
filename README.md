@@ -86,6 +86,11 @@ For milestone 1, you should prepare a literature review document that surveys th
 **Published In:** 2016 IEEE 4th International Conference on Future Internet of Things (IoT) and Cloud (FiCloud)  
 **Summary:** Kebande and Ray have developed a generic IoT forensic investigation framework that reliably supports digital investigations in IoT-based infrastructures. The framework complies with the ISO/IEC 27043:2015 international standard and provides a promising baseline for IoT forensic investigations.  
 
+2. **Internet of Things Mobility Forensics**
+**Authors:** K M Sabidur Rahman, Matt Bishop, and Albert Holt
+**Date Published:** September 2016
+**Published In:** Information Security Research and Education (INSuRE) Conference, 2016.
+**Summary:** : K. M. S. Rahman, M. Bishop, and A. Holt examine mobility forensics in the world of IoT. The authors focus on IoT devices in smart homes by conducting research used to create a classification process which can be referenced in other IoT environments
 
 #### Technical Plan
 Once you have examined the relevant literature, you should prepare a technical plan that outlines and defines your methodology. Important consideration should be made to ensure that your methodology uses the literature to the best extent possible. Your technical plan should provide a detailed description of exactly what and how you will do what you plan to do.
