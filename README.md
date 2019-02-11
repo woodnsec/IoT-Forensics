@@ -37,9 +37,7 @@ ideas:
 
 ### Goals and objectives
 
-Ideas :
-
-*Research differences/similarities of traditional forensics, in comparison to IoT
+Living in the world of technology, the Internet of Things (IoT) is becoming more and more popular. The rise of IoT devices has shown to bring a new challenge to the field of forensics. Our goal for this project will be to provide a review on the work done and provide hands on testing with devices we own. We will be incorporating any similarities of traditional forensic practices and see how the relate in the world of IoT. 
 
 
 ## Proposed Project Timeline
