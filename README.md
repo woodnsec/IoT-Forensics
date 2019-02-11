@@ -120,14 +120,14 @@ For milestone 1, you should prepare a literature review document that surveys th
 
 1. **Forensic analysis for IoT fitness trackers and its application**  
 **Authors:** Serim Kang, Soram Kim, and Jongsung Kim  
-**Published in:** Peer-to-Peer Networking and Applications  
 **Date Published:** December 22, 2018  
+**Published in:** Peer-to-Peer Networking and Applications  
 **Summary:** Serim Kang, Soram Kim, and Jongsung Kim present their findings from studying the forensic data that may be pulled from the wearable devices Xiaomi Mi Band 2 and Fitbit Alta HR, including how forensic investigators can extract and analyze the data. 
 
 1. **Application-Specific Digital Forensics Investigative Model in Internet of Things (IoT)**  
 **Authors:** Tanveer Zia, Peng Liu, Weili Han
 **Date Published:** Aug-Sep 2017  
-**Published In:** Proceedings of the 12th International Conference on Availability, Reliability and Security Article No. 55
+**Published In:** Proceedings of the 12th International Conference on Availability, Reliability and Security Article No. 55  
 **Summary:** This material evaluates the quickly growing field of IoT devices and the difficulties that arise when trying to find forensic evidence among the devices. It looks at three different IoT device: Smart home (Nest Smart Thermostat), Wearables (VitalPatch), and Smart City (Intelligent Traffic Management System or ITMS of Verizon). It explains the type of data transferred to the relevant devices and difficulties in trying to extract the data. For example, the Smart Home device can communicate between itself, a mobile app, and to a cloud. Material from the Wearables section may apply to the hands-on section of our project. 
 
 1. **Security of IoT Sensor Networks**  
@@ -138,8 +138,8 @@ For milestone 1, you should prepare a literature review document that surveys th
 
 1. **IoT Forensics: Challenges For the IoA Era**  
 **Authors:** Aine MacDermott, Thar Baker, Qi Shi  
-**Date Published:** Feb 26-28 2018
-**Published in:** 2018 9th IFIP International Conference on New Technologies, Mobility and Security (NTMS)<br>
+**Date Published:** Feb 26-28 2018  
+**Published in:** 2018 9th IFIP International Conference on New Technologies, Mobility and Security (NTMS)  
 **Summary:** This paper looks at the different challenges faced when forensically analyzing IoT devices. Challenges include the lack of a forensic framework, potential lack of local storage, processing of large IoT data, among other issues. This research also looks at how Cybercrime and IoT forensics are related. 
 
 
