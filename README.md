@@ -148,6 +148,15 @@ Below are research papers we have gathered and read in preparation of this proje
 #### Technical Plan
 Once you have examined the relevant literature, you should prepare a technical plan that outlines and defines your methodology. Important consideration should be made to ensure that your methodology uses the literature to the best extent possible. Your technical plan should provide a detailed description of exactly what and how you will do what you plan to do.
 
+**Notes on what procedure/technique we may want to include here:**
+- Try and base most of it from scientific method (identify problem(s), research, hypothesis formation, planning experiment, performing experiment, analyzing data (backtrack to hypothesis formation if necessary), make a conclusion, and document results
+- First: Perform research on existing issues when trying to translate digital forensic standards, frameworks, methods, etc. into IoT forensics and identify other irregularities and issues. For major issues related to IoT Forensics, identify what factors inhibit the ability to create standards.
+- Second: Research 1-2 proposed frameworks for IoT forensics and observe other possible solutions. Evaluate if we can test the framework in our environment(s) with our device(s)
+- Third: Hypothesize, what sort of results can we expect? What do we want from our results? How complicated or simple is it to get to the results?
+- Fourth: Gather IoT devices to experiment on (Google Mini, wearables, etc.) and try to apply researched frameworks and standards. Document individual findings from each device, framework, and standard. 
+- Fifth: Gather all documentation and other relevant material from previous experiments and establish educated conclusion. (Do the proposed frameworks, standards, etc. seem promising? How easy/difficult was the process? Where can we go from here?)
+- Sixth: Create own documentation about findings and conclusions. Provide any recommendations in terms of further research, standards, and other considerations in the future (Maybe think about how IoT will change in the future? Other technologies that may arise?)
+
 ## Resources Needed
 Every team needs *something* to pull off their project. Clearly identify the technologies and products involved in your project.
 
