@@ -111,9 +111,9 @@ For milestone 1, you should prepare a literature review document that surveys th
 **Summary:** This material evaluates the quickly growing field of IoT devices and the difficulties that arise when trying to find forensic evidence among the devices. It looks at three different IoT device: Smart home (Nest Smart Thermostat), Wearables (VitalPatch), and Smart City (Intelligent Traffic Management System or ITMS of Verizon). It explains the type of data transferred to the relevant devices and difficulties in trying to extract the data. For example, the Smart Home device can communicate between itself, a mobile app, and to a cloud. Material from the Wearables section may apply to the hands-on section of our project. 
 
 1. **Security of IoT Sensor Networks**  
-**Authors:** Jeffrey Cichonski, Jeffrey Marron, Nelson Hastings
+**Authors:** Jeffrey Cichonski, Jeffrey Marron, Nelson Hastings  
 **Date Published:** February 2019 (draft)  
-**Published In:** [NIST website](https://www.nccoe.nist.gov/projects/building-blocks/iot-sensor-security)
+**Published In:** [NIST website](https://www.nccoe.nist.gov/projects/building-blocks/iot-sensor-security)  
 **Summary:** The Internet of Things (IoT) universe is continuously evolving and expanding as new products and technologies are introduced to the marketplace. IoT sensor networks—networks of small devices, or nodes that detect, analyze, and transmit physical data—are a prime example of this ongoing evolution. The National Cybersecurity Center of Excellence (NCCoE) at the National Institute of Standards and Technology (NIST) are partnering to develop a project to protect building management systems' IoT sensor networks.  
 
 1. **IoT Forensics: Challenges For the IoA Era**  
