@@ -14,7 +14,6 @@
 1. Project goals and objectives in a numbered or bulleted list that you propose to undertake to address the identified problem. Clearly identify what you are doing at a high level with minimal technical detail.
 1. The merit of accomplishing the project goals and objectives in terms of how it helps end users, society, or particular industries/sectors/companies/agencies.
 
-
 Goals:
 - Research
 - Rec. IoT Forensics standard
@@ -35,9 +34,28 @@ ideas:
 - Hands on experimentation 
 - Any devices we can get access to
 
-### Goals and objectives
+Goals and objectives:
 
 Living in the world of technology, the Internet of Things (IoT) is becoming more and more popular. The rise of IoT devices has shown to bring a new challenge to the field of forensics. Our goal for this project will be to provide a review on the work done and provide hands on testing with devices we own. We will be incorporating any similarities of traditional forensic practices and see how the relate in the world of IoT. 
+
+### Summary 
+
+The Internet of Things (IoT) intersects with every aspect of modern life from industry to agriculture, education to entertainment, and medicine to law enforcement. With the ubiquity of IoT devices, it’s imperative that forensic investigators can reliably gather data and maintain its integrity throughout the course of an investigation. Currently, there exists no defined and accepted standard for IoT Forensic investigations. This can be attributed in part to the heterogeneous nature of IoT. Nearly every class of IoT device integrates its own hardware and software, data storage techniques, and network solutions differently. Even devices from the same category can vary in design and functionality. For example, Google and Amazon both produce home assistants. However, Google Home operates best as an in-house search engine while the Amazon Echo facilitates convenient online shopping. The nature and purpose of the device will also have an effect on the data that can be gathered; wearables and smart appliances will not generate the same types or volume of data. The data these devices gather and generate may be stored locally or on the cloud, compounding the complexity of the data acquisition process.
+
+The creation of a standard is necessary as IoT devices become sources of evidence in criminal, civil, and corporate investigations. Traditional Digital Forensics has been studied extensively and defines standards and procedures that guide investigators in the collection of digital evidence from computers, hard drives, flash drives, and mobile devices. In contrast, IoT Forensics is still an emerging field due in part to the aforementioned reasons. This makes introducing evidence gathered from IoT devices in court difficult as investigators cannot point to best practices and precedent to show their evidence is sound.
+
+### Goals and Objectives
+
+Below we have defined our goals and objectives for this project:
+Review state of the art research and standards concerning IoT Forensic and traditional digital forensics.
+Compare and contrast IoT Forensic techniques with those of traditional Digital Forensics standards.
+Identify the driving factors of the slow maturation of IoT Forensic standards and possible solutions.
+Apply recommended standards gathered from IoT Forensic literature in hands-on experiments to test their effectiveness across multiple IoT devices.
+Provide educated recommendations on developing and established IoT Forensic standards, research, and areas that merit further study.
+
+### Merit
+
+Before a standard can be created and implemented, a full understanding of the current field and potential concerns needs to be cultivated. This project will provide a substantive review of the current state of IoT Forensics and examine its differences from traditional Digital Forensics. Our hands-on application of existing methodologies will allow us to formulate recommendations and refinements to the ever-evolving field of IoT Forensics. Additionally, this collection of research can serve as a jumping off point for the creation of an effective IoT Forensic standard.
 
 
 ## Proposed Project Timeline
