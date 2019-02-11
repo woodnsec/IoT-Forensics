@@ -23,20 +23,20 @@ Goals:
 Merit:
 - ubiquity of IoT devices
 - IoT is infecting critical industrial sectors
-- Having a standard for IoT forensics investigations could improve the quality and integrity of data gleaned during criminal investigations
+- Having a standard for IoT Forensics investigations could improve the quality and integrity of data gleaned during criminal investigations
 
 ideas:
-- Research traditional and IoT forensics
+- Research traditional and IoT Forensics
 - Research the prevalence of IoT devices in industry and education
 - Differences and stuff
-- Issues with IoT forensics
-- Concerns with IoT forensics
+- Issues with IoT Forensics
+- Concerns with IoT Forensics
 - Hands on experimentation 
 - Any devices we can get access to
 
 Goals and objectives:
 
-Living in the world of technology, the Internet of Things (IoT) is becoming more and more popular. The rise of IoT devices has shown to bring a new challenge to the field of forensics. Our goal for this project will be to provide a review on the work done and provide hands on testing with devices we own. We will be incorporating any similarities of traditional forensic practices and see how the relate in the world of IoT. 
+Living in the world of technology, the Internet of Things (IoT) is becoming more and more popular. The rise of IoT devices has shown to bring a new challenge to the field of Forensics. Our goal for this project will be to provide a review on the work done and provide hands on testing with devices we own. We will be incorporating any similarities of traditional forensic practices and see how the relate in the world of IoT. 
 
 ### Summary 
 
@@ -47,7 +47,7 @@ The creation of a standard is necessary as IoT devices become sources of evidenc
 ### Goals and Objectives
 
 Below we have defined our goals and objectives for this project:  
-- Review state of the art research and standards concerning IoT Forensic and traditional digital forensics.  
+- Review state of the art research and standards concerning IoT Forensic and traditional Digital Forensics.  
 - Compare and contrast IoT Forensic techniques with those of traditional Digital Forensics standards.  
 - Identify the driving factors of the slow maturation of IoT Forensic standards and possible solutions.  
 - Apply recommended standards gathered from IoT Forensic literature in hands-on experiments to test their effectiveness across multiple IoT devices.  
@@ -74,7 +74,7 @@ Scale: 1 - 10, 10 being the most impactful / likely
 
 |Risk name  | Impact     | Likelihood | Description | Mitigation |
 |-----------|------------|------------|-------------|------------|
-| Underdeveloped IoT forensic standard (30) | 10 | 3 | IoT forensics is an emerging field, so it may be difficult to find a formally-recognized, tested IoT forensic standard. | The team could examine developing, informal standards or adapt existing digital forensic methodologies. |
+| Underdeveloped IoT forensic standard (30) | 10 | 3 | IoT Forensics is an emerging field, so it may be difficult to find a formally-recognized, tested IoT forensic standard. | The team could examine developing, informal standards or adapt existing digital forensic methodologies. |
 | Limited access to forensic applications (21) | 7 | 3 | Access to industry-approved forensic toolkits may be limited due to inadequate funding. | The team can access the UNO Steal labs, which have FTK installed. Otherwise, free digital forensic toolkits like SANS SIFT and Autopsy can be procured. |
 | Loss of data (32) | 8 | 4 | During the course of the project, data could be corrupted or otherwise lost. | The team will implement redundant data storage. Data gathered from research and hands-on experimentation will be stored on flash drives and Google Drive. |
 | No formal funding (30) | 3 | 10 | No grant funding for applications or devices will be provided to the team. All expenses will be out of pocket. | Spending will be minimized wherever possible. IoT devices will be provided by team members and digital investigation tools will be primarily open-source, with the exception of FTK. |
@@ -83,12 +83,12 @@ Scale: 1 - 10, 10 being the most impactful / likely
 Ideas:
 - Maybe not enough information since IOT kinda new and there is a variety of IOT devices nowadays?
 - Can't get access to tech
-- Can't access applications used for digital forensics
+- Can't access applications used for Digital Forensics
 - Unexpected events that delay progress in project
 - Loss of data
 - Not a lot of research in the field
 - Lack of resources (challenge more than risk)
-- Two programs for digital forensics (hard to get access to those)
+- Two programs for Digital Forensics (hard to get access to those)
 - No funds 
 
 
@@ -118,7 +118,7 @@ Below are research papers we have gathered and read in preparation of this proje
 **Authors:** Maxim Chernyshev, Sherali Zeadally, Zubair Baig, and Andrew Woodward  
 **Date Published:** June 11, 2018  
 **Published in:** IT Professional (Volume: 20, Issue: 3, May/June 2018)  
-**Summary:** Maxim Chernyshev, Sherali Zeadally, Zubair Baig, and Andrew Woodward present a high-level overview of the need for IoT forensics, the current models in the field, and the open issues around IoT devices and forensic evidence acquisition. Process models discussed include Forensic-Aware IoT, Next Best Thing triage model, and the Digital Forensic Investigation Framework for IoT.
+**Summary:** Maxim Chernyshev, Sherali Zeadally, Zubair Baig, and Andrew Woodward present a high-level overview of the need for IoT Forensics, the current models in the field, and the open issues around IoT devices and forensic evidence acquisition. Process models discussed include Forensic-Aware IoT, Next Best Thing triage model, and the Digital Forensic Investigation Framework for IoT.
 
 1. **Forensic analysis for IoT fitness trackers and its application**  
 **Authors:** Serim Kang, Soram Kim, and Jongsung Kim  
@@ -142,7 +142,7 @@ Below are research papers we have gathered and read in preparation of this proje
 **Authors:** Aine MacDermott, Thar Baker, Qi Shi  
 **Date Published:** Feb 26-28 2018  
 **Published in:** 2018 9th IFIP International Conference on New Technologies, Mobility and Security (NTMS)  
-**Summary:** This paper looks at the different challenges faced when forensically analyzing IoT devices. Challenges include the lack of a forensic framework, potential lack of local storage, processing of large IoT data, among other issues. This research also looks at how Cybercrime and IoT forensics are related. 
+**Summary:** This paper looks at the different challenges faced when forensically analyzing IoT devices. Challenges include the lack of a forensic framework, potential lack of local storage, processing of large IoT data, among other issues. This research also looks at how Cybercrime and IoT Forensics are related. 
 
 
 #### Technical Plan
@@ -156,7 +156,7 @@ Under your requirements section in the README.md file in your GitHub repo, clear
 |Resource  | Dr. Hale needed? | Investigating Team member | Description |
 |-------------------|---------|---------------------------|-------------|
 | FTK | No | Elisabeth Henderson | Confer with Dr. Grispos to gain access to FTK and the Steal labs. |
-| Kali Linux | No | Ronald Ramirez | Research penetration testing tools in a Kali environment that would aid in an IoT forensics investigation. | 
+| Kali Linux | No | Ronald Ramirez | Research penetration testing tools in a Kali environment that would aid in an IoT Forensics investigation. | 
 | IoT Devices | No | Nate Wood and Amber Makovicka | Relevant devices include wearables, Google Home, Philip Hue lightbulbs (potential), and Arduino. | 
 | Device & Toolkit Documentation | Yes | Ashley Leedom | Gather available documentation for IoT devices and forensic toolkits. | 
 
