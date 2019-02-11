@@ -17,6 +17,8 @@
 
 [Forensic analysis for IoT fitness trackers and its application](https://link-springer-com.leo.lib.unomaha.edu/article/10.1007/s12083-018-0708-3)  
 
+[IoT Forensics: Challenges for the IoA Era](https://ieeexplore.ieee.org/document/8328748)
+
 ### Data Sets
 
 [IoT Forensics Challenge](https://www.dfrws.org/dfrws-forensic-challenge)

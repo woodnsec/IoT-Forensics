@@ -86,25 +86,25 @@ For milestone 1, you should prepare a literature review document that surveys th
 **Published In:** 2016 IEEE 4th International Conference on Future Internet of Things (IoT) and Cloud (FiCloud)  
 **Summary:** Kebande and Ray have developed a generic IoT forensic investigation framework that reliably supports digital investigations in IoT-based infrastructures. The framework complies with the ISO/IEC 27043:2015 international standard and provides a promising baseline for IoT forensic investigations.  
 
-2. **Internet of Things Mobility Forensics**  
+1. **Internet of Things Mobility Forensics**  
 **Authors:** K M Sabidur Rahman, Matt Bishop, and Albert Holt  
 **Date Published:** September 2016  
 **Published In:** Information Security Research and Education (INSuRE) Conference, 2016  
 **Summary:** K. M. S. Rahman, M. Bishop, and A. Holt examine mobility forensics in the world of IoT. The authors focus on IoT devices in smart homes by conducting research used to create a classification process which can be referenced in other IoT environments.
 
-3. **Internet of Things Forensics: The Need, Process Models, and Open Issues**  
+1. **Internet of Things Forensics: The Need, Process Models, and Open Issues**  
 **Authors:** Maxim Chernyshev, Sherali Zeadally, Zubair Baig, and Andrew Woodward  
 **Date Published:** June 11, 2018  
 **Published in:** IT Professional (Volume: 20, Issue: 3, May/June 2018)  
 **Summary:** Maxim Chernyshev, Sherali Zeadally, Zubair Baig, and Andrew Woodward present a high-level overview of the need for IoT forensics, the current models in the field, and the open issues around IoT devices and forensic evidence acquisition. Process models discussed include Forensic-Aware IoT, Next Best Thing triage model, and the Digital Forensic Investigation Framework for IoT.
 
-4. **Forensic analysis for IoT fitness trackers and its application**  
+1. **Forensic analysis for IoT fitness trackers and its application**  
 **Authors:** Serim Kang, Soram Kim, and Jongsung Kim  
 **Published in:** Peer-to-Peer Networking and Applications  
 **Date Published:** December 22, 2018  
 **Summary:** Serim Kang, Soram Kim, and Jongsung Kim present their findings from studying the forensic data that may be pulled from the wearable devices Xiaomi Mi Band 2 and Fitbit Alta HR, including how forensic investigators can extract and analyze the data. 
 
-5. **Application-Specific Digital Forensics Investigative Model in Internet of Things (IoT)**  
+1. **Application-Specific Digital Forensics Investigative Model in Internet of Things (IoT)**  
 **Authors:** Tanveer Zia, Peng Liu, Weili Han
 **Date Published:** Aug-Sep 2017  
 **Published In:** Proceedings of the 12th International Conference on Availability, Reliability and Security Article No. 55
@@ -115,6 +115,13 @@ For milestone 1, you should prepare a literature review document that surveys th
 **Date Published:** February 2019 (draft)  
 **Published In:** [NIST website](https://www.nccoe.nist.gov/projects/building-blocks/iot-sensor-security)
 **Summary:** The Internet of Things (IoT) universe is continuously evolving and expanding as new products and technologies are introduced to the marketplace. IoT sensor networks—networks of small devices, or nodes that detect, analyze, and transmit physical data—are a prime example of this ongoing evolution. The National Cybersecurity Center of Excellence (NCCoE) at the National Institute of Standards and Technology (NIST) are partnering to develop a project to protect building management systems' IoT sensor networks.  
+
+1. **IoT Forensics: Challenges For the IoA Era**  
+**Authors:** Aine MacDermott, Thar Baker, Qi Shi  
+**Date Published:** Feb 26-28 2018
+**Published in:** 2018 9th IFIP International Conference on New Technologies, Mobility and Security (NTMS)<br>
+**Summary:** This paper looks at the different challenges faced when forensically analyzing IoT devices. Challenges include the lack of a forensic framework, potential lack of local storage, processing of large IoT data, among other issues. This research also looks at how Cybercrime and IoT forensics are related. 
+
 
 #### Technical Plan
 Once you have examined the relevant literature, you should prepare a technical plan that outlines and defines your methodology. Important consideration should be made to ensure that your methodology uses the literature to the best extent possible. Your technical plan should provide a detailed description of exactly what and how you will do what you plan to do.
