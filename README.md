@@ -46,12 +46,12 @@ The creation of a standard is necessary as IoT devices become sources of evidenc
 
 ### Goals and Objectives
 
-Below we have defined our goals and objectives for this project:
-Review state of the art research and standards concerning IoT Forensic and traditional digital forensics.
-Compare and contrast IoT Forensic techniques with those of traditional Digital Forensics standards.
-Identify the driving factors of the slow maturation of IoT Forensic standards and possible solutions.
-Apply recommended standards gathered from IoT Forensic literature in hands-on experiments to test their effectiveness across multiple IoT devices.
-Provide educated recommendations on developing and established IoT Forensic standards, research, and areas that merit further study.
+Below we have defined our goals and objectives for this project:  
+- Review state of the art research and standards concerning IoT Forensic and traditional digital forensics.  
+- Compare and contrast IoT Forensic techniques with those of traditional Digital Forensics standards.  
+- Identify the driving factors of the slow maturation of IoT Forensic standards and possible solutions.  
+- Apply recommended standards gathered from IoT Forensic literature in hands-on experiments to test their effectiveness across multiple IoT devices.  
+- Provide educated recommendations on developing and established IoT Forensic standards, research, and areas that merit further study.
 
 ### Merit
 
