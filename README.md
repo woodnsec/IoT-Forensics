@@ -105,7 +105,7 @@ The second half of our project will focus on hands-on experimentation with IoT d
 #### Literature Review
 For milestone 1, you should prepare a literature review document that surveys the various research and development work in your project area. Your literature review should identify important `keywords`, relevant `research papers`, and `the state of the art` in your area.
 
-Keywords: IoT Forensics, Digital Forensics, Network Forensics, Mobile Forensics, IoT, Privacy, Integrity, Process Model, Investigation Frameworks, IoT Standards, Data Acquisition
+**Keywords:** IoT Forensics, Digital Forensics, Network Forensics, Mobile Forensics, IoT, Privacy, Integrity, Process Model, Investigation Frameworks, IoT Standards, Data Acquisition
 
 1. **A Generic Digital Forensic Investigation Framework for Internet of Things (IoT)**  
 **Authors:** Victor R. Kebande and Indrakshi Ray  
@@ -155,7 +155,7 @@ Once you have examined the relevant literature, you should prepare a technical p
 
 Once you have examined the relevant literature, you should prepare a technical plan that outlines and defines your methodology. Important consideration should be made to ensure that your methodology uses the literature to the best extent possible. Your technical plan should provide a detailed description of exactly what and how you will do what you plan to do.
 
-**Notes on what procedure/technique we may want to include here:**
+**High-Level Project Overview**
 - The first step is to gather existing information regarding digital forensic standards, frameworks, methods, etc., and see how they apply to IoT Forensics. 
   - Review major themes and takeaways from collected research material.
   - Observe major differences and obstacles that exist in IoT forensics that cannot be translated from Digital Forensic standards.
