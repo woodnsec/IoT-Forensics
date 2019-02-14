@@ -9,44 +9,13 @@
 - [Resources/Technology needed](#resources-needed) 
 - [First Sprint Plan](#first-sprint-plan) 
 
-## Summary and Merit of Project
-1. A problem statement identifying relevant issues related to your bid. The problem statement might also discuss why these issues are a problematic for society, a particular industry/sector/company/agency, or a specific technology(ies).
-1. Project goals and objectives in a numbered or bulleted list that you propose to undertake to address the identified problem. Clearly identify what you are doing at a high level with minimal technical detail.
-1. The merit of accomplishing the project goals and objectives in terms of how it helps end users, society, or particular industries/sectors/companies/agencies.
-
-Goals:
-- Research
-- Rec. IoT Forensics standard
-- Hands on testing to support rec.
-- All this first part becomes our methodology
-
-Merit:
-- ubiquity of IoT devices
-- IoT is infecting critical industrial sectors
-- Having a standard for IoT Forensics investigations could improve the quality and integrity of data gleaned during criminal investigations
-
-ideas:
-- Research traditional and IoT Forensics
-- Research the prevalence of IoT devices in industry and education
-- Differences and stuff
-- Issues with IoT Forensics
-- Concerns with IoT Forensics
-- Hands on experimentation 
-- Any devices we can get access to
-
-Goals and objectives:
-
-Living in the world of technology, the Internet of Things (IoT) is becoming more and more popular. The rise of IoT devices has shown to bring a new challenge to the field of forensics. Our goal for this project will be to provide a review on the work done and provide hands on testing with devices we own. We will be incorporating any similarities of traditional forensic practices and see how the relate in the world of IoT. 
-
-### Summary 
+### Executive Project Summary 
 
 The Internet of Things (IoT) intersects with every aspect of modern life from industry to agriculture, education to entertainment, and medicine to law enforcement. With the ubiquity of IoT devices, it is imperative that forensic investigators can reliably gather data and maintain its integrity throughout the course of an investigation. Currently, there exists no defined and accepted standard for IoT Forensic investigations. This can be attributed in part to the heterogeneous nature of IoT. Nearly every class of IoT device integrates its own hardware and software, data storage techniques, and network solutions differently. Even devices from the same category can vary in design and functionality. For example, Google and Amazon both produce home assistants. However, Google Home operates best as an in-house search engine while the Amazon Echo facilitates convenient online shopping. The nature and purpose of the device will also have an effect on the data that can be gathered; wearables and smart appliances will not generate the same types or volume of data. The data these devices gather and generate may be stored locally or on the cloud, compounding the complexity of the data acquisition process.
 
 The creation of a standard is necessary as IoT devices become sources of evidence in criminal, civil, and corporate investigations. Traditional Digital Forensics has been studied extensively and defines standards and procedures that guide investigators in the collection of digital evidence from computers, hard drives, flash drives, and mobile devices. In contrast, IoT Forensics is still an emerging field due in part to the aforementioned reasons. This makes introducing evidence gathered from IoT devices in court difficult as investigators cannot point to best practices and precedent to show their evidence is sound.
 
 ### Goals and Objectives
-
-Below we have defined our goals and objectives for this project:  
 - Review state of the art research and standards concerning IoT Forensic and traditional Digital Forensics.  
 - Compare and contrast IoT Forensic techniques with those of traditional Digital Forensics standards.  
 - Identify the driving factors of the slow maturation of IoT Forensic standards and possible solutions.  
@@ -64,10 +33,6 @@ The latest updates on the timeline are available here: [Ganttpro](https://app.ga
 ![Alt text](/ganttChart_IoT_19.png?raw=true "Project Timeline")
 
 ## Risk list
-As you will probably discover, there are many things that can go wrong when working on a project. Issues with skillsets, technology, team member availability, etc., may arise as the project goes forward. As we discussed in class, there are three options available to deal with project management risks: monitor it (Watch it), mitigate it (do something about it), accept it (give up). For milestone one, you should identify the major sources of risk and what you plan to do about them. Prepare a risk list and rank them by risk level using the standard formula, i.e. `impact x likelihood`, to describe the top 5 risks that might affect your team's ability to pull off the tasks identified in your timeline and dictated by your objectives.
-
-Scale: 1 - 10, 10 being the most impactful / likely 
-
 |Risk name  | Impact     | Likelihood | Description | Mitigation |
 |-----------|------------|------------|-------------|------------|
 | Underdeveloped IoT forensic standard (30) | 10 | 3 | IoT Forensics is an emerging field, so it may be difficult to find a formally-recognized, tested IoT forensic standard. | The team could examine developing, informal standards or adapt existing digital forensic methodologies. |
@@ -76,31 +41,12 @@ Scale: 1 - 10, 10 being the most impactful / likely
 | No formal funding (30) | 3 | 10 | No grant funding for applications or devices will be provided to the team. All expenses will be out of pocket. | Spending will be minimized wherever possible. IoT devices will be provided by team members and digital investigation tools will be primarily open-source, with the exception of FTK. |
 | Lack of device documentation (20) | 5 | 4 | IoT devices may not have comprehensive documentation available for public perusal. | The team is working primarily with IoT devices and software that are known to have extensive documentation. | 
 
-Ideas:
-- Maybe not enough information since IOT kinda new and there is a variety of IOT devices nowadays?
-- Can't get access to tech
-- Can't access applications used for Digital Forensics
-- Unexpected events that delay progress in project
-- Loss of data
-- Not a lot of research in the field
-- Lack of resources (challenge more than risk)
-- Two programs for Digital Forensics (hard to get access to those)
-- No funds 
-
-
 ## Project Methodology
-Methodology is extremely important for conducting a successful project. While I am always a fan of "winging it" when it comes to day-to-day life - winging it is not an option for being successful on a team. Hence, in this class you will be required to develop a technical plan (AKA `Methodology`) to succeed. Your methodology should be grounded in scientific method and best practice. It should be based on the literature in the area you are working on and should use well-tested methods when possible.
-
-Requirements are extremely important for conducting a successful project - of either the creative or assessment-oriented varieties. Collecting requirements about an application means understand what your end user (or what the end user of a product you are assessing) is going to do with the product. To understand requirements we often define user stories and use cases to encapsulate and represent behavior.
-
 We will begin our project by conducting a review of the current literature and standards related to IoT forensic data acquisition. Additionally, we will examine traditional digital forensics techniques and compare and contrast them to current IoT forensics standards. The review will provide insight on the current state of IoT forensics and allow us to identify outstanding issues in the field. These issues may include concerns about data integrity and privacy. 
 
 The second half of our project will focus on hands-on experimentation with IoT devices. This will allow us to fully understand the forensic and data acquisition process. Lastly, using the knowledge we gain from the review and hands-on application, we will give our recommendations on standards, research, and refinements to IoT forensics moving forward. 
 
-
 #### Literature Review
-For milestone 1, you should prepare a literature review document that surveys the various research and development work in your project area. Your literature review should identify important `keywords`, relevant `research papers`, and `the state of the art` in your area.
-
 **Keywords:** IoT Forensics, Digital Forensics, Network Forensics, Mobile Forensics, IoT, Privacy, Integrity, Process Model, Investigation Frameworks, IoT Standards, Data Acquisition
 
 1. **A Generic Digital Forensic Investigation Framework for Internet of Things (IoT)**  
@@ -147,10 +93,6 @@ For milestone 1, you should prepare a literature review document that surveys th
 
 
 #### Technical Plan
-Once you have examined the relevant literature, you should prepare a technical plan that outlines and defines your methodology. Important consideration should be made to ensure that your methodology uses the literature to the best extent possible. Your technical plan should provide a detailed description of exactly what and how you will do what you plan to do.
-
-Once you have examined the relevant literature, you should prepare a technical plan that outlines and defines your methodology. Important consideration should be made to ensure that your methodology uses the literature to the best extent possible. Your technical plan should provide a detailed description of exactly what and how you will do what you plan to do.
-
 **High-Level Project Overview**
 - The first step is to gather existing information regarding digital forensic standards, frameworks, methods, etc., and see how they apply to IoT Forensics. 
   - Review major themes and takeaways from collected research material.
@@ -178,22 +120,9 @@ Once you have examined the relevant literature, you should prepare a technical p
   - Consider what other types of devices could be developed in the near future.
 
 ## Resources Needed
-Every team needs *something* to pull off their project. Clearly identify the technologies and products involved in your project.
-
-Under your requirements section in the README.md file in your GitHub repo, clearly identify the technologies, products, and languages involved in your project. Include a table that identifies which team member will investigate each needed resource. Also include a column indicating whether or not material resources are needed from Dr. Hale.
-
 |Resource  | Dr. Hale needed? | Investigating Team member | Description |
 |-------------------|---------|---------------------------|-------------|
 | FTK | No | Elisabeth Henderson | Confer with Dr. Grispos to gain access to FTK and the Steal labs. |
 | Kali Linux | No | Ronald Ramirez | Research penetration testing tools in a Kali environment that would aid in an IoT Forensics investigation. | 
 | IoT Devices | No | Nate Wood and Amber Makovicka | Relevant devices include wearables, Google Home, Philip Hue lightbulbs (potential), and Arduino. | 
 | Device & Toolkit Documentation | Yes | Ashley Leedom | Gather available documentation for IoT devices and forensic toolkits. | 
-
-
-## First Sprint Plan
-This milestone represents the first step forward in your capstone project. As part of that effort, you need to plan your first real sprint.
-This part of the milestone is strictly captured by GitHub Projects (its a `Kanban` board technology like Trello). In your Kanban board, create a board following the structure discussed in class (see Lecture 4). Use this structure to identify the tasks that you will tackle in your first sprint. Put those tasks in the **Sprint To-do** category.
-
-
-## Teamwork
-Lastly, it is important that you realize you are working on a TEAM (except for the few of you that are soloing). I will say now, that your grade is dependent on your participation. I will not allow individuals to sluff off on a team. Your grade is therefore based partly on a *participation factor*. Essentially if you don't participate (and trust me We will know) - you will not get all of the team points on your project grade.
