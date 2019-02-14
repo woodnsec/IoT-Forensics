@@ -59,10 +59,6 @@ Before a standard can be created and implemented, a full understanding of the cu
 
 
 ## Proposed Project Timeline
-
-An important part of project planning is identifying tasks to be completed to address project goals and arranging those tasks in such a way that they can be completed within a (typically) fixed interval of time. In this class, that interval is the length of the semester. For milestone one, prepare an overall project timeline that identifies large tasks to be completed, estimates time of completion, and arranges those tasks chronologically over the project lifespan.
-- [ganttpro](https://ganttpro.com) is suggested
-
 The latest updates on the timeline are available here: [Ganttpro](https://app.ganttpro.com/shared/token/aae7d52a7944ba0c0892c645f04c9ce5c976e52f3823376157db230436bf2e7f/394518) 
 
 ![Alt text](/ganttChart_IoT_19.png?raw=true "Project Timeline")
