@@ -16,15 +16,15 @@ The Internet of Things (IoT) intersects with every aspect of modern life from in
 The creation of a standard is necessary as IoT devices become sources of evidence in criminal, civil, and corporate investigations. Traditional digital forensics has been studied extensively and defines standards and procedures that guide investigators in the collection of digital evidence from computers, hard drives, flash drives, and mobile devices. In contrast, IoT forensics is still an emerging field due in part to the aforementioned reasons. This makes introducing evidence gathered from IoT devices in court difficult as investigators cannot point to best practices and precedent to show their evidence is sound.
 
 ### Goals and Objectives
-- Review state of the art research and standards concerning IoT Forensic and traditional digital forensics.  
-- Compare and contrast IoT Forensic techniques with those of traditional digital forensics standards.  
-- Identify the driving factors of the slow maturation of IoT Forensic standards and possible solutions.  
-- Apply recommended standards gathered from IoT Forensic literature in hands-on experiments to test their effectiveness across multiple IoT devices.  
-- Provide educated recommendations on developing and establishing IoT Forensic standards, research, and areas that merit further study.
+- Review state of the art research and standards concerning IoT forensic and traditional digital forensics.  
+- Compare and contrast IoT forensic techniques with those of traditional digital forensics standards.  
+- Identify the driving factors of the slow maturation of IoT forensic standards and possible solutions.  
+- Apply recommended standards gathered from IoT forensic literature in hands-on experiments to test their effectiveness across multiple IoT devices.  
+- Provide educated recommendations on developing and establishing IoT forensic standards, research, and areas that merit further study.
 
 ### Merit
 
-Before a standard can be created and implemented, a full understanding of the current field and potential concerns needs to be cultivated. This project will provide a substantive review of the current state of IoT forensics and examine its differences from traditional digital forensics. Our hands-on application of existing methodologies will allow us to formulate recommendations and refinements to the ever-evolving field of IoT forensics. Additionally, this collection of research can serve as a jumping off point for the creation of an effective IoT Forensic standard.
+Before a standard can be created and implemented, a full understanding of the current field and potential concerns needs to be cultivated. This project will provide a substantive review of the current state of IoT forensics and examine its differences from traditional digital forensics. Our hands-on application of existing methodologies will allow us to formulate recommendations and refinements to the ever-evolving field of IoT forensics. Additionally, this collection of research can serve as a jumping off point for the creation of an effective IoT forensic standard.
 
 
 ## Proposed Project Timeline
@@ -96,7 +96,7 @@ The second half of our project will focus on hands-on experimentation with IoT d
 **High-Level Project Overview**
 - The first step is to gather existing information regarding digital forensic standards, frameworks, methods, etc., and see how they apply to IoT forensics. 
   - Review major themes and takeaways from collected research material.
-  - Observe major differences and obstacles that exist in IoT forensics that cannot be translated from Digital Forensic standards.
+  - Observe major differences and obstacles that exist in IoT forensics that cannot be translated from digital forensic standards.
   - Identify sources of difficulty in creating standards and frameworks for IoT forensics.
 - The second step will be to research 1-2 proposed frameworks for IoT forensics and observe possible solutions. 
   - Determine if we can test the framework in our environment(s) with our device(s).
