@@ -108,7 +108,7 @@ The second half of our project will focus on hands-on experimentation with IoT d
   - What data might we want to retrieve?
   - How difficult will it be to retrieve the desired information?
 - The fourth step is to apply the aforementioned frameworks and standards to our IoT devices.
-  - Available devices include a Google Mini and Metawear.
+  - Available devices include a Google Mini and wearables.
   - Document individual findings from each device, framework, and standard.
   - Compare the findings with expected results.
 - The fifth step is to gather all our documentation and other relevant material from previous experiments and establish an educated conclusion. 
@@ -122,7 +122,7 @@ The second half of our project will focus on hands-on experimentation with IoT d
 ## Resources Needed
 |Resource  | Dr. Hale needed? | Investigating Team member | Description |
 |-------------------|---------|---------------------------|-------------|
-| FTK | No | Elisabeth Henderson | Confer with Dr. Grispos to gain access to FTK and the Steal labs. |
-| Kali Linux | No | Ronald Ramirez | Research penetration testing tools in a Kali environment that would aid in an IoT Forensics investigation. | 
-| IoT Devices | No | Nate Wood and Amber Makovicka | Relevant devices include wearables, Google Home, Philip Hue lightbulbs (potential), and Arduino. | 
+| Forensic Tools| No | Elisabeth Henderson | Confer with Dr. Grispos to gain access to FTK and the Steal labs. |
+| Penetration Testing Tools | No | Ronald Ramirez | Research penetration testing tools in a Kali environment that would aid in an IoT Forensics investigation. | 
+| IoT Devices | No | Nate Wood and Amber Makovicka | Relevant devices include wearables and Google Home Mini| 
 | Device & Toolkit Documentation | Yes | Ashley Leedom | Gather available documentation for IoT devices and forensic toolkits. | 
