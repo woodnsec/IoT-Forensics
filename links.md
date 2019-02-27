@@ -19,6 +19,8 @@
 
 [IoT Forensics: Challenges for the IoA Era](https://ieeexplore.ieee.org/document/8328748)
 
+[Internet of Things: Challenges and Approaches](https://ieeexplore.ieee.org/document/6680032)
+
 ### Data Sets
 
 [IoT Forensics Challenge](https://www.dfrws.org/dfrws-forensic-challenge)
