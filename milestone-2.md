@@ -19,29 +19,16 @@ also list them out like this:
 
 ## Quick Notes: 
 
--found a new link which has some good info about the challenges in IoT (-ronald)
-
-Internet of Things Security and Forensics: Challenges and Opportunities . 
-
-Authors: Mauro Conti1 , Ali Dehghantanha2 , Katrin Franke3 , Steve Watson4 * . 
-
-Citation: Conti, Mauro & Dehghantanha, Ali & Franke, Katrin & Watson, Steve. (2017). Internet of Things Security and Forensics: Challenges and Opportunities. Future Generation Computer Systems. 78. 10.1016/j.future.2017.07.060. 
-https://arxiv.org/pdf/1807.10438 . 
-
-Summary: The authors of this literature begin to discuss the security and forensics challenges in the world of IoT. A few of the challenges the authors expand on are aspects such as authentication, privacy, and evidence identification, collection, and preservation. The authors then go on to conclude their literature with solutions they referenced from other publish papers.  
-
-(will be adding more info on this ) . 
-
 1. **Security of IoT Sensor Networks**  
 **Authors:** Jeffrey Cichonski, Jeffrey Marron, Nelson Hastings  
 **Date Published:** February 2019 (draft)  
 **Published In:** [NIST website](https://www.nccoe.nist.gov/projects/building-blocks/iot-sensor-security)  
 **Summary:** The Internet of Things (IoT) universe is continuously evolving and expanding as new products and technologies are introduced to the marketplace. IoT sensor networks—networks of small devices, or nodes that detect, analyze, and transmit physical data—are a prime example of this ongoing evolution. The National Cybersecurity Center of Excellence (NCCoE) at the National Institute of Standards and Technology (NIST) are partnering to develop a project to protect building management systems' IoT sensor networks.  
-**Notes:**  This paper is not quite as on topic as previously thought for IoT forensics. It does have plenty of references to the topic and possible frameworks, however the paper is geared more towards a architecture overview for sensor networks and scenarios which theoretically test those networks. I think it will be good to reference while establishing what things should be checked in a IoT forensics framework.  
+**Notes:**  This paper is not quite as on topic as previously thought for IoT forensics. It does have plenty of references to the topic and possible frameworks, however the paper is geared more towards a architecture overview for sensor networks and scenarios which theoritically test those networks. I think it will be good to reference while establishing what things should be checked in a IoT forensics framework.  
 
-1. **A Generic Digital Forensic Investigation Framework for Internet of Things (IoT)**  
-**Authors:** Victor R. Kebande and Indrakshi Ray  
-**Date Published:** September 26, 2016  
-**Published In:** 2016 IEEE 4th International Conference on Future Internet of Things (IoT) and Cloud (FiCloud)  
-**Summary:** Kebande and Ray have developed a generic IoT forensic investigation framework that reliably supports digital investigations in IoT-based infrastructures. The framework complies with the ISO/IEC 27043:2015 international standard and provides a promising baseline for IoT forensic investigations. 
-**Notes:** This paper compares existing models of digital forensics and IoT forensics - It has 3 categories of IoT forensics: Cloud, Network, and Device forensics. The Cloud forensics focuses on data generated in the cloud environment. Network forensics focuses on the communications of IoT devices. Device level forensics focuses on the digital evidence contained on the IoT devices, like memory, audio or video. 3 frameworks are compared against the proposed framework: Oriwo, Zawoad & Husan, and Perumal. 
+2. **Internet of Things Security and Forensics: Challenges and Opportunities**  
+**Authors:**  Mauro Conti , Ali Dehghantanha , Katrin Franke , Steve Watson  
+**Date Published:** 2017 . 
+**Published In:** Conti, Mauro & Dehghantanha, Ali & Franke, Katrin & Watson, Steve. (2017). Internet of Things Security and Forensics: Challenges and Opportunities. Future Generation Computer Systems. 78. 10.1016/j.future.2017.07.060. 
+**Summary:** The authors of this literature begin to discuss the security and forensics challenges in the world of IoT. A few of the challenges the authors expand on are aspects such as authentication, privacy, and evidence identification, collection, and preservation. The authors then go on to conclude their literature with solutions they referenced from other publish papers. 
+**Notes:**  Some things to talk about:  
