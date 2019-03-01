@@ -31,3 +31,10 @@ https://arxiv.org/pdf/1807.10438 .
 Summary: The authors of this literature begin to discuss the security and forensics challenges in the world of IoT. A few of the challenges the authors expand on are aspects such as authentication, privacy, and evidence identification, collection, and preservation. The authors then go on to conclude their literature with solutions they referenced from other publish papers.  
 
 (will be adding more info on this ) . 
+
+1. **Security of IoT Sensor Networks**  
+**Authors:** Jeffrey Cichonski, Jeffrey Marron, Nelson Hastings  
+**Date Published:** February 2019 (draft)  
+**Published In:** [NIST website](https://www.nccoe.nist.gov/projects/building-blocks/iot-sensor-security)  
+**Summary:** The Internet of Things (IoT) universe is continuously evolving and expanding as new products and technologies are introduced to the marketplace. IoT sensor networks—networks of small devices, or nodes that detect, analyze, and transmit physical data—are a prime example of this ongoing evolution. The National Cybersecurity Center of Excellence (NCCoE) at the National Institute of Standards and Technology (NIST) are partnering to develop a project to protect building management systems' IoT sensor networks.  
+**Notes:**  This paper is not quite as on topic as previously thought for IoT forensics. It does have plenty of references to the topic and possible frameworks, however the paper is geared more towards a architecture overview for sensor networks and scenarios which theoritically test those networks. I think it will be good to reference while establishing what things should be checked in a IoT forensics framework.  
