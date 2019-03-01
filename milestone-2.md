@@ -40,6 +40,5 @@ Security Challenges: Authentication and Privacy
 **Date Published:** September 26, 2016  
 **Published In:** 2016 IEEE 4th International Conference on Future Internet of Things (IoT) and Cloud (FiCloud)  
 **Summary:** Kebande and Ray have developed a generic IoT forensic investigation framework that reliably supports digital investigations in IoT-based infrastructures. The framework complies with the ISO/IEC 27043:2015 international standard and provides a promising baseline for IoT forensic investigations. 
-
 **Notes:** This paper compares existing models of digital forensics and IoT forensics - It has 3 categories of IoT forensics: Cloud, Network, and Device forensics. The Cloud forensics focuses on data generated in the cloud environment. Network forensics focuses on the communications of IoT devices. Device level forensics focuses on the digital evidence contained on the IoT devices, like memory, audio or video. 3 frameworks are compared against the proposed framework: Oriwo, Zawoad & Husan, and Perumal. 
 
