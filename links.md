@@ -21,6 +21,8 @@
 
 [Internet of Things: Challenges and Approaches](https://ieeexplore.ieee.org/document/6680032)
 
+
+[Digital Evidence Challenges in the Internet of Things](https://www.semanticscholar.org/paper/Digital-Evidence-Challenges-in-the-Internet-of-Hegarty-Lamb/b789f84ef58d5963996e134aa51fd9d01613b922)
 ### Data Sets
 
 [IoT Forensics Challenge](https://www.dfrws.org/dfrws-forensic-challenge)
