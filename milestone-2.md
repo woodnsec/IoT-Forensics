@@ -26,7 +26,7 @@ also list them out like this:
 **Summary:** The Internet of Things (IoT) universe is continuously evolving and expanding as new products and technologies are introduced to the marketplace. IoT sensor networks—networks of small devices, or nodes that detect, analyze, and transmit physical data—are a prime example of this ongoing evolution. The National Cybersecurity Center of Excellence (NCCoE) at the National Institute of Standards and Technology (NIST) are partnering to develop a project to protect building management systems' IoT sensor networks.  
 **Notes:**  This paper is not quite as on topic as previously thought for IoT forensics. It does have plenty of references to the topic and possible frameworks, however the paper is geared more towards a architecture overview for sensor networks and scenarios which theoritically test those networks. I think it will be good to reference while establishing what things should be checked in a IoT forensics framework.  
 
-2. **Internet of Things Security and Forensics: Challenges and Opportunities**  
+1. **Internet of Things Security and Forensics: Challenges and Opportunities**  
 **Authors:** Mauro Conti , Ali Dehghantanha , Katrin Franke , Steve Watson    
 **Date Published:** 2017    
 **Published In/Citation:** Conti, Mauro & Dehghantanha, Ali & Franke, Katrin & Watson, Steve. (2017). Internet of Things Security and Forensics: Challenges and Opportunities. Future Generation Computer Systems. 78. 10.1016/j.future.2017.07.060.    
@@ -34,4 +34,18 @@ also list them out like this:
 **Notes:**  Some things to talk about:  
 Because of the widespread of IoT devices which college and transfer data, security plays a big challenge.  
 Security Challenges: Authentication and Privacy
+
+1. **A Generic Digital Forensic Investigation Framework for Internet of Things (IoT)**  
+**Authors:** Victor R. Kebande and Indrakshi Ray  
+**Date Published:** September 26, 2016  
+**Published In:** 2016 IEEE 4th International Conference on Future Internet of Things (IoT) and Cloud (FiCloud)  
+**Summary:** Kebande and Ray have developed a generic IoT forensic investigation framework that reliably supports digital investigations in IoT-based infrastructures. The framework complies with the ISO/IEC 27043:2015 international standard and provides a promising baseline for IoT forensic investigations.  
+**Notes:** This paper compares existing models of digital forensics and IoT forensics - It has 3 categories of IoT forensics: Cloud, Network, and Device forensics. The Cloud forensics focuses on data generated in the cloud environment. Network forensics focuses on the communications of IoT devices. Device level forensics focuses on the digital evidence contained on the IoT devices, like memory, audio or video. 3 frameworks are compared against the proposed framework: Oriwo, Zawoad & Husan, and Perumal. 
+
+1. **Digital Evidence Challenges in the Internet of Things**  
+**Authors:** Robert Hegarty, David J. Lamb, Andrew Attwood  
+**Date Published:** 2014  
+**Published In:** Published in INC 2014  
+**Summary:** In this paper, the authors begin to explain the rise of IoT devices. Examples such as intelligent home control systems to advanced city management systems, which produce and consume personal data. With the consumption and use of personal data, challenges arise. Thus, in order to help mitigate IoT challenges, the authors identify key areas that solutions should target.  
+**Notes:** ...  
 
