@@ -42,3 +42,10 @@ Security Challenges: Authentication and Privacy
 **Summary:** Kebande and Ray have developed a generic IoT forensic investigation framework that reliably supports digital investigations in IoT-based infrastructures. The framework complies with the ISO/IEC 27043:2015 international standard and provides a promising baseline for IoT forensic investigations.  
 **Notes:** This paper compares existing models of digital forensics and IoT forensics - It has 3 categories of IoT forensics: Cloud, Network, and Device forensics. The Cloud forensics focuses on data generated in the cloud environment. Network forensics focuses on the communications of IoT devices. Device level forensics focuses on the digital evidence contained on the IoT devices, like memory, audio or video. 3 frameworks are compared against the proposed framework: Oriwo, Zawoad & Husan, and Perumal. 
 
+1. **Digital Evidence Challenges in the Internet of Things**  
+**Authors:** Robert Hegarty, David J. Lamb, Andrew Attwood  
+**Date Published:** 2014  
+**Published In:** Published in INC 2014  
+**Summary:** In this paper, the authors begin to explain the rise of IoT devices. Examples such as intelligent home control systems to advanced city management systems, which produce and consume personal data. With the consumption and use of personal data, challenges arise. Thus, in order to help mitigate IoT challenges, the authors identify key areas that solutions should target.  
+**Notes:** ...  
+
