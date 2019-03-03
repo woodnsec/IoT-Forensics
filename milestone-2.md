@@ -29,7 +29,7 @@ also list them out like this:
 1. **Internet of Things Security and Forensics: Challenges and Opportunities**  
 **Authors:** Mauro Conti , Ali Dehghantanha , Katrin Franke , Steve Watson    
 **Date Published:** 2017    
-**Published In/Citation:** Conti, Mauro & Dehghantanha, Ali & Franke, Katrin & Watson, Steve. (2017). Internet of Things Security and Forensics: Challenges and Opportunities. Future Generation Computer Systems. 78. 10.1016/j.future.2017.07.060. 
+**Published In/Citation:** Conti, Mauro & Dehghantanha, Ali & Franke, Katrin & Watson, Steve. (2017). Internet of Things Security and Forensics: Challenges and Opportunities. Future Generation Computer Systems. 78. 10.1016/j.future.2017.07.060.   
 **Summary:** The authors of this literature begin to discuss the security and forensics challenges in the world of IoT. A few of the challenges the authors expand on are aspects such as authentication, privacy, and evidence identification, collection, and preservation. The authors then go on to conclude their literature with solutions they referenced from other publish papers.    
 **Notes:**  Some things to talk about, because of the widespread of IoT devices which college and transfer data, security plays a big challenge. Security challenges mentioned in the reading : Authentication and Privacy.  
 
