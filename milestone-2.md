@@ -49,3 +49,9 @@ Security Challenges: Authentication and Privacy
 **Summary:** In this paper, the authors begin to explain the rise of IoT devices. Examples such as intelligent home control systems to advanced city management systems, which produce and consume personal data. With the consumption and use of personal data, challenges arise. Thus, in order to help mitigate IoT challenges, the authors identify key areas that solutions should target.  
 **Notes:** ...  
 
+1. **IoT Forensic: Bridging the Challenges in Digital Forensic and the Internet of Things**  
+**Authors:** Nurul Huda Nik Zulkipli, Ahmed Alenezi and Gary B. Wills   
+**Date Published:** January 2017    
+**Published In:** Conference: 2nd International Conference on Internet of Things, Big Data and Security 2017  
+**Summary:** In this paper, the authors mention how these smart devices are used in many domains such as homes, transportation, and healthcare. However, these devices could be easily attacked because of the low-security mechanisms implemented and as a result could compromise legitimate data in an investigation. In order to help combat this issue, the authors propose two different approaches for the pre-investigation and implementation phases in forensics.  
+**Notes:** This paper has great information on IoT forensics challenges that helps outline the difficulties in IoT. Some of the challenges mentioned are the following: The Investigation Framework, Diversity of Devices, and Lack of Standardization. The authors also talk about the sources of threats in IoT devices, which could help us during our Milestone 3 part of this project.   
