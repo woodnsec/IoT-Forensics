@@ -27,6 +27,8 @@
 
 [IoT Forensics Challenge](https://www.dfrws.org/dfrws-forensic-challenge)
 
+[Digital Forensic Investigations (DFI) using Internet of Things IoT](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/7724505)
+
 ### Documentation
 [Phillips Hue API](https://developers.meethue.com/develop/hue-api/) - Note: must have developer account (free) to access this page. 
 
