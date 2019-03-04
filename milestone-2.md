@@ -69,6 +69,6 @@ also list them out like this:
 
 1. **Internet of Things: The Need, Process Models, and Open Issues**  
 **Authors:** Maxim Chernyshev, Sherali Zeadally, Zubair Baig, and Andrew Woodward  
-**Published In:** IT Professional (Volume: 20, Issue: 3, May.Jun. 2018)  
+**Published In:** IT Professional (Volume: 20, Issue: 3, May./Jun. 2018)  
 **Summary:** This paper speaks about the complexity of extracting information from IoT devices. It can be uncertain where data is originating, where and how it is stored, and data attributes. The IoT infrastructure also can make it difficult to abide by standards in having a chain of custody since data can be very volatile and complex transit routes of the devices happen. Some traditonal forensic methods and techinques that are used for standard digital forensics may be very difficult to apply to IoT forensics. For example, carving (searching for specific content in an extracted file system image) could be difficult as many IoT devices, rely on flash memory and have no built-in filesystem storage capacity. There is a lack of consistency in format that it can be difficult to produce human-readable evidence.  
-**Notes:** The paper also includes an example in 2016 of a DoS attack against Dyn domain name servers that occurred from IoT devices. This occurred due to their vulnerabilities being exploited. The attack affected traffic to popular sites such as Twitter, Spotify, and Reddit.  
+**Notes:** The paper also includes an example in 2016 of a DoS attack against Dyn domain name servers that occurred from IoT devices. This occurred due to their vulnerabilities being exploited. The attack affected traffic to popular sites such as Twitter, Spotify, and Reddit.
