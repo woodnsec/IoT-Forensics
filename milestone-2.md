@@ -60,3 +60,9 @@ also list them out like this:
 **Published In:** 9th IEEE International Conference on Collaborative Computing: Networking, Applications and Worksharing  
 **Summary:** This paper mentions the various issues, threats, and attacks relating to IoT devices. It presents a realistic scenario of a malicious individual taking advantage of digital devices, including IoT devices. Important and relevant questions are asked as to how to respond and investigate the crime committed. Afterward it states the issues between traditional and IoT digital forensics, and follows with a recommended approach to handling the IoT devices.  
 **Notes:** This paper is great for referencing a realistic scenario that involves many devices and really shows how complicated the investigation can get. It halso has a few useful tables with information about traditional and IoT digital forensics.
+
+1. **IoT Forensics: Challenges For the IoA Era**  
+**Authors:** Aine MacDermott, Thar Baker, and Qi Shi  
+**Published In:** 2018 9th IFIP International Conference on New Technologies, Mobility and Security (NTMS)  
+**Summary:** The authors coined a definition for IoT in the paper focusing on the interconnected infrastructur and utilities of existing devices among the existing Internet infrastructure. Issues are broadly defined for IoT forensics as being volume, variety, and velocity. The paper focuses on challenges of investigating crime scenes that involve IoT devices, such as the size of the object, location, relevance, legal/jurisdiction issues, blurry network boundaries/edgeless networks, and avaialble tools. Issues are presented in this paper with different categories of IoT based devices.  
+**Notes:** The paper gives a good look at IoT forensics from an investigator point of view and presents numerous examples and issues with IoT forensics. 
