@@ -53,3 +53,10 @@ also list them out like this:
 **Published In:** Conference: 2nd International Conference on Internet of Things, Big Data and Security 2017  
 **Summary:** In this paper, the authors mention how these smart devices are used in many domains such as homes, transportation, and healthcare. However, these devices could be easily attacked because of the low-security mechanisms implemented and as a result could compromise legitimate data in an investigation. In order to help combat this issue, the authors propose two different approaches for the pre-investigation and implementation phases in forensics.  
 **Notes:** This paper has great information on IoT forensics challenges that helps outline the difficulties in IoT. Some of the challenges mentioned are the following: The Investigation Framework, Diversity of Devices, and Lack of Standardization. The authors also talk about the sources of threats in IoT devices, which could help us during our Milestone 3 part of this project.   
+
+1.  **Internet of Things Forensics: Challenges and Approaches**  
+**Authors:** Edewede Oriwoh, David Jazani, Gregory Epiphaniou, and Paul Sant  
+**Date Published:** 2013  
+**Published In:** 9th IEEE International Conference on Collaborative Computing: Networking, Applications and Worksharing  
+**Summary:** This paper mentions the various issues, threats, and attacks relating to IoT devices. It presents a realistic scenario of a malicious individual taking advantage of digital devices, including IoT devices. Important and relevant questions are asked as to how to respond and investigate the crime committed. Afterward it states the issues between traditional and IoT digital forensics, and follows with a recommended approach to handling the IoT devices.  
+**Notes:** This paper is great for referencing a realistic scenario that involves many devices and really shows how complicated the investigation can get. It halso has a few useful tables with information about traditional and IoT digital forensics.
