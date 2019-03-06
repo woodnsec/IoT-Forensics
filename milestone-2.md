@@ -1,20 +1,24 @@
 # Progress Report (insert date here)
 ## Overview
-(insert brief overview of efforts made)
+During this phase of our research we reviewed the documented resources found in milestone 1 in greater detail. After completing those reviews we identified difficulties in establishing a IoT framework. 
 
 ## Outcomes
-(brief overview of outcomes - what did you achieve?)
-
-also list them out like this:
-* outcome 1
-* Difficult stuff for frameworks
-  :(
+* We identified the following difficulties in establishing a IoT framework  
+  * **Data Extraction:** IoT devices have many different storage methods. They might use a cloud service, or write to a local hub running a service rather than storing data on the actual IoT devices.  Devices also may not include traditional interfaces for gathering data stored on IoT devices. 
 
 ## Hinderances
 (insert brief discussion of challenges encountered)
 
 ## Ongoing Risks
 (address your project risks identified from Milestone 1 and update them based on your current progress, this should be a table)
+
+|Risk name  | Impact     | Likelihood | Description | Mitigation |
+|-----------|------------|------------|-------------|------------|
+| Underdeveloped IoT forensic standard (30) | 10 | 3 | IoT forensics is an emerging field, so it may be difficult to find a formally-recognized, tested IoT forensic standard. | The team could examine developing, informal standards or adapt existing digital forensic methodologies. |
+| Limited access to forensic applications (21) | 7 | 3 | Access to industry-approved forensic toolkits may be limited due to inadequate funding. | The team can access the UNO Steal labs, which have FTK installed. Otherwise, free digital forensic toolkits like SANS SIFT and Autopsy can be procured. |
+| Loss of data (32) | 8 | 4 | During the course of the project, data could be corrupted or otherwise lost. | The team will implement redundant data storage. Data gathered from research and hands-on experimentation will be stored on flash drives and Google Drive. |
+| No formal funding (30) | 3 | 10 | No grant funding for applications or devices will be provided to the team. All expenses will be out of pocket. | Spending will be minimized wherever possible. IoT devices will be provided by team members and digital investigation tools will be primarily open-source, with the exception of FTK. |
+| Lack of device documentation (20) | 5 | 4 | IoT devices may not have comprehensive documentation available for public perusal. | The team is working primarily with IoT devices and software that are known to have extensive documentation. | 
 
 
 ## Quick Notes: 
