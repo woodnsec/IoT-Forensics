@@ -1,10 +1,10 @@
-# Progress Report (insert date here)
+# Progress Report March 28th, 2019
 ## Overview
 During this phase of our research we reviewed the documented resources found in milestone 1 in greater detail. After completing those reviews we identified difficulties in establishing a IoT framework. 
 
 ## Outcomes
-* We identified the following difficulties in establishing a IoT framework  
-  * **Data Extraction:** IoT devices have many different storage methods. They might use a cloud service, or write to a local hub running a service rather than storing data on the actual IoT devices.  Devices also may not include traditional interfaces for gathering data stored on IoT devices. 
+##### We identified the following difficulties in establishing a IoT framework  
+* **Data Extraction:** IoT devices have many different storage methods. They might use a cloud service, or write to a local hub running a service rather than storing data on the actual IoT devices.  Devices also may not include traditional interfaces for gathering data stored on IoT devices. 
 
 ## Hinderances
 (insert brief discussion of challenges encountered)
@@ -15,7 +15,7 @@ During this phase of our research we reviewed the documented resources found in 
 |Risk name  | Impact     | Likelihood | Description | Mitigation |
 |-----------|------------|------------|-------------|------------|
 | Underdeveloped IoT forensic standard (30) | 10 | 3 | IoT forensics is an emerging field, so it may be difficult to find a formally-recognized, tested IoT forensic standard. | The team could examine developing, informal standards or adapt existing digital forensic methodologies. |
-| Limited access to forensic applications (21) | 7 | 3 | Access to industry-approved forensic toolkits may be limited due to inadequate funding. | The team can access the UNO Steal labs, which have FTK installed. Otherwise, free digital forensic toolkits like SANS SIFT and Autopsy can be procured. |
+| Limited access to forensic applications (14) | 7 | 2 | Access to industry-approved forensic toolkits may be limited due to inadequate funding. | The team can access the UNO Steal labs, which have FTK installed. Access can be scheduled by Dr. Hale for FTK. |
 | Loss of data (32) | 8 | 4 | During the course of the project, data could be corrupted or otherwise lost. | The team will implement redundant data storage. Data gathered from research and hands-on experimentation will be stored on flash drives and Google Drive. |
 | No formal funding (30) | 3 | 10 | No grant funding for applications or devices will be provided to the team. All expenses will be out of pocket. | Spending will be minimized wherever possible. IoT devices will be provided by team members and digital investigation tools will be primarily open-source, with the exception of FTK. |
 | Lack of device documentation (20) | 5 | 4 | IoT devices may not have comprehensive documentation available for public perusal. | The team is working primarily with IoT devices and software that are known to have extensive documentation. | 
