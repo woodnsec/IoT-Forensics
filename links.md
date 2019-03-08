@@ -19,7 +19,15 @@
 
 [IoT Forensics: Challenges for the IoA Era](https://ieeexplore.ieee.org/document/8328748)
 
-[Internet of Things: Challenges and Approaches](https://ieeexplore.ieee.org/document/6680032)
+[Internet of Things: Challenges and Approaches](https://ieeexplore.ieee.org/document/6680032) 
+
+[ACPO Good Practice Guide](https://www.digital-detective.net/digital-forensics-documents/ACPO_Good_Practice_Guide_for_Digital_Evidence_v5.pdf)
+
+[NIST Guide to Integrating Forensic Techniques into Incident Response](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-86.pdf)
+
+[A Comprehensive and Harmonized Digital Forensic Investigation Process Model](https://onlinelibrary-wiley-com.leo.lib.unomaha.edu/doi/epdf/10.1111/1556-4029.12823)
+
+[Technical Plan](https://www.ncdoj.gov/about-doj/crime-lab/crime-laboratory-documentation/computer-technical-procedure-manual-8-25-2010.aspx)
 
 
 [Digital Evidence Challenges in the Internet of Things](https://www.semanticscholar.org/paper/Digital-Evidence-Challenges-in-the-Internet-of-Hegarty-Lamb/b789f84ef58d5963996e134aa51fd9d01613b922)
