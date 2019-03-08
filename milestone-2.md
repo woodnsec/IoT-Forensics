@@ -15,6 +15,7 @@ also list them out like this:
 * [ACPO Good Practice Guide](https://www.digital-detective.net/digital-forensics-documents/ACPO_Good_Practice_Guide_for_Digital_Evidence_v5.pdf)
 * [NIST Guide to Integrating Forensic Techniques into Incident Response](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-86.pdf)
 * [A Comprehensive and Harmonized Digital Forensic Investigation Process Model](https://onlinelibrary-wiley-com.leo.lib.unomaha.edu/doi/epdf/10.1111/1556-4029.12823)
+* [Technical Plan](https://www.ncdoj.gov/about-doj/crime-lab/crime-laboratory-documentation/computer-technical-procedure-manual-8-25-2010.aspx)
 * Digital Forensic Science : Issues, Methods, and Challenges (ebook)
 * Handbook of digital forensics of multimedia data and devices (ebook)
 
