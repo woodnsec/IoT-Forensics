@@ -63,7 +63,7 @@ During this phase of our research we reviewed the documented resources found in 
 **Date Published:** 2013  
 **Published In:** 9th IEEE International Conference on Collaborative Computing: Networking, Applications and Worksharing  
 **Summary:** This paper mentions the various issues, threats, and attacks relating to IoT devices. It presents a realistic scenario of a malicious individual taking advantage of digital devices, including IoT devices. Important and relevant questions are asked as to how to respond and investigate the crime committed. Afterward it states the issues between traditional and IoT digital forensics, and follows with a recommended approach to handling the IoT devices.  
-**Notes:** This paper is great for referencing a realistic scenario that involves many devices and really shows how complicated the investigation can get. It halso has a few useful tables with information about traditional and IoT digital forensics.
+**Notes:** This paper is great for referencing a realistic scenario that involves many devices and really shows how complicated the investigation can get. It also has a few useful tables with information about traditional and IoT digital forensics.
 
 1. **IoT Forensics: Challenges For the IoA Era**  
 **Authors:** Aine MacDermott, Thar Baker, and Qi Shi  
