@@ -39,14 +39,12 @@ During this phase of research, we examined, compared, and contrasted multiple di
 **Proposed Framework (summary):** This is similar to the DOJ report, but more detailed. Each section gives a breakdown on what the protocol is, its purpose, equipment needed, term definitions, calibrations needed for tools, limitations, the procedure, references, and notes. This is a step-by-step technical guide meant to be used by law enforcement agencies of North Carolina as they investigate crimes with digital evidence.   
 **Notes:** As with the DOJ report, it might be useful to have a more technical step-by-step guide to show how current procedures need to be updated for IoT. This is almost 10 years old now, more recent than the DOJ report, but I do not think the procedures vary too much from what they are today. The report mentions many of the same forensic tools we have heard of from class.   
 
-
-* [ACPO Good Practice Guide](https://www.digital-detective.net/digital-forensics-documents/ACPO_Good_Practice_Guide_for_Digital_Evidence_v5.pdf)
-* [NIST Guide to Integrating Forensic Techniques into Incident Response](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-86.pdf)
-* [A Comprehensive and Harmonized Digital Forensic Investigation Process Model](https://onlinelibrary-wiley-com.leo.lib.unomaha.edu/doi/epdf/10.1111/1556-4029.12823)
-* [Technical Plan From North Carolina](https://www.ncdoj.gov/about-doj/crime-lab/crime-laboratory-documentation/computer-technical-procedure-manual-8-25-2010.aspx)
-* [DOJ Guide for Law Enforcement](https://www.ncjrs.gov/pdffiles1/nij/199408.pdf)
-* Digital Forensic Science : Issues, Methods, and Challenges (ebook)
-* Handbook of digital forensics of multimedia data and devices (ebook)
+1. **A Comprehensive and Harmonized Digital Forensic Investigation Process Model**  
+**Authors:** Aleksandar Valgarevic and Hein S. Venter  
+**Date Published:** November 2015  
+**Published In:** Journal of Forensic Sciences  
+**Proposed Framework (summary):** This paper aims at creating a standardized and formalized process of digital forensics. There are five general classes in the model. Readiness processes, an optional process that works to ensure the company is prepared for forensic investigations, should they need to conduct them. Initialization processes, focused on incident detection, first response, and planning for the digital investigation. Acquisitive processes, focused on the physical scene and collecting the digital evidence. Investigative processes,  which focuses on the actual investigation and the tasks that need to be conducted. The last class of processes is the concurrent processes, which the authors describe as novel. These processes should be conducted throughout the entire investigation, such as obtaining authorization, documentation, managing information flow, preserving the chain of custody and so on. Each process class is broken down further into processes and tasks that need to be done. The paper includes a flow chart to show the relationship between these processes and how the output of each process should flow into the input of the next. Some of these processes, such as those in the readiness process class, as iterative so that they can be returned to if needed (i.e. assessment of implementation shows changes are needed, so the company may need to re-define or re-plan their handling of potential digital evidence). The paper gives great detail to each process class and the processes within while also ensuring the model is abstract so it can be fitted as needed.   
+**Notes:** This paper gives a very detailed process model for digital investigations. It is written in abstract terms so that it could be applied to many different situations, including IoT. As one of the more recent papers listed, I think it is a good framework to use as a model going forward in our project. In addition, the authors seem to be pushing for standardization using this model, which just adds more weight to the importance of this model.   
 
 ## Outcomes
 (brief overview of outcomes - what did you achieve?)
