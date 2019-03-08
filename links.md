@@ -27,10 +27,12 @@
 
 [A Comprehensive and Harmonized Digital Forensic Investigation Process Model](https://onlinelibrary-wiley-com.leo.lib.unomaha.edu/doi/epdf/10.1111/1556-4029.12823)
 
-[Technical Plan](https://www.ncdoj.gov/about-doj/crime-lab/crime-laboratory-documentation/computer-technical-procedure-manual-8-25-2010.aspx)
+[North Carolina Technical Plan](https://www.ncdoj.gov/about-doj/crime-lab/crime-laboratory-documentation/computer-technical-procedure-manual-8-25-2010.aspx)
 
+[Digital Evidence Challenges in the Internet of Things](https://www.semanticscholar.org/paper/Digital-Evidence-Challenges-in-the-Internet-of-Hegarty-Lamb/b789f84ef58d5963996e134aa51fd9d01613b922)  
 
-[Digital Evidence Challenges in the Internet of Things](https://www.semanticscholar.org/paper/Digital-Evidence-Challenges-in-the-Internet-of-Hegarty-Lamb/b789f84ef58d5963996e134aa51fd9d01613b922)
+[DOJ Guide for Law Enforcement](https://www.ncjrs.gov/pdffiles1/nij/199408.pdf)  
+
 ### Data Sets
 
 [IoT Forensics Challenge](https://www.dfrws.org/dfrws-forensic-challenge)
