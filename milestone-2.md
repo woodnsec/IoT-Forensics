@@ -11,7 +11,12 @@ During this phase of our research we reviewed the documented resources found in 
 * **Evidence Handling:** Digital evidence can be easily modified which could potentially overwrite important data. Traditional digital devices typically only have one location of storage which is not the case in IoT device. The environment of IoT is much more volatile making data extraction harder.  
 
 ## Hinderances
-(insert brief discussion of challenges encountered)
+##### We identified the following hinderances for (something)
+* **Various Sources of Data:** In trying to extract data from different IoT devices, finding relevant data may expand over different sources. Such sources could include network traffic, local storage, synced applications, the cloud, etc. 
+
+* **Diverse Forensic Areas:** With different potential sources of data to extract from, it could be necessary to adapt standards from other forensic assessments such as cloud, network, digital, and mobile forensics. 
+
+* **Availability of Resources:** One of the tools we plan on using, FTK, is available in a lab/classroom. We can only get access to this resource if the lab/classroom is not being used for anther class at the time and we are given access by a faculty member. 
 
 ## Ongoing Risks
 (address your project risks identified from Milestone 1 and update them based on your current progress, this should be a table)
