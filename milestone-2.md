@@ -18,6 +18,8 @@ During this phase of our research we reviewed the documented resources found in 
 
 * **Availability of Resources:** One of the tools we plan on using, FTK, is available in a lab/classroom. We can only get access to this resource if the lab/classroom is not being used for anther class at the time and we are given access by a faculty member. 
 
+* **Time Constraint:** Our group will be limited with time since this is a semester long Capstone. We may not be able to investigate all of our desired IoT devices.  
+
 ## Ongoing Risks
 (address your project risks identified from Milestone 1 and update them based on your current progress, this should be a table)
 
