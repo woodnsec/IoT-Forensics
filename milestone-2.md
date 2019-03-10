@@ -10,6 +10,8 @@ During this phase of our research we reviewed the documented resources found in 
 
 * **Evidence Handling:** Digital evidence can be easily modified which could potentially overwrite important data. Traditional digital devices typically only have one location of storage which is not the case in IoT device. The environment of IoT is much more volatile making data extraction harder.  
 
+* **Evidence Identification:** Due to the variety of IoT devices and storage processes, identifying the data needed during an investigation can be challenging. Lack of forensic documentation and tools to collect the data once it has been identified can also be a nightmare for investigators.  
+
 ## Hinderances
 ##### We identified the following hinderances for (something)
 * **Various Sources of Data:** In trying to extract data from different IoT devices, finding relevant data may expand over different sources. Such sources could include network traffic, local storage, synced applications, the cloud, etc. 
