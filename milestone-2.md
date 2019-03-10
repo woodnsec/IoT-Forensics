@@ -6,6 +6,10 @@ During this phase of our research we reviewed the documented resources found in 
 ##### We identified the following difficulties in establishing a IoT framework  
 * **Data Extraction:** IoT devices have many different storage methods. They might use a cloud service, or write to a local hub running a service rather than storing data on the actual IoT devices.  Devices also may not include traditional interfaces for gathering data stored on IoT devices. 
 
+* **Chain of Custody:** Keeping a well document Chain of Custody is a vital process during a forensics investigation. However, with the diversity of IoT devices maintaining the documentation to uphold integrity could be difficult.  
+
+* **Evidence Handling:** Digital evidence can be easily modified which could potentially overwrite important data. Traditional digital devices typically only have one location of storage which is not the case in IoT device. The environment of IoT is much more volatile making data extraction harder.  
+
 ## Hinderances
 (insert brief discussion of challenges encountered)
 
