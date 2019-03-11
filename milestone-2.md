@@ -47,15 +47,15 @@ During this phase of research, we examined, compared, and contrasted multiple di
 **Notes:** This paper gives a very detailed process model for digital investigations. It is written in abstract terms so that it could be applied to many different situations, including IoT. As one of the more recent papers listed, I think it is a good framework to use as a model going forward in our project. In addition, the authors seem to be pushing for standardization using this model, which just adds more weight to the importance of this model.   
 
 ## Outcomes
-(brief overview of outcomes - what did you achieve?)
-
-also list them out like this:
-* Investigate DF frameworks 
-  We did this. 
-* outcome 2
+(brief overview of outcomes - what did you achieve?)  
+ * Examined multiple digital forensics frameworks from over the years  
+ * Selected two frameworks to use / reference moving foward in our project  
+ * Examined and selected technical procedures to use and reference as we move into the hands on portion of our project  
 
 ## Hinderances
-(insert brief discussion of challenges encountered)
+(insert brief discussion of challenges encountered)  
+ * No standardization of frameworks   
+ * Large body of reasearch  
 
 ## Ongoing Risks
 (address your project risks identified from Milestone 1 and update them based on your current progress, this should be a table)
