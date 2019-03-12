@@ -12,8 +12,10 @@ During this phase of our research we reviewed the documented resources found in 
 
 * **Evidence Identification:** Due to the variety of IoT devices and storage processes, identifying the data needed during an investigation can be challenging. Lack of forensic documentation and tools to collect the data once it has been identified can also be a nightmare for investigators.  
 
+* **Project Objectives:** Our project objectives have changed based upon our research. We discovered that many of the existing frameworks for forensics and IoT forensics are very similar to one another. They focus on a few core principles and differences from traditional forensics to IoT forensics. As a result we've decided to focus more on the practical application of IoT forensics with hands on experiments, and shift away from developing our own framework. 
+
 ## Hinderances
-##### We identified the following hinderances for (something)
+##### We identified the following hindrances for the project
 * **Various Sources of Data:** In trying to extract data from different IoT devices, finding relevant data may expand over different sources. Such sources could include network traffic, local storage, synced applications, the cloud, etc. 
 
 * **Diverse Forensic Areas:** With different potential sources of data to extract from, it could be necessary to adapt standards from other forensic assessments such as cloud, network, digital, and mobile forensics. 
@@ -23,8 +25,6 @@ During this phase of our research we reviewed the documented resources found in 
 * **Time Constraint:** Our group will be limited with time since this is a semester long Capstone. We may not be able to investigate all of our desired IoT devices.  
 
 ## Ongoing Risks
-(address your project risks identified from Milestone 1 and update them based on your current progress, this should be a table)
-
 |Risk name  | Impact     | Likelihood | Description | Mitigation |
 |-----------|------------|------------|-------------|------------|
 | Underdeveloped IoT forensic standard (30) | 10 | 3 | IoT forensics is an emerging field, so it may be difficult to find a formally-recognized, tested IoT forensic standard. | The team could examine developing, informal standards or adapt existing digital forensic methodologies. |
