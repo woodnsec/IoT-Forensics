@@ -2,6 +2,9 @@
 ## Overview
 During this phase of our research we reviewed the documented resources found in milestone 1 in greater detail. After completing those reviews we identified difficulties in establishing a IoT framework. 
 
+### Data Acquisition stuffs. 
+(╯°□°)╯︵ ┻━┻
+
 ## Outcomes
 ##### We identified the following difficulties in establishing a IoT framework  
 * **Data Extraction:** IoT devices have many different storage methods. They might use a cloud service, or write to a local hub running a service rather than storing data on the actual IoT devices.  Devices also may not include traditional interfaces for gathering data stored on IoT devices. 
