@@ -8,7 +8,7 @@ During this phase of our research we reviewed the documented resources found in 
 
 * **Chain of Custody:** Keeping a well document Chain of Custody is a vital process during a forensics investigation. However, with the diversity of IoT devices maintaining the documentation to uphold integrity could be difficult.  
 
-* **Evidence Handling:** Digital evidence can be easily modified which could potentially overwrite important data. Traditional digital devices typically only have one location of storage which is not the case in IoT device. The environment of IoT is much more volatile making data extraction harder.  
+* **Evidence Handling:** Digital evidence can be easily modified which could potentially overwrite important data. Traditional digital devices typically only have one location of storage which is not the case in IoT device. The environment of IoT is much more volatile making data extraction more difficult.  
 
 * **Evidence Identification:** Due to the variety of IoT devices and storage processes, identifying the data needed during an investigation can be challenging. Lack of forensic documentation and tools to collect the data once it has been identified can also be a nightmare for investigators.  
 
@@ -20,7 +20,7 @@ During this phase of our research we reviewed the documented resources found in 
 
 * **Diverse Forensic Areas:** With different potential sources of data to extract from, it could be necessary to adapt standards from other forensic assessments such as cloud, network, digital, and mobile forensics. 
 
-* **Availability of Resources:** One of the tools we plan on using, FTK, is available in a lab/classroom. We can only get access to this resource if the lab/classroom is not being used for anther class at the time and we are given access by a faculty member. 
+* **Availability of Resources:** One of the tools we plan on using, FTK, is available in a lab/classroom. We can only get access to this resource if the lab/classroom is not being used for anther class at the time and we are given access by a faculty member. The software may not be feasible to use with IoT devices, as many of them don't store data on the device, but rather on the cloud etc. See above section on various sources of data. 
 
 * **Time Constraint:** Our group will be limited with time since this is a semester long Capstone. We may not be able to investigate all of our desired IoT devices.  
 
