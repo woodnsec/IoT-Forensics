@@ -9,7 +9,7 @@ During this phase of our research we reviewed the documented resources found in 
 
 (ノಠ益ಠ)ノ彡┻━┻
 
-┬──┬﻿ ¯\_(ツ)
+┬──┬ ¯\_(ツ)
 
 ## Outcomes
 ##### We identified the following difficulties in establishing a IoT framework  
