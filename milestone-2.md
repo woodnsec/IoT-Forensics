@@ -32,7 +32,7 @@ During this phase of research, we examined, compared, and contrasted multiple di
 **Proposed Framework (summary):** This is a guide for law enforcement officials who will be examining digital evidence. The report starts with considerations for the agency (i.e. Is your agency prepared?) and continues to focus more on a step-by-step guide on collecting, examining, and analyzing digital evidence. It also includes case examples to illustrate the process and include a report that might be generated for that case following the procedure. The phases they lay out are: Policy and Procedure Development, Evidence Assessment, Evidence Acquisition, Evidence Examination, and Documenting and Reporting.   
 **Notes:** This document targets law enforcement officials but may be useful to show that the procedures laid out for traditional forensics might not work as well with IoT devices. It gives a step-by-step process that officials should take when confronted with digital evidence.   
 
-1. **Computer Forensics Technical Procedure Manual** 
+1. **Computer Forensics Technical Procedure Manual**  
 **Authors:** North Carolina State Bureau of Investigation  
 **Date Published:** August 25, 2010  
 **Published In:**  
@@ -47,15 +47,13 @@ During this phase of research, we examined, compared, and contrasted multiple di
 **Notes:** This paper gives a very detailed process model for digital investigations. It is written in abstract terms so that it could be applied to many different situations, including IoT. As one of the more recent papers listed, I think it is a good framework to use as a model going forward in our project. In addition, the authors seem to be pushing for standardization using this model, which just adds more weight to the importance of this model.   
 
 ## Outcomes
-(brief overview of outcomes - what did you achieve?)  
- * Examined multiple digital forensics frameworks from over the years  
- * Selected two frameworks to use / reference moving foward in our project  
- * Examined and selected technical procedures to use and reference as we move into the hands on portion of our project  
+##### We have accomplished the following activities:   
+ * **Research and Framework Selection:** We examined multiple digital forensics frameworks from over the years and analyzed their applicability to our project. We determined that the Comprehensive and Harmonized framework proposed by Valgarevic and Venter was the most suitable for our needs. We will also refer to ACPO and NIST.  
+ 
+ * **Research Methodology:** We examined and selected technical procedures to use and reference as we move into the hands on portion of our project.  We will refer to the processes and procedures presented in the Computer Forensics Technical Procedure Manual (North Carolina State Bureau of Investigation) and the Forensic Examination of Digital Evidence: A Guide for Law Enforcement (US Department of Justice).  
 
 ## Hinderances
-(insert brief discussion of challenges encountered)  
- * No standardization of frameworks   
- * Large body of reasearch  
-
-## Ongoing Risks
-(address your project risks identified from Milestone 1 and update them based on your current progress, this should be a table)
+##### We have identified the following hinderances:  
+ * **No Standard:** Currently, no nationally or globally accepted standard for digital forensics exists. We have guidelines and recommendations in the forms of NIST and ACPO, which are widely accepted, but are not frameworks. Naturally, this lack of standardization impacts the formation of IoT frameworks, which are based on digital forensics frameworks.  
+ 
+ * **Volume of Research:** The field of digital forensics has over 20 years of research and documentation to examine. A clear trend we noticed during our research was that the various frameworks we examined seemed to build off predecessors. As a result, general themes for the field appear in most works.  
