@@ -21,21 +21,18 @@ During this phase of research, we examined, compared, and contrasted multiple di
 1. **Guide to Integrating Forensics Techniques into Incident Response**  
 **Authors:** Karen Kent, Suzanna Chevalier, Tim Grance, and Hung Dang  
 **Date Published:** August 2006  
-**Published In:**  
 **Proposed Framework (summary):** This is to be used as a guide for organizations working to develop their own forensic plan. They express it should be a starting point to help companies, but it should not be used to guide the execution of a digital forensic investigation and that the organization should consult with legal experts as they create their plan. The guide lays out four basic phases for digital forensics: Collection, Examination, Analysis, and Reporting. In the Collection phase the organization should identify, label, record, and acquire data from relevant sources. In the Examination phase, manual and automatic process should be used to extract and assess data of interest while ensuring the integrity of that data. The Analysis phase uses the data gathered to answer questions that lead to the collection of the data (i.e. Did employee X misuse their computer resources?). Lastly, in the Reporting phase the results of the previous phase, actions taken, tools, techniques, and procedures used should be presented and compiled into a final report. This guide is massive and includes sections on forensic staffing, commonly used media types, filesystems, file headers, volatile data, and so on. This report is 121 pages long with a wealth of information to help guide those looking to add forensic capability to their organization.   
 **Notes:** This is not a standard or framework, but it may still be useful to reference throughout our paper as it should be used as a starting point for those inducing forensics into their organization. The report itself is highly referenced and one of the more recent publications on this topic from the US government.   
 
 1. **Forensic Examination of Digital Evidence: A Guide for Law Enforcement**  
 **Authors:** US Department of Justice  
-**Date Published:** April 2004  
-**Published In:**   
+**Date Published:** April 2004    
 **Proposed Framework (summary):** This is a guide for law enforcement officials who will be examining digital evidence. The report starts with considerations for the agency (i.e. Is your agency prepared?) and continues to focus more on a step-by-step guide on collecting, examining, and analyzing digital evidence. It also includes case examples to illustrate the process and include a report that might be generated for that case following the procedure. The phases they lay out are: Policy and Procedure Development, Evidence Assessment, Evidence Acquisition, Evidence Examination, and Documenting and Reporting.   
 **Notes:** This document targets law enforcement officials but may be useful to show that the procedures laid out for traditional forensics might not work as well with IoT devices. It gives a step-by-step process that officials should take when confronted with digital evidence.   
 
 1. **Computer Forensics Technical Procedure Manual**  
 **Authors:** North Carolina State Bureau of Investigation  
 **Date Published:** August 25, 2010  
-**Published In:**  
 **Proposed Framework (summary):** This is similar to the DOJ report, but more detailed. Each section gives a breakdown on what the protocol is, its purpose, equipment needed, term definitions, calibrations needed for tools, limitations, the procedure, references, and notes. This is a step-by-step technical guide meant to be used by law enforcement agencies of North Carolina as they investigate crimes with digital evidence.   
 **Notes:** As with the DOJ report, it might be useful to have a more technical step-by-step guide to show how current procedures need to be updated for IoT. This is almost 10 years old now, more recent than the DOJ report, but I do not think the procedures vary too much from what they are today. The report mentions many of the same forensic tools we have heard of from class.   
 
@@ -45,6 +42,16 @@ During this phase of research, we examined, compared, and contrasted multiple di
 **Published In:** Journal of Forensic Sciences  
 **Proposed Framework (summary):** This paper aims at creating a standardized and formalized process of digital forensics. There are five general classes in the model. Readiness processes, an optional process that works to ensure the company is prepared for forensic investigations, should they need to conduct them. Initialization processes, focused on incident detection, first response, and planning for the digital investigation. Acquisitive processes, focused on the physical scene and collecting the digital evidence. Investigative processes,  which focuses on the actual investigation and the tasks that need to be conducted. The last class of processes is the concurrent processes, which the authors describe as novel. These processes should be conducted throughout the entire investigation, such as obtaining authorization, documentation, managing information flow, preserving the chain of custody and so on. Each process class is broken down further into processes and tasks that need to be done. The paper includes a flow chart to show the relationship between these processes and how the output of each process should flow into the input of the next. Some of these processes, such as those in the readiness process class, as iterative so that they can be returned to if needed (i.e. assessment of implementation shows changes are needed, so the company may need to re-define or re-plan their handling of potential digital evidence). The paper gives great detail to each process class and the processes within while also ensuring the model is abstract so it can be fitted as needed.   
 **Notes:** This paper gives a very detailed process model for digital investigations. It is written in abstract terms so that it could be applied to many different situations, including IoT. As one of the more recent papers listed, I think it is a good framework to use as a model going forward in our project. In addition, the authors seem to be pushing for standardization using this model, which just adds more weight to the importance of this model.   
+
+1. **ACPO Good Practice Guide for Digital Evidence**  
+**Authors:** The Association of Chief Police Officers  
+**Date Published:** March 2012  
+**Principles (summary):** The ACPO Guidelines consist of four principles that are fundamental to any forensic investigation. The principles are listed below.  
+- **Principle 1:** No action taken by law enforcement agencies, persons employed within those agencies or their agents should change data which may subsequently be relied upon in court.  
+- **Principle 2:** In circumstances where a person finds it necessary to access original data, that person must be competent to do so and be able to give evidence explaining the relevance and the implications of their actions.  
+- **Principle 3:** An audit trail or other record of all processes applied to digital evidence should be created and preserved. An independent third party should be able to examine those processes and achieve the same result.  
+- **Principle 4:** The person in charge of the investigation has overall responsibility for ensuring that the law and these principles are adhered to.  
+**Notes:** The ACPO Guidelines were adopted by police forces in England, Wales and Northern Ireland. These principles provide guidance for any law enforcement entity that may have to deal with digital evidence. As a result, its recommendations provide an excellent baseline for any forensic framework. We can judge the efficacy of any frameworks we research by analyzing how well they comply with the ACPO guidelines, specifically the principles.  
 
 ## Outcomes
 ##### We have accomplished the following activities:   
