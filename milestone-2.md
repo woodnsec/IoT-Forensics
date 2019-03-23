@@ -11,6 +11,9 @@ During this phase of our research we reviewed the documented resources found in 
 
 ┬──┬ ¯\_(ツ)
 
+* The process of data acquisition for IoT versus typical digital forensics, is very complex. “Moreover, there are very limited methods to create forensic image of a given IoT device ignoring ethical considerations when collecting evidences from devices running in a multi-tenancy environment.” IoT device interact with other nodes/hubs when transferring and handling users data. We can’t just take an image of that device due to the lack of abilities and use case. IoT devices are small/limited with the data consumption which is why outside nodes/hubs are used. (referenced from: Internet of Things Security and Forensics: Challenges and Opportunities)
+
+
 ## Outcomes
 ##### We identified the following difficulties in establishing a IoT framework  
 * **Data Extraction:** IoT devices have many different storage methods. They might use a cloud service, or write to a local hub running a service rather than storing data on the actual IoT devices.  Devices also may not include traditional interfaces for gathering data stored on IoT devices. 
