@@ -2,16 +2,13 @@
 ## Overview
 During this phase of our research we reviewed the documented resources found in milestone 1 in greater detail. After completing those reviews we identified difficulties in establishing a IoT framework. 
 
-### Data Acquisition stuffs. 
-(╯°□°)╯︵ ┻━┻
+### Data Acquisition 
 
-┬──┬ ノ( ゜-゜ノ)
+* **The Process of acquiring data:** The process of data acquisition for IoT versus typical digital forensics, is very complex. “Moreover, there are very limited methods to create forensic image of a given IoT device ignoring ethical considerations when collecting evidences from devices running in a multi-tenancy environment.” IoT device interact with other nodes/hubs when transferring and handling users data. We can’t just take an image of that device due to the lack of abilities and use case. IoT devices are small/limited with the data consumption which is why outside nodes/hubs are used. (referenced from: Internet of Things Security and Forensics: Challenges and Opportunities)  
 
-(ノಠ益ಠ)ノ彡┻━┻
+* **Acquiring Data over many different devices:** Data acquisition for a multitude of IoT devices could require expertise across different digital forensic branches. IoT devices can work off of a set of technologies including wired and wireless commuincations, remote and local storage, sensors, location tracking, etc. Extracting evidence from various technologies could require expertise in fields such as computer, mobile, and embedded forensics for local storage, network forensics for data over a communication medium, and cloud forensics for remote storage. (Reference from Internet of Things Forensics: The Need, Process Models, and Open Issues).   
 
-┬──┬ ¯\_(ツ)
-
-* The process of data acquisition for IoT versus typical digital forensics, is very complex. “Moreover, there are very limited methods to create forensic image of a given IoT device ignoring ethical considerations when collecting evidences from devices running in a multi-tenancy environment.” IoT device interact with other nodes/hubs when transferring and handling users data. We can’t just take an image of that device due to the lack of abilities and use case. IoT devices are small/limited with the data consumption which is why outside nodes/hubs are used. (referenced from: Internet of Things Security and Forensics: Challenges and Opportunities)
+* **Chain of Custody:** When acquring data from IoT devices, it is important for a forensic perspective to pinpoint where exactly the data came from. From conventional computer and digital forensic practices, it is impractical to use the established search and seizure procedures when finding evidence stored in cloud datacenters. It can therefore be seen as impossible to maintain a chain of custody relating to how, when, and where evidence was acquired. (referenced from IoT forensics: Challenges for the IoA era.) 
 
 
 ## Outcomes
