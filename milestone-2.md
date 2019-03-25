@@ -8,7 +8,7 @@ During this phase of our research we reviewed the documented resources found in 
 
 * **Chain of Custody:** When acquring data from IoT devices, it is important for a forensic perspective to pinpoint where exactly the data came from. From conventional computer and digital forensic practices, it is impractical to use the established search and seizure procedures when finding evidence stored in cloud datacenters. It can therefore be seen as impossible to maintain a chain of custody relating to how, when, and where evidence was acquired. (referenced from IoT forensics: Challenges for the IoA era.) 
 
-* **Data Acquisition Tools:** When attempting to acquire data from IoT devices their is a lack of IoT tools in comparison to traditional digital forensics. IoT devices interact with multiple nodes when transferring and storing data which makes make the acquisition process very complex.  (referenced from IoT Forensic: Bridging the Challenges in Digital Forensic and the Internet of Things) . 
+* **Data Acquisition Tools:** When attempting to acquire data from IoT devices there is a lack of IoT tools in comparison to traditional digital forensics. IoT devices interact with multiple nodes when transferring and storing data which makes make the acquisition process very complex.  (referenced from IoT Forensic: Bridging the Challenges in Digital Forensic and the Internet of Things) . 
 
 
 ## Outcomes
