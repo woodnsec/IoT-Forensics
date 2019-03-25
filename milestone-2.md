@@ -1,9 +1,9 @@
 # Progress Report March 28th, 2019
 ## Overview
-During this phase of our research we reviewed the documented resources found in milestone 1 in greater detail. After completing those reviews we identified difficulties in establishing a IoT framework. 
+During this phase of our research we reviewed the documented resources found in milestone 1 in greater detail. We specifically examined the data acquisition techniques that various frameworks and procedures employed. We compiled these methodologies and implemented one data acquisition methodology for our project moving forward.
 
 ### Data Acquisition 
-
+##### We identified the following trends regarding data acquisition in the literature  
 * **Acquiring Data over many different devices:** Data acquisition for a multitude of IoT devices could require expertise across different digital forensic branches. IoT devices can work off of a set of technologies including wired and wireless commuincations, remote and local storage, sensors, location tracking, etc. Extracting evidence from various technologies could require expertise in fields such as computer, mobile, and embedded forensics for local storage, network forensics for data over a communication medium, and cloud forensics for remote storage. (Reference from Internet of Things Forensics: The Need, Process Models, and Open Issues).   
 
 * **Chain of Custody:** When acquring data from IoT devices, it is important for a forensic perspective to pinpoint where exactly the data came from. From conventional computer and digital forensic practices, it is impractical to use the established search and seizure procedures when finding evidence stored in cloud datacenters. It can therefore be seen as impossible to maintain a chain of custody relating to how, when, and where evidence was acquired. (referenced from IoT forensics: Challenges for the IoA era.) 
