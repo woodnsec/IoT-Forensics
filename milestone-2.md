@@ -1,7 +1,12 @@
 # Progress Report March 28th, 2019
-* **Capstone:** IoT Forensics  
-* **University:** University of Nebraska at Omaha  
-* **Members:** Elisabeth Henderson, Ashley Leedom, Amber Makovicka, Ronald Ramirez, & Nathan Wood   
+**Capstone:** IoT Forensics  
+**University:** University of Nebraska at Omaha  
+**Members:** Elisabeth Henderson, Ashley Leedom, Amber Makovicka, Ronald Ramirez, & Nathan Wood   
+
+- [Overview](#overview)
+- [Outcomes](#outcomes)
+- [Hinderances](#hinderances) 
+- [Ongoing Risks](#ongoing-risks)
 
 
 ## Overview  
@@ -15,7 +20,7 @@ The last aspect of this Milestone was focused on preparing for the hands-on data
 
 ## Outcomes
 Our project objectives have changed based upon our research. We discovered that many of the existing frameworks for forensics and IoT forensics are very similar to one another. They focus on a few core principles and differences from traditional forensics to IoT forensics. As a result we've decided to focus more on the practical application of IoT forensics with hands on experiments, and shift away from developing our own framework.  
-
+<br>
 #### These are the outcomes we derived after researching digital forensic frameworks  
 * **Research Methodology:** We examined and selected technical procedures to use and reference as we move into the hands on portion of our project.  We will refer to the processes and procedures presented in the Computer Forensics Technical Procedure Manual (North Carolina State Bureau of Investigation) and the Forensic Examination of Digital Evidence: A Guide for Law Enforcement (US Department of Justice).  
 
@@ -34,7 +39,7 @@ The initialization class deals with the commencement of an investigation and enc
 The acquisitive class is primarily concerned with the collection, transportation, and storage of digital evidence. Investigators must take care to maintain the integrity of all data collected during this stage of an investigation.  
 
 The investigative class is where collected evidence is analyzed, interpreted, and presented to the relevant parties. After a report has been generated and the findings delivered, the investigation is wrapped up and closed.  Evidence is preserved in the event that the investigation must be reopened.  
-
+<br>
 #### We identified the following difficulties in establishing an IoT framework standard  
 * **Data Extraction:** IoT devices have many different storage methods. They might use a cloud service, or write to a local hub running a service rather than storing data on the actual IoT devices.  Devices also may not include traditional interfaces for gathering data stored on IoT devices. 
 
@@ -43,7 +48,7 @@ The investigative class is where collected evidence is analyzed, interpreted, an
 * **Evidence Handling:** Digital evidence can be easily modified which could potentially overwrite important data. Traditional digital devices typically only have one location of storage which is not the case in IoT device. The environment of IoT is much more volatile making data extraction more difficult.  
 
 * **Evidence Identification:** Due to the variety of IoT devices and storage processes, identifying the data needed during an investigation can be challenging. Lack of forensic documentation and tools to collect the data once it has been identified can also be a nightmare for investigators.  
-
+<br>
 #### This is the outcome we derived from researching IoT data acquisition techniques  
 * **Data Acquisition Plan:** We have identified four data acquisition techniques we would like to attempt on our own devices. These include using FTK to attempt data extraction, hardware-based data extraction, Bluetooth-based data extraction, and acquiring application data from a mobile device.    
 
