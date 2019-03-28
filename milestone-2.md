@@ -50,7 +50,8 @@ The investigative class is where collected evidence is analyzed, interpreted, an
 * **Evidence Identification:** Due to the variety of IoT devices and storage processes, identifying the data needed during an investigation can be challenging. Lack of forensic documentation and tools to collect the data once it has been identified can also be a nightmare for investigators.  
 <br>
 #### This is the outcome we derived from researching IoT data acquisition techniques  
-* **Data Acquisition Plan:** We have identified four data acquisition techniques we would like to attempt on our own devices. These include using FTK to attempt data extraction, hardware-based data extraction, Bluetooth-based data extraction, and acquiring application data from a mobile device.    
+
+* **Data Acquisition Plan:** We have identified four data acquisition techniques we would like to attempt on our own devices. These include using FTK to attempt data extraction, hardware-based data extraction, Bluetooth-based data extraction, and acquiring application data from a mobile device.  
 
 ## Hinderances
 #### We identified the following hindrances relating to the project and conducted research  
