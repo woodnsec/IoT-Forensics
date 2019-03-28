@@ -1,6 +1,10 @@
 # Progress Report March 28th, 2019
 ## Overview
-During this phase of our research we reviewed the documented resources found in milestone 1 in greater detail. After completing those reviews we identified difficulties in establishing a IoT framework. 
+During this phase of our research we reviewed the documented resources found in milestone 1 in greater detail. We specifically examined the data acquisition techniques that various frameworks and procedures employed. We compiled these methodologies and implemented one data acquisition methodology for our project moving forward.
+
+### Data Acquisition 
+##### We identified the following trends regarding data acquisition in the literature  
+
 
 ## Outcomes
 ##### We identified the following difficulties in establishing a IoT framework  
@@ -19,14 +23,19 @@ During this phase of our research we reviewed the documented resources found in 
 * **Research Methodology:** We examined and selected technical procedures to use and reference as we move into the hands on portion of our project.  We will refer to the processes and procedures presented in the Computer Forensics Technical Procedure Manual (North Carolina State Bureau of Investigation) and the Forensic Examination of Digital Evidence: A Guide for Law Enforcement (US Department of Justice).  
 
 ## Hinderances
-##### We identified the following hindrances for the project
-* **Various Sources of Data:** In trying to extract data from different IoT devices, finding relevant data may expand over different sources. Such sources could include network traffic, local storage, synced applications, the cloud, etc. 
+##### We identified the following hindrances relating to data acquisition  
+* **Acquiring Data over many different devices:** Data acquisition for a multitude of IoT devices could require expertise across different digital forensic branches. IoT devices can work off of a set of technologies including wired and wireless communications, remote and local storage, sensors, location tracking, etc. Extracting evidence from various technologies could require expertise in fields such as computer, mobile, and embedded forensics for local storage, network forensics for data over a communication medium, and cloud forensics for remote storage. (Reference from Internet of Things Forensics: The Need, Process Models, and Open Issues).   
 
-* **Diverse Forensic Areas:** With different potential sources of data to extract from, it could be necessary to adapt standards from other forensic assessments such as cloud, network, digital, and mobile forensics. 
+* **Chain of Custody:** When acquiring data from IoT devices, it is important for a forensic perspective to pinpoint where exactly the data came from. From conventional computer and digital forensic practices, it is impractical to use the established search and seizure procedures when finding evidence stored in cloud datacenters. It can therefore be seen as impossible to maintain a chain of custody relating to how, when, and where evidence was acquired. (referenced from IoT forensics: Challenges for the IoA era.) 
 
-* **Availability of Resources:** One of the tools we plan on using, FTK, is available in a lab/classroom. We can only get access to this resource if the lab/classroom is not being used for anther class at the time and we are given access by a faculty member. The software may not be feasible to use with IoT devices, as many of them don't store data on the device, but rather on the cloud etc. See above section on various sources of data. 
+* **Data Acquisition Tools:** When attempting to acquire data from IoT devices there is a lack of IoT tools in comparison to traditional digital forensics. IoT devices interact with multiple nodes when transferring and storing data which makes make the acquisition process very complex.  (referenced from IoT Forensic: Bridging the Challenges in Digital Forensic and the Internet of Things).  
+  
+* **Jurisdiction:** Many IoT devices interact with and store data in the cloud. This means data of interest many not necessarily reside in the same state as the device of interest or even the same country. Attempting to get access to the data stored on data centers outside the country may lead to jurisdiction issues and complicate the data acquisition process.   
 
-* **Time Constraint:** Our group will be limited with time since this is a semester long Capstone. We may not be able to investigate all of our desired IoT devices.  
+* **Non-standardization of devices:** There are many IoT devices on the market, and many that serve similar functions but will likely track different data and possibly store the same data in different formats and places. Investigators need to be aware of the each device they examine, what that device tracks, and how it stores that information.  
+
+* **Variety of storage media on devices:** On IoT devices which actually store data on the device the extraction methods may be very difficult. Physical (invasive or non-invasive) extraction of data may be difficult as well. Devices may not be designed to come apart easily, or may require removing a memory chip to extract the data.  
+
 
 * **No Standard:** Currently, no nationally or globally accepted standard for digital forensics exists. We have guidelines and recommendations in the forms of NIST and ACPO, which are widely accepted, but are not frameworks. Naturally, this lack of standardization impacts the formation of IoT frameworks, which are based on digital forensics frameworks.  
  
