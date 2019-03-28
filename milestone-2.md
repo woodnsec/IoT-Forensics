@@ -14,6 +14,10 @@ During this phase of our research we reviewed the documented resources found in 
 
 * **Project Objectives:** Our project objectives have changed based upon our research. We discovered that many of the existing frameworks for forensics and IoT forensics are very similar to one another. They focus on a few core principles and differences from traditional forensics to IoT forensics. As a result we've decided to focus more on the practical application of IoT forensics with hands on experiments, and shift away from developing our own framework. 
 
+* **Research and Framework Selection:** We examined multiple digital forensics frameworks from over the years and analyzed their applicability to our project. We determined that the Comprehensive and Harmonized framework proposed by Valgarevic and Venter was the most suitable for our needs. We will also refer to ACPO and NIST.  
+ 
+* **Research Methodology:** We examined and selected technical procedures to use and reference as we move into the hands on portion of our project.  We will refer to the processes and procedures presented in the Computer Forensics Technical Procedure Manual (North Carolina State Bureau of Investigation) and the Forensic Examination of Digital Evidence: A Guide for Law Enforcement (US Department of Justice).  
+
 ## Hinderances
 ##### We identified the following hindrances relating to data acquisition  
 * **Acquiring Data over many different devices:** Data acquisition for a multitude of IoT devices could require expertise across different digital forensic branches. IoT devices can work off of a set of technologies including wired and wireless communications, remote and local storage, sensors, location tracking, etc. Extracting evidence from various technologies could require expertise in fields such as computer, mobile, and embedded forensics for local storage, network forensics for data over a communication medium, and cloud forensics for remote storage. (Reference from Internet of Things Forensics: The Need, Process Models, and Open Issues).   
@@ -29,6 +33,9 @@ During this phase of our research we reviewed the documented resources found in 
 * **Variety of storage media on devices:** On IoT devices which actually store data on the device the extraction methods may be very difficult. Physical (invasive or non-invasive) extraction of data may be difficult as well. Devices may not be designed to come apart easily, or may require removing a memory chip to extract the data.  
 
 
+* **No Standard:** Currently, no nationally or globally accepted standard for digital forensics exists. We have guidelines and recommendations in the forms of NIST and ACPO, which are widely accepted, but are not frameworks. Naturally, this lack of standardization impacts the formation of IoT frameworks, which are based on digital forensics frameworks.  
+ 
+* **Volume of Research:** The field of digital forensics has over 20 years of research and documentation to examine. A clear trend we noticed during our research was that the various frameworks we examined seemed to build off predecessors. As a result, general themes for the field appear in most works.  
 ## Ongoing Risks
 |Risk name  | Impact     | Likelihood | Description | Mitigation |
 |-----------|------------|------------|-------------|------------|
@@ -37,4 +44,3 @@ During this phase of our research we reviewed the documented resources found in 
 | Loss of data (32) | 8 | 4 | During the course of the project, data could be corrupted or otherwise lost. | The team will implement redundant data storage. Data gathered from research and hands-on experimentation will be stored on flash drives and Google Drive. |
 | No formal funding (30) | 3 | 10 | No grant funding for applications or devices will be provided to the team. All expenses will be out of pocket. | Spending will be minimized wherever possible. IoT devices will be provided by team members and digital investigation tools will be primarily open-source, with the exception of FTK. |
 | Lack of device documentation (20) | 5 | 4 | IoT devices may not have comprehensive documentation available for public perusal. | The team is working primarily with IoT devices and software that are known to have extensive documentation. | 
-
