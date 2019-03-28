@@ -39,7 +39,7 @@ The investigative class is where collected evidence is analyzed, interpreted, an
 
 * **Project Objectives:** Our project objectives have changed based upon our research. We discovered that many of the existing frameworks for forensics and IoT forensics are very similar to one another. They focus on a few core principles and differences from traditional forensics to IoT forensics. As a result we've decided to focus more on the practical application of IoT forensics with hands on experiments, and shift away from developing our own framework.  
 
-#### These are the outcomes we derived from researching IoT data acquisition techniques  
+#### This is the outcome we derived from researching IoT data acquisition techniques  
 * **Data Acquisition Plan:** We have identified four data acquisition techniques we would like to attempt on our own devices. These include using FTK to attempt data extraction, hardware-based data extraction, Bluetooth-based data extraction, and acquiring cache data from a mobile device.    
 
 ## Hinderances
