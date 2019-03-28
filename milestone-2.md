@@ -20,7 +20,13 @@ The diagram below details the process flow of the Comprehensive and Harmonized f
 
 Concurrent Processes include obtaining authorization, documentation, managing information flow, preserving chain of custody, preserving digital evidence, and interaction with the physical investigation.  
 
-The readiness class is an optional set of processes that are mostly concerned with prepping an organization for an investigation. The initialization class deals with the commencement of an investigation and ecompasses incident detection, first response, planning, and preparation. The acquisitive class is primarily concerned with the collection, transportation, and storage of digital evidence.  Investigators must take care to maintain the integrity of all data collected during this stage of an investigation. The investigative class is where collected evidence is analyzed, interpreted, and presented to the relevant parties.  After a report has been generated and the findings delivered, the investigation is wrapped up and closed.  Evidence is preserved in the event that the investigation must be reopened.  
+The readiness class is an optional set of processes that are mostly concerned with prepping an organization for an investigation.  
+
+The initialization class deals with the commencement of an investigation and ecompasses incident detection, first response, planning, and preparation.  
+
+The acquisitive class is primarily concerned with the collection, transportation, and storage of digital evidence. Investigators must take care to maintain the integrity of all data collected during this stage of an investigation.  
+
+The investigative class is where collected evidence is analyzed, interpreted, and presented to the relevant parties. After a report has been generated and the findings delivered, the investigation is wrapped up and closed.  Evidence is preserved in the event that the investigation must be reopened.  
 
 #### We identified the following difficulties in establishing an IoT framework standard  
 * **Data Extraction:** IoT devices have many different storage methods. They might use a cloud service, or write to a local hub running a service rather than storing data on the actual IoT devices.  Devices also may not include traditional interfaces for gathering data stored on IoT devices. 
