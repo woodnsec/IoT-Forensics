@@ -1,7 +1,7 @@
 # Progress Report March 28th, 2019
-### IoT Forensics
-### University of Nebraska at Omaha
-### Elisabeth Henderson, Ashley Leedom, Amber Makovicka, Ronald Ramirez, & Nathan Wood 
+* **Capstone:** IoT Forensics  
+* **University:** University of Nebraska at Omaha  
+* **Members:** Elisabeth Henderson, Ashley Leedom, Amber Makovicka, Ronald Ramirez, & Nathan Wood   
 
 
 ## Overview  
