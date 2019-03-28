@@ -105,8 +105,8 @@
 **Authors:** The Association of Chief Police Officers  
 **Date Published:** March 2012  
 **Principles (summary):** The ACPO Guidelines consist of four principles that are fundamental to any forensic investigation. The principles are listed below.  
-- **Principle 1:** No action taken by law enforcement agencies, persons employed within those agencies or their agents should change data which may subsequently be relied upon in court.  
-- **Principle 2:** In circumstances where a person finds it necessary to access original data, that person must be competent to do so and be able to give evidence explaining the relevance and the implications of their actions.  
-- **Principle 3:** An audit trail or other record of all processes applied to digital evidence should be created and preserved. An independent third party should be able to examine those processes and achieve the same result.  
-- **Principle 4:** The person in charge of the investigation has overall responsibility for ensuring that the law and these principles are adhered to.  
+    * **Principle 1:** No action taken by law enforcement agencies, persons employed within those agencies or their agents should change data which may subsequently be relied upon in court.  
+    - **Principle 2:** In circumstances where a person finds it necessary to access original data, that person must be competent to do so and be able to give evidence explaining the relevance and the implications of their actions.  
+    - **Principle 3:** An audit trail or other record of all processes applied to digital evidence should be created and preserved. An independent third party should be able to examine those processes and achieve the same result.  
+    - **Principle 4:** The person in charge of the investigation has overall responsibility for ensuring that the law and these principles are adhered to.    
 **Notes:** The ACPO Guidelines were adopted by police forces in England, Wales and Northern Ireland. These principles provide guidance for any law enforcement entity that may have to deal with digital evidence. As a result, its recommendations provide an excellent baseline for any forensic framework. We can judge the efficacy of any frameworks we research by analyzing how well they comply with the ACPO guidelines, specifically the principles.  
