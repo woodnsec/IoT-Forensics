@@ -1,4 +1,7 @@
 # Progress Report March 28th, 2019
+### University of Nebraska at Omaha
+### Elisabeth Henderson, Ashley Leedom, Amber Makovicka, Ronald Ramirez, & Nathan Wood 
+
 ## Overview  
 The primary concerns of Milestone 2 were digesting the literature discovered in Milestone 1 and furthering our research base. We chose to focus our efforts in three categories: digital forensic frameworks, difficulties in establishing IoT forensic frameworks, and IoT data acquisition. Research in each of these categories furthered our project in several ways.  
 
