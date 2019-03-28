@@ -1,15 +1,28 @@
 # Progress Report March 28th, 2019
 ## Overview  
-The primary concerns of Milestone 2 were digesting the literature discovered in Milestone 1 and furthering our research base. We chose to focus our efforts in three categories: Digital Forensic frameworks, Difficulties in Establishing IoT Forensic frameworks, and IoT Data Acquisition. Research in each of these categories furthered our project in several ways.  
+The primary concerns of Milestone 2 were digesting the literature discovered in Milestone 1 and furthering our research base. We chose to focus our efforts in three categories: digital forensic frameworks, difficulties in establishing IoT forensic frameworks, and IoT data acquisition. Research in each of these categories furthered our project in several ways.  
 
-IoT Forensics draws considerable inspiration and direction from existing Digital Forensic frameworks and guidelines. As a result, studying existing Digital Forensic frameworks gives us insight into how an IoT Forensic framework could be constructed and, more importantly, the underlying principles these frameworks are meant to encompass. During this phase of our research, we examined multiple Digital Forensic frameworks from over the last 20 years. We noticed that newer frameworks tended to build and expand upon previous ones, creating more comprehensive frameworks as years persist. Our research culminated in selecting "A Comprehensive and Harmonized Digital Forensic Investigation Process Model" as our de facto Digital Forensic framework. We will compare IoT Forensic frameworks against this model to evaluate their efficacy.    
+IoT forensics draws considerable inspiration and direction from existing digital forensic frameworks and guidelines. As a result, studying existing digital forensic frameworks gives us insight into how an IoT forensic framework could be constructed and, more importantly, the underlying principles these frameworks are meant to encompass. During this phase of our research, we examined multiple digital forensic frameworks from over the last 20 years. We noticed that newer frameworks tended to build and expand upon previous ones, creating more comprehensive frameworks as years persist. Our research culminated in selecting "A Comprehensive and Harmonized Digital Forensic Investigation Process Model" as our de facto digital forensic framework. We will compare IoT forensic frameworks against this model to evaluate their efficacy.    
 
-Difficulties blurb.
+Currently no standardized IoT forensic framework exists. The research conducted during this phase of the project sought to understand the barriers to creating a standard. This is an issue that stems from many complications. These complications include the wide variety of IoT devices, each with their own uses, makes, models, operating systems, and storage capabilities. Additionally, many of these devices do not store their data locally, but rather offload the data to the cloud which adds another level of complexity to creating a standard. As a standard is meant to be applicable to all of these devices, this variety makes generalizations that are inherent to a standard impossible.  
 
-Acquisition blurb. 
+The last aspect of this Milestone was focused on preparing for the hands-on data acquisition that we will do on our own IoT devices. We have identified common pitfalls that we or others, such as forensics investigators, may fall into when attempting to acquire data from IoT devices. We also outline our approach for the next section and the acquisition methods we plan on using.  
 
 ## Outcomes
-##### We identified the following difficulties in establishing a IoT framework  
+#### These are the outcomes we derived after researching digital forensic frameworks  
+* **Research Methodology:** We examined and selected technical procedures to use and reference as we move into the hands on portion of our project.  We will refer to the processes and procedures presented in the Computer Forensics Technical Procedure Manual (North Carolina State Bureau of Investigation) and the Forensic Examination of Digital Evidence: A Guide for Law Enforcement (US Department of Justice).  
+
+* **Research and Framework Selection:** We examined multiple digital forensics frameworks from over the years and analyzed their applicability to our project. We determined that the Comprehensive and Harmonized framework proposed by Valgarevic and Venter was the most suitable for our needs. We will also refer to ACPO and NIST. 
+
+The diagram below details the process flow of the Comprehensive and Harmonized framework.  
+
+![CAHDF](https://user-images.githubusercontent.com/47015888/55125008-502f2080-50d6-11e9-9637-223187b46653.png)  
+
+Concurrent Processes include obtaining authorization, documentation, managing information flow, preserving chain of custody, preserving digital evidence, and interaction with the physical investigation.  
+
+The readiness class is an optional set of processes that are mostly concerned with prepping an organization for an investigation. The initialization class deals with the commencement of an investigation and ecompasses incident detection, first response, planning, and preparation. The acquisitive class is primarily concerned with the collection, transportation, and storage of digital evidence.  Investigators must take care to maintain the integrity of all data collected during this stage of an investigation. The investigative class is where collected evidence is analyzed, interpreted, and presented to the relevant parties.  After a report has been generated and the findings delivered, the investigation is wrapped up and closed.  Evidence is preserved in the event that the investigation must be reopened.  
+
+#### We identified the following difficulties in establishing an IoT framework standard  
 * **Data Extraction:** IoT devices have many different storage methods. They might use a cloud service, or write to a local hub running a service rather than storing data on the actual IoT devices.  Devices also may not include traditional interfaces for gathering data stored on IoT devices. 
 
 * **Chain of Custody:** Keeping a well document Chain of Custody is a vital process during a forensics investigation. However, with the diversity of IoT devices maintaining the documentation to uphold integrity could be difficult.  
@@ -20,16 +33,11 @@ Acquisition blurb.
 
 * **Project Objectives:** Our project objectives have changed based upon our research. We discovered that many of the existing frameworks for forensics and IoT forensics are very similar to one another. They focus on a few core principles and differences from traditional forensics to IoT forensics. As a result we've decided to focus more on the practical application of IoT forensics with hands on experiments, and shift away from developing our own framework.  
 
-* **Research Methodology:** We examined and selected technical procedures to use and reference as we move into the hands on portion of our project.  We will refer to the processes and procedures presented in the Computer Forensics Technical Procedure Manual (North Carolina State Bureau of Investigation) and the Forensic Examination of Digital Evidence: A Guide for Law Enforcement (US Department of Justice).  
-
-* **Research and Framework Selection:** We examined multiple digital forensics frameworks from over the years and analyzed their applicability to our project. We determined that the Comprehensive and Harmonized framework proposed by Valgarevic and Venter was the most suitable for our needs. We will also refer to ACPO and NIST. 
-
-The diagram below details the process flow of the Comprehensive and Harmonized framework.  
-
-![CAHDF](https://user-images.githubusercontent.com/47015888/55125008-502f2080-50d6-11e9-9637-223187b46653.png)
+#### These are the outcomes we derived from researching IoT data acquisition techniques  
+* **Data Acquisition Plan:** We have identified four data acquisition techniques we would like to attempt on our own devices. These include using FTK to attempt data extraction, hardware-based data extraction, Bluetooth-based data extraction, and acquiring cache data from a mobile device.    
 
 ## Hinderances
-##### We identified the following hindrances relating to the project  
+#### We identified the following hindrances relating to the project and conducted research  
 * **Acquiring Data over many different devices:** Data acquisition for a multitude of IoT devices could require expertise across different digital forensic branches. IoT devices can work off of a set of technologies including wired and wireless communications, remote and local storage, sensors, location tracking, etc. Extracting evidence from various technologies could require expertise in fields such as computer, mobile, and embedded forensics for local storage, network forensics for data over a communication medium, and cloud forensics for remote storage. (Reference from Internet of Things Forensics: The Need, Process Models, and Open Issues).   
 
 * **Chain of Custody:** When acquiring data from IoT devices, it is important for a forensic perspective to pinpoint where exactly the data came from. From conventional computer and digital forensic practices, it is impractical to use the established search and seizure procedures when finding evidence stored in cloud datacenters. It can therefore be seen as impossible to maintain a chain of custody relating to how, when, and where evidence was acquired. (referenced from IoT forensics: Challenges for the IoA era.) 
