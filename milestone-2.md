@@ -47,8 +47,9 @@ The investigative class is where collected evidence is analyzed, interpreted, an
 
 * **Evidence Handling:** Digital evidence can be easily modified which could potentially overwrite important data. Traditional digital devices typically only have one location of storage which is not the case in IoT device. The environment of IoT is much more volatile making data extraction more difficult.  
 
-* **Evidence Identification:** Due to the variety of IoT devices and storage processes, identifying the data needed during an investigation can be challenging. Lack of forensic documentation and tools to collect the data once it has been identified can also be a nightmare for investigators.  
+* **Evidence Identification:** Due to the variety of IoT devices and storage processes, identifying the data needed during an investigation can be challenging. Lack of forensic documentation and tools to collect the data once it has been identified can also be a nightmare for investigators.
 <br>
+
 #### This is the outcome we derived from researching IoT data acquisition techniques  
 * **Data Acquisition Plan:** We have identified four data acquisition techniques we would like to attempt on our own devices. These include using FTK to attempt data extraction, hardware-based data extraction, Bluetooth-based data extraction, and acquiring application data from a mobile device.  
 
