@@ -1,6 +1,12 @@
 # Progress Report March 28th, 2019
-## Overview
-During this phase of our research we reviewed the documented resources found in milestone 1 in greater detail. We specifically examined the data acquisition techniques that various frameworks and procedures employed. We compiled these methodologies and implemented one data acquisition methodology for our project moving forward.
+## Overview  
+The primary concerns of Milestone 2 were digesting the literature discovered in Milestone 1 and furthering our research base. We chose to focus our efforts in three categories: Digital Forensic frameworks, Difficulties in Establishing IoT Forensic frameworks, and IoT Data Acquisition. Research in each of these categories furthered our project in several ways.  
+
+IoT Forensics draws considerable inspiration and direction from existing Digital Forensic frameworks and guidelines. As a result, studying existing Digital Forensic frameworks gives us insight into how an IoT Forensic framework could be constructed and, more importantly, the underlying principles these frameworks are meant to encompass. During this phase of our research, we examined multiple Digital Forensic frameworks from over the last 20 years. We noticed that newer frameworks tended to build and expand upon previous ones, creating more comprehensive frameworks as years persist. Our research culminated in selecting [i]A Comprehensive and Harmonized Digital Forensic Investigation Process Model[i] as our de facto Digital Forensic framework. We will compare IoT Forensic frameworks against this model to evaluate their efficacy.    
+
+Difficulties blurb.
+
+Acquisition blurb. 
 
 ## Outcomes
 ##### We identified the following difficulties in establishing a IoT framework  
@@ -16,7 +22,9 @@ During this phase of our research we reviewed the documented resources found in 
 
 * **Research Methodology:** We examined and selected technical procedures to use and reference as we move into the hands on portion of our project.  We will refer to the processes and procedures presented in the Computer Forensics Technical Procedure Manual (North Carolina State Bureau of Investigation) and the Forensic Examination of Digital Evidence: A Guide for Law Enforcement (US Department of Justice).  
 
-* **Research and Framework Selection:** We examined multiple digital forensics frameworks from over the years and analyzed their applicability to our project. We determined that the Comprehensive and Harmonized framework proposed by Valgarevic and Venter was the most suitable for our needs. We will also refer to ACPO and NIST.  
+* **Research and Framework Selection:** We examined multiple digital forensics frameworks from over the years and analyzed their applicability to our project. We determined that the Comprehensive and Harmonized framework proposed by Valgarevic and Venter was the most suitable for our needs. We will also refer to ACPO and NIST. 
+
+The diagram below details the process flow of the Comprehensive and Harmonized framework.  
 
 ![CAHDF](https://user-images.githubusercontent.com/47015888/55125008-502f2080-50d6-11e9-9637-223187b46653.png)
 
