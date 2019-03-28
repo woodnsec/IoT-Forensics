@@ -21,7 +21,7 @@ During this phase of our research we reviewed the documented resources found in 
 ![CAHDF](https://user-images.githubusercontent.com/47015888/55125008-502f2080-50d6-11e9-9637-223187b46653.png)
 
 ## Hinderances
-##### We identified the following hindrances relating to data acquisition  
+##### We identified the following hindrances relating to the project  
 * **Acquiring Data over many different devices:** Data acquisition for a multitude of IoT devices could require expertise across different digital forensic branches. IoT devices can work off of a set of technologies including wired and wireless communications, remote and local storage, sensors, location tracking, etc. Extracting evidence from various technologies could require expertise in fields such as computer, mobile, and embedded forensics for local storage, network forensics for data over a communication medium, and cloud forensics for remote storage. (Reference from Internet of Things Forensics: The Need, Process Models, and Open Issues).   
 
 * **Chain of Custody:** When acquiring data from IoT devices, it is important for a forensic perspective to pinpoint where exactly the data came from. From conventional computer and digital forensic practices, it is impractical to use the established search and seizure procedures when finding evidence stored in cloud datacenters. It can therefore be seen as impossible to maintain a chain of custody relating to how, when, and where evidence was acquired. (referenced from IoT forensics: Challenges for the IoA era.) 
@@ -34,10 +34,10 @@ During this phase of our research we reviewed the documented resources found in 
 
 * **Variety of storage media on devices:** On IoT devices which actually store data on the device the extraction methods may be very difficult. Physical (invasive or non-invasive) extraction of data may be difficult as well. Devices may not be designed to come apart easily, or may require removing a memory chip to extract the data.  
 
-
 * **No Standard:** Currently, no nationally or globally accepted standard for digital forensics exists. We have guidelines and recommendations in the forms of NIST and ACPO, which are widely accepted, but are not frameworks. Naturally, this lack of standardization impacts the formation of IoT frameworks, which are based on digital forensics frameworks.  
  
 * **Volume of Research:** The field of digital forensics has over 20 years of research and documentation to examine. A clear trend we noticed during our research was that the various frameworks we examined seemed to build off predecessors. As a result, general themes for the field appear in most works.  
+
 ## Ongoing Risks
 |Risk name  | Impact     | Likelihood | Description | Mitigation |
 |-----------|------------|------------|-------------|------------|
