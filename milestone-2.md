@@ -14,6 +14,8 @@ Currently no standardized IoT forensic framework exists. The research conducted 
 The last aspect of this Milestone was focused on preparing for the hands-on data acquisition that we will do on our own IoT devices. We have identified common pitfalls that we or others, such as forensics investigators, may fall into when attempting to acquire data from IoT devices. We also outline our approach for the next section and the acquisition methods we plan on using.  
 
 ## Outcomes
+Our project objectives have changed based upon our research. We discovered that many of the existing frameworks for forensics and IoT forensics are very similar to one another. They focus on a few core principles and differences from traditional forensics to IoT forensics. As a result we've decided to focus more on the practical application of IoT forensics with hands on experiments, and shift away from developing our own framework.  
+
 #### These are the outcomes we derived after researching digital forensic frameworks  
 * **Research Methodology:** We examined and selected technical procedures to use and reference as we move into the hands on portion of our project.  We will refer to the processes and procedures presented in the Computer Forensics Technical Procedure Manual (North Carolina State Bureau of Investigation) and the Forensic Examination of Digital Evidence: A Guide for Law Enforcement (US Department of Justice).  
 
@@ -27,7 +29,7 @@ Concurrent Processes include obtaining authorization, documentation, managing in
 
 The readiness class is an optional set of processes that are mostly concerned with prepping an organization for an investigation.  
 
-The initialization class deals with the commencement of an investigation and ecompasses incident detection, first response, planning, and preparation.  
+The initialization class deals with the commencement of an investigation and encompasses incident detection, first response, planning, and preparation.  
 
 The acquisitive class is primarily concerned with the collection, transportation, and storage of digital evidence. Investigators must take care to maintain the integrity of all data collected during this stage of an investigation.  
 
@@ -42,18 +44,16 @@ The investigative class is where collected evidence is analyzed, interpreted, an
 
 * **Evidence Identification:** Due to the variety of IoT devices and storage processes, identifying the data needed during an investigation can be challenging. Lack of forensic documentation and tools to collect the data once it has been identified can also be a nightmare for investigators.  
 
-* **Project Objectives:** Our project objectives have changed based upon our research. We discovered that many of the existing frameworks for forensics and IoT forensics are very similar to one another. They focus on a few core principles and differences from traditional forensics to IoT forensics. As a result we've decided to focus more on the practical application of IoT forensics with hands on experiments, and shift away from developing our own framework.  
-
 #### This is the outcome we derived from researching IoT data acquisition techniques  
-* **Data Acquisition Plan:** We have identified four data acquisition techniques we would like to attempt on our own devices. These include using FTK to attempt data extraction, hardware-based data extraction, Bluetooth-based data extraction, and acquiring cache data from a mobile device.    
+* **Data Acquisition Plan:** We have identified four data acquisition techniques we would like to attempt on our own devices. These include using FTK to attempt data extraction, hardware-based data extraction, Bluetooth-based data extraction, and acquiring application data from a mobile device.    
 
 ## Hinderances
 #### We identified the following hindrances relating to the project and conducted research  
-* **Acquiring Data over many different devices:** Data acquisition for a multitude of IoT devices could require expertise across different digital forensic branches. IoT devices can work off of a set of technologies including wired and wireless communications, remote and local storage, sensors, location tracking, etc. Extracting evidence from various technologies could require expertise in fields such as computer, mobile, and embedded forensics for local storage, network forensics for data over a communication medium, and cloud forensics for remote storage. (Reference from Internet of Things Forensics: The Need, Process Models, and Open Issues).   
+* **Acquiring Data over many different devices:** Data acquisition for a multitude of IoT devices could require expertise across different digital forensic branches. IoT devices can work off of a set of technologies including wired and wireless communications, remote and local storage, sensors, location tracking, etc. Extracting evidence from various technologies could require expertise in fields such as computer, mobile, and embedded forensics for local storage, network forensics for data over a communication medium, and cloud forensics for remote storage.   
 
-* **Chain of Custody:** When acquiring data from IoT devices, it is important for a forensic perspective to pinpoint where exactly the data came from. From conventional computer and digital forensic practices, it is impractical to use the established search and seizure procedures when finding evidence stored in cloud datacenters. It can therefore be seen as impossible to maintain a chain of custody relating to how, when, and where evidence was acquired. (referenced from IoT forensics: Challenges for the IoA era.) 
+* **Chain of Custody:** When acquiring data from IoT devices, it is important for a forensic perspective to pinpoint where exactly the data came from. From conventional computer and digital forensic practices, it is impractical to use the established search and seizure procedures when finding evidence stored in cloud datacenters. It can therefore be seen as more difficult and complex to maintain a chain of custody relating to how, when, and where evidence was acquired. 
 
-* **Data Acquisition Tools:** When attempting to acquire data from IoT devices there is a lack of IoT tools in comparison to traditional digital forensics. IoT devices interact with multiple nodes when transferring and storing data which makes make the acquisition process very complex.  (referenced from IoT Forensic: Bridging the Challenges in Digital Forensic and the Internet of Things).  
+* **Data Acquisition Tools:** When attempting to acquire data from IoT devices there is a lack of IoT tools in comparison to traditional digital forensics. IoT devices interact with multiple nodes when transferring and storing data which makes make the acquisition process very complex.   
   
 * **Jurisdiction:** Many IoT devices interact with and store data in the cloud. This means data of interest many not necessarily reside in the same state as the device of interest or even the same country. Attempting to get access to the data stored on data centers outside the country may lead to jurisdiction issues and complicate the data acquisition process.   
 
@@ -69,7 +69,7 @@ The investigative class is where collected evidence is analyzed, interpreted, an
 |Risk name  | Impact     | Likelihood | Description | Mitigation |
 |-----------|------------|------------|-------------|------------|
 | Underdeveloped IoT forensic standard (30) | 10 | 3 | IoT forensics is an emerging field, so it may be difficult to find a formally-recognized, tested IoT forensic standard. | The team could examine developing, informal standards or adapt existing digital forensic methodologies. |
-| Limited access to forensic applications (14) | 7 | 2 | Access to industry-approved forensic toolkits may be limited due to inadequate funding. | The team can access the UNO Steal labs, which have FTK installed. Access can be scheduled by Dr. Hale for FTK. |
+| Limited access to forensic applications (14) | 7 | 2 | Access to industry-approved forensic toolkits may be limited due to inadequate funding. | The team can access the UNO Steal labs, which have FTK installed. |
 | Loss of data (32) | 8 | 4 | During the course of the project, data could be corrupted or otherwise lost. | The team will implement redundant data storage. Data gathered from research and hands-on experimentation will be stored on flash drives and Google Drive. |
 | No formal funding (30) | 3 | 10 | No grant funding for applications or devices will be provided to the team. All expenses will be out of pocket. | Spending will be minimized wherever possible. IoT devices will be provided by team members and digital investigation tools will be primarily open-source, with the exception of FTK. |
 | Lack of device documentation (20) | 5 | 4 | IoT devices may not have comprehensive documentation available for public perusal. | The team is working primarily with IoT devices and software that are known to have extensive documentation. | 
