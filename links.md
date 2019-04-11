@@ -48,6 +48,13 @@
 
 [Metawear API](https://mbientlab.com/developers/)
 
+### Potential Milestone 3 Info
+[Security Analysis of the Amazon Echo](https://courses.csail.mit.edu/6.857/2017/project/8.pdf)
+
+[Digital forensic approaches for Amazon Alexa ecosystem](https://www.sciencedirect.com/science/article/pii/S1742287617301974)
+
 ### Misc. 
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+
