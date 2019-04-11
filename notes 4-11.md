@@ -1,4 +1,4 @@
-Trowaway4580
+Trowaway4580@gmail.com  
 Potato2019
 
 Install apps and interact with device to get data on there
@@ -18,3 +18,5 @@ Install apps and interact with device to get data on there
 Update 4/11/2019
 * Met with Grispos and went to his lab to try and retrieve data from the s4 phone. It was found that his tool could not retrieve the planned information
 * We will use Nate’s Note 3 phone to put data on throughout the weekend (with the kardia, garmin, etc.) and next week try and get data. 
+* Found out the Note phone won't work either. 
+* The s3 will work. Throughout the weekend we will try and add data to it. 
