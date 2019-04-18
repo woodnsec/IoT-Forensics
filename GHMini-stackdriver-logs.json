@@ -1,0 +1,62 @@
+{
+ insertId:  "sb9vo1dofno"
+ logName:  "projects/capstone-237400/logs/cloudaudit.googleapis.com%2Fdata_access"
+ protoPayload: {
+  @type:  "type.googleapis.com/google.cloud.audit.AuditLog"
+  authenticationInfo: {
+   principalEmail:  "nwood01@unomaha.edu"
+  }
+  authorizationInfo: [
+   0: {
+    granted:  true
+    permission:  "logging.logEntries.list"
+    resource:  "projects/capstone-237400"
+    resourceAttributes: {
+    }
+   }
+   1: {
+    granted:  true
+    permission:  "logging.privateLogEntries.list"
+    resource:  "projects/726261429577"
+    resourceAttributes: {…}
+   }
+  ]
+  methodName:  "google.logging.v2.LoggingServiceV2.ListLogEntries"
+  request: {
+   @type:  "type.googleapis.com/google.logging.v2.ListLogEntriesRequest"
+   filter:  "resource.type="logging_log"
+
+ timestamp<="2200-01-01T00:00:00.000000000Z" timestamp<"2019-04-18T01:33:51.248Z""
+   orderBy:  "timestamp desc"
+   pageSize:  100
+   resourceNames: [
+    0:  "projects/capstone-237400"
+   ]
+  }
+  requestMetadata: {
+   callerIp:  "98.161.22.194"
+   callerSuppliedUserAgent:  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36,gzip(gfe)"
+   destinationAttributes: {
+   }
+   requestAttributes: {
+    auth: {
+    }
+    time:  "2019-04-18T01:33:59.999240441Z"
+   }
+  }
+  resourceName:  "projects/capstone-237400"
+  serviceName:  "logging.googleapis.com"
+  status: {
+  }
+ }
+ receiveTimestamp:  "2019-04-18T01:34:07.927080207Z"
+ resource: {
+  labels: {
+   name:  ""
+   project_id:  "capstone-237400"
+  }
+  type:  "logging_log"
+ }
+ severity:  "INFO"
+ timestamp:  "2019-04-18T01:33:59.988733040Z"
+}
