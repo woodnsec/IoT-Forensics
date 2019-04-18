@@ -34,7 +34,7 @@ The second half of our project focused on hands-on experimentation with IoT devi
 Our project objectives have changed based upon our research. We discovered that many of the existing frameworks for forensics and IoT forensics are very similar to one another. They focus on a few core principles and differences from traditional forensics to IoT forensics. As a result we've decided to focus more on the practical application of IoT forensics with hands on experiments, and shift away from developing our own framework.  
 
 #### Milestone 3 outcomes
-![the cloud](https://imgflip.com/i/2yv6e7"the cloud") #TBD - Nate
+<a href="https://imgflip.com/i/2yv6e7"><img src="https://i.imgflip.com/2yv6e7.jpg" title="made at imgflip.com"/></a> #TBD - Nate
 
 (bulleted lists can also be helpful to structure your results discussion)
 * outcome 1
