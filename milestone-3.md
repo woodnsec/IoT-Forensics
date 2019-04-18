@@ -46,6 +46,8 @@ An example of what the logs look like from the Google Cloud Platform is availabl
 
 Google directs US based agencies to their [Transparency Report Help Center](https://support.google.com/transparencyreport/answer/7381738?hl=en). This page details what requirements are set for the legal process for user data requests. The website CAL-MASS [Google LE Guide](https://calmass.org/?wpdmpro=google-le-guide) article indicates there are exigent circumstances which allow law enforcement agencies to expedite the legal process to request user data. 
 
+#### Hands on research with Google Home Mini device Part 2 - Using IoT Inspector from Princeton
+* <info will go here>
 
 ## Hinderances
 * Google Home Mini network traffic was encrypted using the http-over-tls protocol. This indicates little to no forensic data is available from the device itself nor the network it resides on. 
