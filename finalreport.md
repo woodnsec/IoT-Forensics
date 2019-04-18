@@ -22,7 +22,7 @@ IoT forensics is still an emerging field due in part to the aforementioned reaso
 ## Project Methodology
 We started our project by conducting a review of the current literature and standards related to IoT forensic data acquisition. Additionally, we examined traditional digital forensics techniques and compared and contrasted them to current IoT forensics standards. The review provided insight on the current state of IoT forensics and which allowed us to identify outstanding issues in the field.
 
-We examined and selected technical procedures to use and reference as we move into the hands-on portion of our project.  We will refer to the processes and procedures presented in the Computer Forensics Technical Procedure Manual (North Carolina State Bureau of Investigation) and the Forensic Examination of Digital Evidence: A Guide for Law Enforcement (US Department of Justice).   
+We examined and selected technical procedures to use and reference as we moved into the hands-on portion of our project.  We referred to the processes and procedures presented in the Computer Forensics Technical Procedure Manual (North Carolina State Bureau of Investigation) as well as the Forensic Examination of Digital Evidence: A Guide for Law Enforcement (US Department of Justice).   
 
 The second half of our project focused on hands-on experimentation with IoT devices. This allowed us to fully understand the forensic and data acquisition processes. Lastly, using the knowledge we gained from the literature review and hands-on application, we will present our research, and refinements to IoT forensics moving forward.  
 
