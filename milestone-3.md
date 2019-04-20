@@ -52,5 +52,14 @@ Google directs US based agencies to their [Transparency Report Help Center](http
 * <info will go here>
  https://iot-inspector.princeton.edu/
 
+ #### Hands on research with Ubertooth 
+ We set up an [Ubertooth One](https://github.com/greatscottgadgets/ubertooth/wiki/Ubertooth-One) environment using a Ubuntu VM designed for Bluetooth sniffing, an obsolete, available Android phone, and IoT devices. The IoT devices used were a Garmin HR+ and Metawear CPRO. (The Android phone available was mostly arbitrary, since we were just interested in capturing the Bluetooth packets to analyze.)  
+ 
+ Within the tmp/ folder we created a folder named "Capture/" to hold Packet Capture (PCAP) files generated to later open and analyze in Wireshark. To do this, the following command was used in the terminal while in the tmp/ folder: "sudo ubertooth-btle -f -c ./Capture/[device].pcap". The "-f" flag is used to follow connections, and "-c" is used to tell the command where to save the file with what name.  
+ <iframe title="garmincapture" width="640" height="360" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/YSxSfeGNuoyw"></iframe>
+  
+ [!Video demonstration](https://use.vg/5wPFS7)
+
 ## Hinderances
-* Google Home Mini network traffic was encrypted using the http-over-tls protocol. This indicates little to no forensic data is available from the device itself nor the network it resides on. 
+* Google Home Mini network traffic was encrypted using the http-over-tls protocol. This indicates little to no forensic data is available from the device itself nor the network it resides on.  
+* Bluetooth works by working on three different channels between 2402-2480MHz, usually referred to as channel 37, 38, and 39. When capturing Bluetooth packets with the Ubertooth One between the Android phone and IoT devices, it had to be on the correct channel to capture. At times it would not be on the right channel to capture packets and the device would need to be reseated. 
