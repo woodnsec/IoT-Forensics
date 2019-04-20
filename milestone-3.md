@@ -57,7 +57,14 @@ Google directs US based agencies to their [Transparency Report Help Center](http
  
  Within the tmp/ folder we created a folder named "Capture/" to hold Packet Capture (PCAP) files generated to later open and analyze in Wireshark. To do this, the following command was used in the terminal while in the tmp/ folder: "sudo ubertooth-btle -f -c ./Capture/[device].pcap". The "-f" flag is used to follow connections, and "-c" is used to tell the command where to save the file with what name.  
   
- [![Video demonstration of Garmin HR+](https://i.imgur.com/UdgoMz8.png)](https://use.vg/5wPFS7)
+  The video below was recorded during a capture of Bluetooth packets between the Android phone and Garmin HR+. Packets are captured very quickly and information on the screen runs by too quickly for a human to read, however when making a Bluetooth connection, the packets run by faster. Following the established connection, the scrolling of packets returns to the pattern it was before.
+  
+ [![Video demonstration of Garmin HR+](https://i.imgur.com/UdgoMz8.png)](https://use.vg/5wPFS7)  
+  
+  At the end of the video, the file saved from the packet capture, 'garmin1.pcap' is opened in Wireshark. Using a string search, we can find the connection request packet, "CONNECT_REQ". This includes the MAC addresses of the devices used. It is worth noting the endian format of the MAC addresses are reversed when listed on Wireshark and on the phone/IoT devices. On a phone, it would list the Bluetooth MAC address as aa:bb:cc:dd:ee:ff, whereas on Wireshark it appears as ff:ee:dd:cc:bb:aa.  
+
+![Wireshark screenshot](https://i.imgur.com/RXeJxax.png)  
+(TODO: Analyze the packets captured.)
 
 ## Hinderances
 * Google Home Mini network traffic was encrypted using the http-over-tls protocol. This indicates little to no forensic data is available from the device itself nor the network it resides on.  
