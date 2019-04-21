@@ -49,7 +49,9 @@ Google directs US based agencies to their [Transparency Report Help Center](http
 #### Hands on research with Google Home Mini device Part 2 - Using IoT Inspector from Princeton
 * Open-soure tool letting our group inspect IoT traffic through a browser. 
 
-* <info will go here>
+Using IoT Inspector, an open-source tool which lets us inspect IoT traffic developed by Princeton, we wanted to see what information would be collected using our Google Home Mini. When running IoT Inspector it captures all the devices on the network.
+
+* 
  https://iot-inspector.princeton.edu/
 
  #### Hands on research with Ubertooth 
