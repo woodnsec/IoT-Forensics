@@ -51,6 +51,8 @@ Google directs US based agencies to their [Transparency Report Help Center](http
 
 Using IoT Inspector, an open-source tool which lets us inspect IoT traffic developed by Princeton, we wanted to see what information would be collected using our Google Home Mini. When running IoT Inspector it captures all the devices on the network.
 
+![myDevices_home](https://user-images.githubusercontent.com/45551925/56472764-5049e400-6428-11e9-810e-18eaa2037af0.png)
+
 * 
  https://iot-inspector.princeton.edu/
 
