@@ -62,7 +62,6 @@ IoT Inspector makes it easy monitor the traffic of the Google Home Mini by havin
 * Insecure Encryption view - displays cases where device interacted with Internet using insecure or outdated encryption   
 * Weak Encryption view - displays cases where device interacted with Internet using weak encryption   
 
-
 Below are a few images of the data that was captured when using the Google Home Mini for about 30 minutes. During these 30 minutes, we asked the Google Home Mini a variety of questions such as “What is the weather like today?” and also the Mini to play music on YouTube. 
 
 * #### Default View
@@ -74,7 +73,9 @@ Below are a few images of the data that was captured when using the Google Home 
 * #### Ads/Trackers View   
 <img width="1156" alt="adsview_googlemini" src="https://user-images.githubusercontent.com/45551925/56473202-45de1900-642d-11e9-96be-ca515932b2ad.png">
 
- https://iot-inspector.princeton.edu/
+
+will add more info here too . 
+* https://iot-inspector.princeton.edu/
 
  #### Hands on research with Ubertooth 
  We set up an [Ubertooth One](https://github.com/greatscottgadgets/ubertooth/wiki/Ubertooth-One) environment using a Ubuntu VM designed for Bluetooth sniffing, an obsolete, available Android phone, and IoT devices. The IoT devices used were a Garmin HR+ and Metawear CPRO. (The Android phone available was mostly arbitrary, since we were just interested in capturing the Bluetooth packets to analyze.)  
