@@ -53,6 +53,16 @@ Using IoT Inspector, an open-source tool which lets us inspect IoT traffic devel
 
 ![myDevices_home](https://user-images.githubusercontent.com/45551925/56472764-5049e400-6428-11e9-810e-18eaa2037af0.png)
 
+IoT Inspector makes it easy monitor the traffic of the Google Home Mini by having different views such as the following:
+
+* Default view -  displays all the traffic monitored   
+* Companies view - displays company names the device contacted   
+* Ads/trackers view - displays ad/tracking services the device contacted   
+* No Encryption view - displays cases where device sent or received plain HTTP traffic   
+* Insecure Encryption view - displays cases where device interacted with Internet using insecure or outdated encryption   
+* Weak Encryption view - displays cases where device interacted with Internet using weak encryption   
+
+
 Below are a few images of the data that was captured when using the Google Home Mini for about 30 minutes. During these 30 minutes, we asked the Google Home Mini a variety of questions such as “What is the weather like today?” and also the Mini to play music on YouTube. 
 
 <img width="718" alt="googleMini_iot_default" src="https://user-images.githubusercontent.com/45551925/56472785-9bfc8d80-6428-11e9-8741-a7591fc264d2.png">
