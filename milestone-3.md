@@ -55,6 +55,8 @@ Using IoT Inspector, an open-source tool which lets us inspect IoT traffic devel
 
 Below are a few images of the data that was captured when using the Google Home Mini for about 30 minutes. During these 30 minutes, we asked the Google Home Mini a variety of questions such as “What is the weather like today?” and also the Mini to play music on YouTube. 
 
+<img width="718" alt="googleMini_iot_default" src="https://user-images.githubusercontent.com/45551925/56472785-9bfc8d80-6428-11e9-8741-a7591fc264d2.png">
+
 * 
  https://iot-inspector.princeton.edu/
 
