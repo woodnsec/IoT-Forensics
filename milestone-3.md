@@ -57,7 +57,7 @@ IoT Inspector makes it easy monitor the traffic of the Google Home Mini by havin
 
 * Default view -  displays all the traffic monitored   
 * Companies view - displays company names the device contacted   
-* Ads/trackers view - displays ad/tracking services the device contacted   
+* Ads/Trackers view - displays ad/tracking services the device contacted   
 * No Encryption view - displays cases where device sent or received plain HTTP traffic   
 * Insecure Encryption view - displays cases where device interacted with Internet using insecure or outdated encryption   
 * Weak Encryption view - displays cases where device interacted with Internet using weak encryption   
@@ -71,6 +71,8 @@ Below are a few images of the data that was captured when using the Google Home 
 * #### Companies View  
 <img width="728" alt="companies_View_googlemini" src="https://user-images.githubusercontent.com/45551925/56473176-e7189f80-642c-11e9-8d01-7bdcdeb3f719.png">
 
+* #### Ads/Trackers View   
+<img width="1156" alt="adsview_googlemini" src="https://user-images.githubusercontent.com/45551925/56473202-45de1900-642d-11e9-96be-ca515932b2ad.png">
 
  https://iot-inspector.princeton.edu/
 
