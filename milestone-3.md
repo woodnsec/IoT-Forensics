@@ -73,8 +73,6 @@ Below are a few images of the data that was captured when using the Google Home 
 * #### Ads/Trackers View   
 <img width="1156" alt="adsview_googlemini" src="https://user-images.githubusercontent.com/45551925/56473202-45de1900-642d-11e9-96be-ca515932b2ad.png">
 
-
-will add more info here too . 
 * https://iot-inspector.princeton.edu/
 
  #### Hands on research with Ubertooth 
