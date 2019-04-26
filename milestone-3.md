@@ -23,7 +23,7 @@ Reading 1 - [Security Analysis of the Amazon Echo](https://courses.csail.mit.edu
 
 Reading 2 - [Digital forensic approaches for Amazon Alexa ecosystem](https://www.sciencedirect.com/science/article/pii/S1742287617301974)
 
-* Summary - In this paper, the authors focused on the digital forensics based on the Intelligent Virtual Assistant (IVA) Alexa’s Ecosystem. One of the points that I thought was interesting was pertaining to the database of the Alexa Mobile App. Using an Android device, the application uses two SQLite files called “map_data_storage.db” and “DataStore.db” where the first database contains the token information about the user who is logged in. And the data is deleted when a user signs out. The other database includes to-do and shopping lists. Nevertheless, the results when examining the database files showed that there was little information stored on the device. 
+* Summary - In this paper, the authors focused on the digital forensics based on the Intelligent Virtual Assistant (IVA) Alexa’s Ecosystem. One of the points that I thought was interesting was pertaining to the database of the Alexa Mobile App. Using an Android device, the application uses two SQLite files called “map_data_storage.db” and “DataStore.db” where the first database contains the token information about the user who is logged in. In addition, the data is deleted when a user signs out. The other database includes to-do and shopping lists. Nevertheless, the results when examining the database files showed that there was little information stored on the device. 
 
 
 #### Hands on research with Google Home Mini device  
@@ -34,11 +34,11 @@ We setup a private WiFi network to conduct our study on the Google Home Mini IoT
 WiFi Pineapple = 172.16.42.1
 Google Home Mini = 172.16.42.248
 
-Unfortunately for our research the application traffic was encrypted and we were unable to find valuable data from the pcap. The application data was sent via the http-over-tls protocol meaning it was encrypted before it was transmitted. This is good for security but not so much for our research project. 
+Unfortunately for our research the application traffic was encrypted, and we were unable to find valuable data from the pcap. The application data was sent via the http-over-tls protocol meaning it was encrypted before it was transmitted. This is good for security but not so much for our research project. 
 
 ![GH Mini pcap application data](/GHmini-pcap-application-data.PNG?raw=true "The packet capture highlighting the encrypted application data")
 
-Luckily we are able to access the [developer portal](https://developers.google.com/actions/smarthome/logging) of the Google Home Mini - this allows us to see what a law enforcement officer might be able to subpoena for logs in a criminal investigation. 
+Luckily, we are able to access the [developer portal](https://developers.google.com/actions/smarthome/logging) of the Google Home Mini - this allows us to see what a law enforcement officer might be able to subpoena for logs in a criminal investigation. 
 
 ![GH Mini stackdriver logs](/GHmini-stackdriver-logs.PNG?raw=true "The stackdriver application logs from Google Cloud Platform")
 
@@ -47,7 +47,7 @@ An example of what the logs look like from the Google Cloud Platform is availabl
 Google directs US based agencies to their [Transparency Report Help Center](https://support.google.com/transparencyreport/answer/7381738?hl=en). This page details what requirements are set for the legal process for user data requests. The website CAL-MASS [Google LE Guide](https://calmass.org/?wpdmpro=google-le-guide) article indicates there are exigent circumstances which allow law enforcement agencies to expedite the legal process to request user data. 
 
 #### Hands on research with Google Home Mini device Part 2 - Using IoT Inspector from Princeton
-* Open-soure tool letting our group inspect IoT traffic through a browser. 
+* Open-source tool letting our group inspect IoT traffic through a browser. 
 
 Using IoT Inspector, an open-source tool which lets us inspect IoT traffic developed by Princeton, we wanted to see what information would be collected using our Google Home Mini. When running IoT Inspector it captures all the devices on the network.
 
@@ -76,7 +76,7 @@ Below are a few images of the data that was captured when using the Google Home 
 * https://iot-inspector.princeton.edu/
 
  #### Hands on research with Ubertooth 
- We set up an [Ubertooth One](https://github.com/greatscottgadgets/ubertooth/wiki/Ubertooth-One) environment using a Ubuntu VM designed for Bluetooth sniffing, an obsolete, available Android phone, and IoT devices. The IoT devices used were a Garmin HR+ and Metawear CPRO. (The Android phone available was mostly arbitrary, since we were just interested in capturing the Bluetooth packets to analyze.)  
+ We set up an [Ubertooth One](https://github.com/greatscottgadgets/ubertooth/wiki/Ubertooth-One) environment using an Ubuntu VM designed for Bluetooth sniffing, an obsolete, available Android phone, and IoT devices. The IoT devices used were a Garmin HR+ and Metawear CPRO. (The Android phone available was mostly arbitrary, since we were just interested in capturing the Bluetooth packets to analyze.)  
  
  Within the tmp/ folder we created a folder named "Capture/" to hold Packet Capture (PCAP) files generated to later open and analyze in Wireshark. To do this, the following command was used in the terminal while in the tmp/ folder: "sudo ubertooth-btle -f -c ./Capture/[device].pcap". The "-f" flag is used to follow connections, and "-c" is used to tell the command where to save the file with what name.  
   
@@ -95,7 +95,7 @@ To look for further solutions, we found a tool named [Crackle](https://github.co
 (Insert screenshot about errors, maybe more)  
 
 ##### Metawear Captures  
-For sniffing for packets between our Metawear CPRO device and Android phone, packets were easy to recover. Compared to the Garmin device, packets were not encrypted, and easier to read. The CPRO device's Bluetooth works until the "Just works" protocol. Packets were in cleartext to read, but it was still a challenge to decipher the contents of the packets following the established connection between devices. In our experiment, we created three separate .pcap files related to the Metawear. One for turning on the red LED light and turning it off, and repeating this for a total of three times. The other two worked similarly as the first, but for the green and blue LED lights. Please note that this is all the same LED light bulb, it can just change colors.  
+For sniffing for packets between our Metawear CPRO device and Android phone, packets were easy to recover. Compared to the Garmin device, packets were not encrypted, and easier to read. The CPRO device's Bluetooth works until the "Just works" protocol. Packets were in cleartext to read, but it was still a challenge to decipher the contents of the packets following the established connection between devices. In our experiment, we created three separate .pcap files related to the Metawear. One for turning on the red LED light and turning it off and repeating this for a total of three times. The other two worked similarly as the first, but for the green and blue LED lights. Please note that this is all the same LED light bulb, it can just change colors.  
 
 From our findings, we were able to decipher initialization, read requests, read responses, LED turn-on requests, and LED turn-off requests. As noted in the Garmin capture section above, the Ubertooth does not capture 100% of packets, and thus with the Metawear device's .pcap files, we could not discover all associated packets, but could still make interpretations.  
 
@@ -107,7 +107,7 @@ What we were able to interpret from the Metawear .pcap files are shown below. Th
 
 ![Green LED Screenshot](https://i.imgur.com/hLMMzmj.png)
 
-In summary, it using Bluetooth to derive potentially important information is not a desirable solution. Many IoT devices will work over a Bluetooth connection to other devices, but interpreting the information in captured packets is very difficult and time consuming, presuming the packets are not encrypted. When encrypted, certain tools, such as Crackle could be used to decrypt/crack the contents of the packets to get more information, but this only works when the LTK is already known, or if Bluetooth connection is being established for the first time between two devices. 
+In summary, it is using Bluetooth to derive potentially important information is not a desirable solution. Many IoT devices will work over a Bluetooth connection to other devices but interpreting the information in captured packets is very difficult and time consuming, presuming the packets are not encrypted. When encrypted, certain tools, such as Crackle could be used to decrypt/crack the contents of the packets to get more information, but this only works when the LTK is already known, or if Bluetooth connection is being established for the first time between two devices. 
 (add more?)
 
 
@@ -119,7 +119,7 @@ The first test done with these devices was an attempt to connect them to FTK Ima
 
 The second test done with these devices was pulling the data from the phone using XRY and using that as a proxy to get the data from the device. For this test, XRY Version 7.11 was used to create a full logical image of the mobile device. The image was then exported, and Autopsy was used to examine the files. The phone had been factory reset before the data propagation portion of this test, so there was not a lot of data on the phone itself. However, data was found from the Garmin device and Metawear. The only data found from the Google Home Mini was that there was a Google Home Mini connected to the mobile device and the events created using voice commands. No logs of the conversations or searches requested were found. According to Google, these logs would be found on their servers through the user’s Google account (CITE). The records created using the Metawear that were not saved properly were recovered from the phone. The records for the Garmin were the most informative. These included the user’s profile information (gender, weight, height, etc.), daily summary information (total steps, max, min, and average heartrate, etc.), and activity information (activity type, start date, start location, duration, etc.). Unfortunately, this data did not include the exact route taken by the user. While that data is shown on the app, it seems it is uploaded to the user’s account and only available online. This, and with the Google Home Mini, is where investigators might have to use cloud forensics to get all the data they might need for a case.  
 
-Similarly as mentioned with Google, Garmin also posts on their [website](https://www.garmin.com/en-US/forms/lawenforcement/) willingness to work with law enforcement officers regarding any of their devices if found to be stolen, lost, or recovered. They provide a web form to fill out in any sort of event similar to as listed. The company does note that stolen devices cannot be tracked, and a copy of police reports should be attached if available. However, this is not necessarily a guarantee that they will cooperate and/or provide all requested information, and in some circumstances, a subpoena may be required. 
+Similarly, as mentioned with Google, Garmin also posts on their [website](https://www.garmin.com/en-US/forms/lawenforcement/) willingness to work with law enforcement officers regarding any of their devices if found to be stolen, lost, or recovered. They provide a web form to fill out in any sort of event similar to as listed. The company does note that stolen devices cannot be tracked, and a copy of police reports should be attached if available. However, this is not necessarily a guarantee that they will cooperate and/or provide all requested information, and in some circumstances, a subpoena may be required. 
 
 
 ## Hinderances
@@ -131,7 +131,7 @@ Similarly as mentioned with Google, Garmin also posts on their [website](https:/
 
 * When using the Crackle tool to decrypt any captured packets from .pcap files, it was found that the tool only works when sniffing a Bluetooth connection for the first time between two devices. 
 
-* We had to try many phones before we found one that could interface with XRY. This tool has a specific list of phone models and operating systems it can work with. We had to try a few different phones before we could get any data off the device using XRY. With the limited number of phones we had at our disposal, we were not able to find one that we could do a full bit-for-bit extraction on, but we did have one that could be used for a full logical.  
+* We had to try many phones before we found one that could interface with XRY. This tool has a specific list of phone models and operating systems it can work with. We had to try a few different phones before we could get any data off the device using XRY. With the limited number of phones, we had at our disposal, we were not able to find one that we could do a full bit-for-bit extraction on, but we did have one that could be used for a full logical.  
 
 * The data stored on the Garmin is in a proprietary file format. The files can be converted to CSVs, but they are not easily read in that format.  
 
