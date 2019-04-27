@@ -150,11 +150,46 @@ From our findings, we were able to decipher initialization, read requests, read 
 
 What we were able to interpret from the Metawear .pcap files are shown below. The different hex values for turning on an LED light represent the color of what the LED light will be. All have the same hex value for turning of the LED, 020101.
 
-![Red LED Screenshot](https://i.imgur.com/38DhNfv.png)
+Red LED:    
 
-![Blue LED Screenshot](https://i.imgur.com/cKjMn9I.png)
+| Value                             | Time   | Activity                     |
+|-----------------------------------|--------|------------------------------|
+| 0b84                              | 5.023  | Initialization               |
+| 11090600060000005802              | 5.151  | Initialization               |
+| 010103                            | 5.482  | Read Request                 |
+| 010101                            | 5.490  | Read Response                |
+| 020201                            | 8.092  | Sandwiched between Empty PDU |
+| 0203011021f0000f4010000e8030000ff | 8.499  | RED On                       |
+| 020101                            | 8.506  | RED Off                      |
+| 020201                            | 9.058  | Sandwiched between Empty PDU |
+| 0203011021f0000f4010000e8030000ff | 10.121 | RED On                       |
+| 11090600640000005802              | 11.840 | Before Disconnect            |
 
-![Green LED Screenshot](https://i.imgur.com/hLMMzmj.png)
+Blue LED:    
+
+| Value                              | Time  | Activity                     |
+|------------------------------------|-------|------------------------------|
+| 0b84                               | 3.848 | Initialization               |
+| 11090600060000005802               | 4.024 | Initialization               |
+| 020302021f1f0000f4010000e8030000ff | 7.045 | BLUE On                      |
+| 020201                             | 7.549 | Sandwiched between Empty PDU |
+| 020201                             | 8.140 | Sandwiched between Empty PDU |
+| 020302021f1f0000f4010000e8030000ff | 8.808 | BLUE On                      |
+| 020101                             | 8.813 | BLUE Off                     |
+| 020201                             | 9.344 | Sandwiched between Empty PDU |
+
+Green LED:  
+
+| Value                              | Time  | Activity                     |
+|------------------------------------|-------|------------------------------|
+| 0b84                               | 3.558 | Initialization               |
+| 11090600060000005802               | 3.735 | Initialization               |
+| 010101                             | 4.127 | Read Response                |
+| 020300021f1f0000f4010000e8030000ff | 6.780 | GREEN On                     |
+| 020101                             | 6.784 | GREEN Off                    |
+| 020300021f1f0000f4010000e8030000ff | 7.406 | GREEN On                     |
+| 020101                             | 7.420 | GREEN Off                    |
+| 020201                             | 7.987 | Sandwiched between Empty PDU |
 
 In summary, it is using Bluetooth to derive potentially important information is not a desirable solution. Many IoT devices will work over a Bluetooth connection to other devices but interpreting the information in captured packets is very difficult and time consuming, presuming the packets are not encrypted. When encrypted, certain tools, such as Crackle could be used to decrypt/crack the contents of the packets to get more information, but this only works when the LTK is already known, or if Bluetooth connection is being established for the first time between two devices. Even when first establishing a connection, using a tool such as the Ubertooth to sniff out traffic to later use with Crackle can be a daunting task. Chances are little that the Ubertooth would not only be on the right channel the first time, but also be able to capture all the key exchange packets. 
 
