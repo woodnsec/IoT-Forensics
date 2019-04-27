@@ -88,13 +88,7 @@ An example of what the logs look like from the Google Cloud Platform is availabl
 Google directs US based agencies to their [Transparency Report Help Center](https://support.google.com/transparencyreport/answer/7381738?hl=en). This page details what requirements are set for the legal process for user data requests. The website CAL-MASS [Google LE Guide](https://calmass.org/?wpdmpro=google-le-guide) article indicates there are exigent circumstances which allow law enforcement agencies to expedite the legal process to request user data. 
 
 #### Hands on research with Google Home Mini device Part 2 - Using IoT Inspector from Princeton
-* Open-source tool letting our group inspect IoT traffic through a browser. 
-
-Using IoT Inspector, an open-source tool which lets us inspect IoT traffic developed by Princeton, we wanted to see what information would be collected using our Google Home Mini. When running IoT Inspector it captures all the devices on the network.
-
-![myDevices_home](https://user-images.githubusercontent.com/45551925/56472764-5049e400-6428-11e9-810e-18eaa2037af0.png)
-
-IoT Inspector makes it easy monitor the traffic of the Google Home Mini by having different views such as the following:
+[IoT Inspector](https://iot-inspector.princeton.edu/) is an open-source tool that inspects traffic through a browser, capturing all the devices connected on the network. This tool was developed by Princeton as a research initiative to help academic researchers as it can be difficult to produce generalizable results in the study of IoT security and privacy. During the second phase of our Google Home Mini testing, we wanted to use this tool and see what information we would be able to collect. IoT Inspector makes it easy monitor the traffic of the Google Home Mini by having different views such as the following:
 
 * Default view -  displays all the traffic monitored   
 * Companies view - displays company names the device contacted   
@@ -103,7 +97,11 @@ IoT Inspector makes it easy monitor the traffic of the Google Home Mini by havin
 * Insecure Encryption view - displays cases where device interacted with Internet using insecure or outdated encryption   
 * Weak Encryption view - displays cases where device interacted with Internet using weak encryption   
 
-Below are a few images of the data that was captured when using the Google Home Mini for about 30 minutes. During these 30 minutes, we asked the Google Home Mini a variety of questions such as “What is the weather like today?” and also the Mini to play music on YouTube. 
+Below are a few images of the data that was captured when using the Google Home Mini for about 30 minutes. During these 30 minutes, we asked the Google Home Mini a variety of questions such as “What is the weather like today?” and also asked the Mini to play music on YouTube. 
+
+#### Start Up View
+When you finish installing IoT Inspector, you will see a similar image as the one below. This is where you will select the device that you want to begin scanning. Once you have allowed IoT Inspector to scan the device of your choice, you will then begin to see the different traffic through the view types mentioned above.
+![myDevices_home](https://user-images.githubusercontent.com/45551925/56472764-5049e400-6428-11e9-810e-18eaa2037af0.png)
 
 * #### Default View
 <img width="718" alt="googleMini_iot_default" src="https://user-images.githubusercontent.com/45551925/56472785-9bfc8d80-6428-11e9-8741-a7591fc264d2.png">
@@ -114,7 +112,6 @@ Below are a few images of the data that was captured when using the Google Home 
 * #### Ads/Trackers View   
 <img width="1156" alt="adsview_googlemini" src="https://user-images.githubusercontent.com/45551925/56473202-45de1900-642d-11e9-96be-ca515932b2ad.png">
 
-* https://iot-inspector.princeton.edu/
 
  #### Hands on research with Ubertooth 
  We set up an [Ubertooth One](https://github.com/greatscottgadgets/ubertooth/wiki/Ubertooth-One) environment using an Ubuntu VM designed for Bluetooth sniffing, an obsolete, available Android phone, and IoT devices. The IoT devices used were a Garmin HR+ and Metawear CPRO. (The Android phone available was mostly arbitrary, since we were just interested in capturing the Bluetooth packets to analyze.)  
