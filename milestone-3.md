@@ -14,28 +14,38 @@
 
 #### IoT Forensic Frameworks  
 
-1. **A Generic Digital Forensic Investigation Framework for Internet of Things (IoT)**  
+**A Generic Digital Forensic Investigation Framework for Internet of Things (IoT)**  
 **Authors:** Victor R. Kebande and Indrakshi Ray  
 **Date Published:** September 26, 2016  
 **Published In:** 2016 IEEE 4th International Conference on Future Internet of Things (IoT) and Cloud (FiCloud)  
 **Summary:** Kebande and Ray have proposed a generic IoT forensic investigation framework meant to guide digital investigations in IoT-based infrastructures. The framework complies with the ISO/IEC 27043:2015 international standard and provides a baseline for improvement in the field.  
 **Framework:**  The authors propose the Digital Forensic Investigation Framework for the Internet of Things (DFIF-IoT).  DFIF-IoT consists of three process blocks: proactive processes, IoT forensics processes, and reactive processes.  Proactive processes represent the activities that prep an organization for a forensic investigation to take place.  Common activities in this module are incident scenario definitions, evidence source identification, planning incident detection, potential digital evidence collection, and digital preservation.  IoT forensics processes represent all the IoT-based aspects and infrastructures where digital evidence can be acquired from.  Forensic investigators should have the technical skill and tools necessary to acquire data from IoT devices, networks, and cloud-based environments.  Reactive processes represent the digital forensic investigation itself and are triggered after an incident has been detected.  There are three stages in this module: initialization, acquisitive processes, and investigative processes.  During initialization, investigators follow establish protocol for commencement of a digital forensic investigation.  During the acquisitive processes, evidence is collected from data sources, transported, and stored securely.  Finally, the investigative processes involve analyzing, interpreting, and reporting the gathered evidence.  
- 
-1. **FIF-IoT: A Forensic Investigation Framework for IoT Using a Public Digital Ledger**  
+
+The diagrams below visualize the various processes involved in DFIF-IoT.  
+![DFIF-IoT](https://user-images.githubusercontent.com/47015888/56845057-be573680-6880-11e9-9557-b36b22cb8fb1.png)  
+
+Concurrent Processes include obtaining authorization, documentation, managing information flow, preserving chain of custody, preserving digital evidence, and interaction with the physical investigation.  
+
+Proactive processes are primarily concerned with prepping an organization or smart environment to undergo a digital investigation.  These processes could be considered optional, as an organization should continuously revise its security and incident response policies.  
+IoT Forensics processes are left intentionally generic by the authors, but entail the forensic methodologies investigators employ to conduct a digital investigation. Investigators should have procedures defined for extracting evidence from cloud-based, network-based, and IoT devices.  
+
+Reactive processes encompass the entirety of a digital investigation from commencement to reporting.  
+
+**FIF-IoT: A Forensic Investigation Framework for IoT Using a Public Digital Ledger**  
 **Authors:** Mahmud Hossain, Yasser Karim, and Ragib Hasan  
 **Date Published:** September 27, 2018  
 **Published In:** 2018 IEEE International Congress on Internet of Things (ICIOT)  
 **Summary:**  The authors have developed an IoT forensic framework that uses a public digital ledger to collect and store data pertaining to criminal incidents in an IoT-based system.  FIF-IoT collects and stores interactions from an IoT network in a decentralized blockchain network.  The purpose of FIF-IoT is to remove single points of failure in a digital forensic investigation process, as well as ensure the integrity, confidentiality, anonymity and non-repudiation of the gathered evidence.  
 **Framework:**  FIF-IoT collects interactions between nodes located in an IoT-based system.  FIF-IoT then creates transactions using the information gathered from those interactions.  The transactions are sent to the public ledger network where the Miners use those transactions to create interaction blocks.  These blocks are added to the blockchain in chronological order.  Investigators can later refer to these interaction blocks to establish a timeline of the incident.  
  
-1. **IoT Forensic: Bridging the Challenges in Digital Forensic and the Internet of Things**  
+**IoT Forensic: Bridging the Challenges in Digital Forensic and the Internet of Things**  
 **Authors:** Nurul Huda Nik Zulkipli, Ahmed Alenezi, and Gary B. Wills  
 **Date Published:** December 2016  
 **Published In:** 2nd International Conference on Internet of Things, Big Data and Security  
 **Summary:**  In this paper, the authors provide a comprehensive review of current IoT development trends, the most common threat vectors in IoT-based infrastructures, and the challenges inherent to constructing an IoT forensic framework.  
 **Framework:**  The authors do not propose a framework so much as establish two general aspects of an investigation that should be considered essential components of IoT forensic frameworks moving forward.  Those two items are pre-investigative readiness and real-time investigative solutions.  As the name implies, the pre-investigative readiness process is primarily concerned with prepping an organization or environment to undergo a digital investigation.  Managerial processes, technical procedures, and response plans must be defined before an incident occurs.  The more interesting aspect of this proposal is the call for real-time investigative solutions.  The authors propose that in the absence of a forensic standard and in response to the unique challenges present in IoT, technology should be used to gather, analyze, interpret, store, and present potential evidence.  In IoT forensic investigations, technology will fulfill the duties that were formerly performed by digital investigators.  
   
-1. **IoTDots: A Digital Forensics Framework for Smart Environments**  
+**IoTDots: A Digital Forensics Framework for Smart Environments**  
 **Authors:** Leonardo Babun, Amit Sikder, Abbas Acar, and A. Selcuk Uluagac  
 **Date Published:** September 3, 2018  
 **Published In:** ArXiv 2018  
