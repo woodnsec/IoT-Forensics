@@ -103,7 +103,7 @@ Below are a few images of the data that was captured when using the Google Home 
 When you finish installing IoT Inspector, you will see a similar image as the one below. This is where you will select the device that you want to begin scanning. Once you have allowed IoT Inspector to scan the device of your choice, you will then begin to see the different traffic through the view types mentioned above.
 ![myDevices_home](https://user-images.githubusercontent.com/45551925/56472764-5049e400-6428-11e9-810e-18eaa2037af0.png)
 
-* #### Default View
+#### Default View  
 <img width="718" alt="googleMini_iot_default" src="https://user-images.githubusercontent.com/45551925/56472785-9bfc8d80-6428-11e9-8741-a7591fc264d2.png">
 
 * #### Companies View  
