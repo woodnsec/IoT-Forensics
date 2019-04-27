@@ -104,13 +104,17 @@ When you finish installing IoT Inspector, you will see a similar image as the on
 ![myDevices_home](https://user-images.githubusercontent.com/45551925/56472764-5049e400-6428-11e9-810e-18eaa2037af0.png)
 
 #### Default View  
+As mentioned above, the Default view shows the total traffic monitored during the duration of the scan. 
 <img width="718" alt="googleMini_iot_default" src="https://user-images.githubusercontent.com/45551925/56472785-9bfc8d80-6428-11e9-8741-a7591fc264d2.png">
 
 #### Companies View  
+For the image below, you can see all the names of the companies the Mini interacted with.
 <img width="728" alt="companies_View_googlemini" src="https://user-images.githubusercontent.com/45551925/56473176-e7189f80-642c-11e9-8d01-7bdcdeb3f719.png">
 
 #### Ads/Trackers View   
+Below you will see the advertisement and tracker names that appeared, some of which occurred after the songs ended when playing music on YouTube. 
 <img width="1156" alt="adsview_googlemini" src="https://user-images.githubusercontent.com/45551925/56473202-45de1900-642d-11e9-96be-ca515932b2ad.png">
+
 
 
  #### Hands on research with Ubertooth 
