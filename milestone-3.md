@@ -99,22 +99,26 @@ Google directs US based agencies to their [Transparency Report Help Center](http
 
 Below are a few images of the data that was captured when using the Google Home Mini for about 30 minutes. During these 30 minutes, we asked the Google Home Mini a variety of questions such as “What is the weather like today?” and also asked the Mini to play music on YouTube. 
 
-#### Start Up View
+##### Start Up View
 When you finish installing IoT Inspector, you will see a similar image as the one below. This is where you will select the device that you want to begin scanning. Once you have allowed IoT Inspector to scan the device of your choice, you will then begin to see the different traffic through the view types mentioned above.
 ![myDevices_home](https://user-images.githubusercontent.com/45551925/56472764-5049e400-6428-11e9-810e-18eaa2037af0.png)
 
-#### Default View  
+##### Default View  
 As mentioned above, the Default view shows the total traffic monitored during the duration of the scan. 
 <img width="718" alt="googleMini_iot_default" src="https://user-images.githubusercontent.com/45551925/56472785-9bfc8d80-6428-11e9-8741-a7591fc264d2.png">
 
-#### Companies View  
+##### Companies View  
 For the image below, you can see all the names of the companies the Mini interacted with.
 <img width="728" alt="companies_View_googlemini" src="https://user-images.githubusercontent.com/45551925/56473176-e7189f80-642c-11e9-8d01-7bdcdeb3f719.png">
 
-#### Ads/Trackers View   
+##### Ads/Trackers View   
 Below you will see the advertisement and tracker names that appeared, some of which occurred after the songs ended when playing music on YouTube. 
 <img width="1156" alt="adsview_googlemini" src="https://user-images.githubusercontent.com/45551925/56473202-45de1900-642d-11e9-96be-ca515932b2ad.png">
 
+
+##### No Encryption View, Insecure Encryption, & Weak Encryption  
+For the three views mentioned above, there wasn't any data captured. The image below displays what the user would see for this case.    
+![image](https://user-images.githubusercontent.com/45551925/56855967-6f5be080-6916-11e9-8ecc-e10f8e60c242.png)
 
 
  #### Hands on research with Ubertooth 
