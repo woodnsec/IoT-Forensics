@@ -106,7 +106,7 @@ When you finish installing IoT Inspector, you will see a similar image as the on
 #### Default View  
 <img width="718" alt="googleMini_iot_default" src="https://user-images.githubusercontent.com/45551925/56472785-9bfc8d80-6428-11e9-8741-a7591fc264d2.png">
 
-* #### Companies View  
+#### Companies View  
 <img width="728" alt="companies_View_googlemini" src="https://user-images.githubusercontent.com/45551925/56473176-e7189f80-642c-11e9-8d01-7bdcdeb3f719.png">
 
 * #### Ads/Trackers View   
