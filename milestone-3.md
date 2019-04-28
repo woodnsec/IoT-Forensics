@@ -62,10 +62,10 @@ Google Home Mini = 172.16.42.248
 
 Unfortunately for our research the application traffic was encrypted, and we were unable to find valuable data from the pcap. The application data was sent via the http-over-tls protocol meaning it was encrypted before it was transmitted. This is good for security but not so much for our research project. 
   
-![GH Mini pcap application data](https://app.vidgrid.com/video/gif/wbprCwUI0Xo3.gif?type=gif_preview"The packet capture highlighting the encrypted application data")
+![GH Mini pcap application data](/GHmini-pcap-application-data.PNG?raw=true "The packet capture highlighting the encrypted application data")
 
   ##### Video Capture:  
-![GH Mini live capture](https://app.vidgrid.com/video/gif/wbprCwUI0Xo3.gif?type=gif_preview "The live packet capture with the encrypted application data & other DNS data")  
+![GH Mini live capture](https://app.vidgrid.com/video/gif/wbprCwUI0Xo3.gif "The live packet capture with the encrypted application data & other DNS data")  
 [Link to full video](https://app.vidgrid.com/view/wbprCwUI0Xo3?public=1)  
 Luckily, we are able to access the [developer portal](https://developers.google.com/actions/smarthome/logging) of the Google Home Mini - this allows us to see what a law enforcement officer might be able to subpoena for logs in a criminal investigation. 
 
