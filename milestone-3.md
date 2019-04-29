@@ -7,7 +7,9 @@
 - [Outcomes](#outcomes)
 - [Hinderances](#hinderances) 
 ## Overview
-(insert brief overview of efforts made)
+(insert brief overview of efforts made)  
+
+This milestone was primarily concerned with conducting further research on IoT forensic frameworks and hands-on experimentation.  
 
 ## Outcomes
 
