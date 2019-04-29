@@ -10,9 +10,10 @@
 (insert brief overview of efforts made)
 
 ## Outcomes
-(brief overview of outcomes - what did you achieve?)
 
 #### IoT Forensic Frameworks  
+
+We expanded our IoT forensic framework research in the section below. It became readily apparent that the field of IoT forensics was far less developed than that of traditional digital forensics, with minimal work available that defines prospective frameworks. In IoT forensics, instead of proposing traditional frameworks, researchers instead develop specific technology that addresses the various needs of a digital investigation. Emphasis is placed on gathering forensic data from IoT-based infrastructures and designing applications that can store, interpret, and report on the assembled evidence.  
 
 **A Generic Digital Forensic Investigation Framework for Internet of Things (IoT)**  
 **Authors:** Victor R. Kebande and Indrakshi Ray  
