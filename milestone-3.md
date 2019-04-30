@@ -82,7 +82,7 @@ Luckily, we are able to access the [developer portal](https://developers.google.
 
 ![GH Mini stackdriver logs](/GHmini-stackdriver-logs.PNG?raw=true "The stackdriver application logs from Google Cloud Platform")
 
-An example of what the logs look like from the Google Cloud Platform is available in our repo here: [GHMini-stackdriver-logs.json](/GHMini-stackdriver-logs.json). Logs are cleaned by Google to only share the failure type/error reason with the developer, not a detailed trace. For forensic purposes this is sufficient. **(citation needed - Nate)** Additional details on how to collect logs as a developer are available at the [developer portal](https://developers.google.com/actions/smarthome/logging). 
+An example of what the logs look like from the Google Cloud Platform is available in our repo here: [GHMini-stackdriver-logs.json](/GHMini-stackdriver-logs.json). Logs are cleaned by Google to only share the failure type/error reason with the developer, not a detailed trace. Additional details on how to collect logs as a developer are available at the [developer portal](https://developers.google.com/actions/smarthome/logging). 
 
 Google directs US based agencies to their [Transparency Report Help Center](https://support.google.com/transparencyreport/answer/7381738?hl=en). This page details what requirements are set for the legal process for user data requests. The website CAL-MASS [Google LE Guide](https://calmass.org/?wpdmpro=google-le-guide) article indicates there are exigent circumstances which allow law enforcement agencies to expedite the legal process to request user data. 
 
