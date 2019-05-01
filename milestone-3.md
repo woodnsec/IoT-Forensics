@@ -11,7 +11,7 @@
 
 This milestone was primarily concerned with conducting further research on IoT forensic frameworks and hands-on experimentation. It became readily apparent that the field of IoT forensics was far less developed than that of traditional digital forensics, with minimal work available that defines prospective frameworks. In IoT forensics, instead of proposing traditional frameworks, researchers develop specific technology that addresses the various needs of a digital investigation. Emphasis is placed on gathering forensic data from IoT-based infrastructures and designing applications that can store, interpret, and report on the assembled evidence.  
 
-The major focus of this milestone was hands-on experimentation with IoT devices and various techniques of data collection. The first technique used
+The major focus of this milestone was hands-on experimentation with IoT devices and various techniques of data collection. We chose the Google Home Mini as the first of the hands on projects in our study. We wanted to observe its network traffic, and view any logs available on the cloud platform. Unfortunately the network traffic is encrypted and not human readable. The cloud platform however, has logs available to developers and to law enforcement.  
 
 Another approach that we took when analyzing the Google Mini was using a network monitoring tool developed by Princeton called IoT Inspector. This tool creates visualization graphs from the data it intercepts, allowing us to see who the Mini interacts with such as advertisements domains.  
 
