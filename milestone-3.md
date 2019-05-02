@@ -204,13 +204,13 @@ As mentioned previously, GPXSee can only parse data files that include GPS data.
 
 ![fitdump](https://user-images.githubusercontent.com/13319227/56859013-2e7dbf00-694a-11e9-803a-1dcc59249f9a.png)  
   
-The second test done with these devices was pulling the data from the phone using XRY and using that as a proxy to get the data from the device. For this test, XRY Version 7.11 was used to create a full logical image of the mobile device. The image was then exported, and Autopsy was used to examine the files. The phone had been factory reset before the data propagation portion of this test, so there was not a lot of data on the phone itself. However, data was found from the Garmin device, Metawear and Google Home Mini. The only data found from the Google Home Mini was that there was a Google Home Mini connected to the mobile device and the events created using voice commands. The evidence of connection between the phone and Google Home Mini is shown in the screenshot below.  
+The second test done with these devices was pulling the data from the phone using XRY and using that as a proxy to get the application data from the devices. For this test, XRY Version 7.11 was used to create a full logical image of the mobile device. The image was then exported, and Autopsy was used to examine the files. The phone had been factory reset before the data propagation portion of this test, so there was not a lot of data on the phone itself. However, data was found from the Garmin device, Metawear and Google Home Mini. The only data found from the Google Home Mini was that there was a Google Home Mini connected to the mobile device and the events created using voice commands. The evidence of connection between the phone and Google Home Mini is shown in the screenshot below.  
   
 ![googleHome1](https://user-images.githubusercontent.com/13319227/56854821-66611400-6902-11e9-8fd5-ee7d2c0ebf5e.png)  
   
 No logs of the conversations or searches requested were found. According to [Google](https://support.google.com/googlehome/answer/7072285?hl=en), these logs would be found on their servers through the user’s Google account.
   
-The records created using the Metawear that were not saved properly were recovered from the phone, shown below.  
+The records created using the Metawear that we were unable to export were recovered from the phone, shown below.  
   
 ![metawear1](https://user-images.githubusercontent.com/13319227/56854861-f737ef80-6902-11e9-810a-57ce69e52ba0.png)  
   
