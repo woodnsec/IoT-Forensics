@@ -31,9 +31,10 @@ The second half of our project focused on hands-on experimentation with IoT devi
 Our project objectives have changed based upon our research. We discovered that many of the existing frameworks for forensics and IoT forensics are very similar to one another. They focus on a few core principles and differences from traditional forensics to IoT forensics. As a result we've decided to focus more on the practical application of IoT forensics with hands on experiments, and shift away from developing our own framework.  
 
 #### Literature review
-- We chose to focus our efforts in three categories: digital forensic frameworks, difficulties in establishing IoT forensic frameworks, and IoT data acquisition.
+We chose to focus our efforts in categories: digital forensic frameworks, IoT frameworks, difficulties in establishing IoT forensic frameworks, and IoT data acquisition.
 - IoT forensics is far less developed than traditional digital forensics, with minimal work available that defines prospective frameworks. In IoT forensics, instead of proposing traditional frameworks, researchers develop specific technology that addresses the various needs of a digital investigation. Emphasis is placed on gathering forensic data from IoT-based infrastructures and designing applications that can store, interpret, and report on the assembled evidence.
-- 
+- Our research culminated in selecting A Comprehensive and Harmonized Digital Forensic Investigation Process Model as our de facto digital forensic framework. We will compare IoT forensic frameworks against this model to evaluate their efficacy.
+- Currently no standardized IoT forensic framework exists. Complications include the wide variety of IoT devices, each with their own uses, makes, models, operating systems, and storage capabilities. Additionally, many of these devices do not store their data locally, but rather offload the data to the cloud which adds another level of complexity to creating a standard.
 #### Hands on research
 
 #### Conclusion and Recommendations  
