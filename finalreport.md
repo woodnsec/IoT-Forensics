@@ -33,8 +33,14 @@ Our project objectives have changed based upon our research. We discovered that 
 #### Literature review
 We chose to focus our efforts in categories: digital forensic frameworks, IoT frameworks, difficulties in establishing IoT forensic frameworks, and IoT data acquisition.
 - IoT forensics is far less developed than traditional digital forensics, with minimal work available that defines prospective frameworks. In IoT forensics, instead of proposing traditional frameworks, researchers develop specific technology that addresses the various needs of a digital investigation. Emphasis is placed on gathering forensic data from IoT-based infrastructures and designing applications that can store, interpret, and report on the assembled evidence.
+    - **Research Methodology:** We examined and selected technical procedures to use and reference as we move into the hands-on portion of our project.  We will refer to the processes and procedures presented in the Computer Forensics Technical Procedure Manual (North Carolina State Bureau of Investigation) and the Forensic Examination of Digital Evidence: A Guide for Law Enforcement (US Department of Justice).  
+    - **Research and Framework Selection:** We examined multiple digital forensics frameworks from over the years and analyzed their applicability to our project. We determined that the Comprehensive and Harmonized framework proposed by Valgarevic and Venter was the most suitable for our needs. We will also refer to ACPO and NIST. 
 - Our research culminated in selecting A Comprehensive and Harmonized Digital Forensic Investigation Process Model as our de facto digital forensic framework. We will compare IoT forensic frameworks against this model to evaluate their efficacy.
 - Currently no standardized IoT forensic framework exists. Complications include the wide variety of IoT devices, each with their own uses, makes, models, operating systems, and storage capabilities. Additionally, many of these devices do not store their data locally, but rather offload the data to the cloud which adds another level of complexity to creating a standard.
+    - **Data Extraction:** IoT devices have many different storage methods. They might use a cloud service or write to a local hub running a service rather than storing data on the actual IoT devices.  Devices also may not include traditional interfaces for gathering data stored on IoT devices. 
+`   - **Chain of Custody:** Keeping a well document Chain of Custody is a vital process during a forensics investigation. However, with the diversity of IoT devices maintaining the documentation to uphold integrity could be difficult.  
+    - **Evidence Handling:** Digital evidence can be easily modified which could potentially overwrite important data. Traditional digital devices typically only have one location of storage which is not the case in IoT device. The environment of IoT is much more volatile making data extraction more difficult.  
+    - **Evidence Identification:** Due to the variety of IoT devices and storage processes, identifying the data needed during an investigation can be challenging. Lack of forensic documentation and tools to collect the data once it has been identified can also be a nightmare for investigators.
 #### Hands on research
 Hands on research was focused on several IoT devices including a Google Home Mini, Garmin HR+ and Metawear CPRO.
 - We started our hands on experiment with the Google Home Mini. 
@@ -50,9 +56,3 @@ Hands on research was focused on several IoT devices including a Google Home Min
 IoT forensics is a combination of other forensic methods, such as Cloud, Mobile and Network forensics. 
 Focus more on implementing technical solutions rather than implementing frameworks. Holly cow are they so generic.
 IoT devices and manufacturers should standardize equipment and data storage methods. 
-
-
-
-(bulleted lists can also be helpful to structure your results discussion)
-* outcome 1
-* outcome 2
