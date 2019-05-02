@@ -28,13 +28,13 @@ The second half of our project focused on hands-on experimentation with IoT devi
 
 
 ## Results / Findings
-(brief overview of outcomes - what did you achieve?, list milestone 1/2/3 outcomes, make an effort to logically collect and organize the findings)
-
-#### Milestone 2 outcomes
 Our project objectives have changed based upon our research. We discovered that many of the existing frameworks for forensics and IoT forensics are very similar to one another. They focus on a few core principles and differences from traditional forensics to IoT forensics. As a result we've decided to focus more on the practical application of IoT forensics with hands on experiments, and shift away from developing our own framework.  
 
-#### Milestone 3 outcomes
-<a href="https://imgflip.com/i/2yv6e7"><img src="https://i.imgflip.com/2yv6e7.jpg" title="made at imgflip.com"/></a> #TBD - Nate  
+#### Literature review
+- We chose to focus our efforts in three categories: digital forensic frameworks, difficulties in establishing IoT forensic frameworks, and IoT data acquisition.
+- IoT forensics is far less developed than traditional digital forensics, with minimal work available that defines prospective frameworks. In IoT forensics, instead of proposing traditional frameworks, researchers develop specific technology that addresses the various needs of a digital investigation. Emphasis is placed on gathering forensic data from IoT-based infrastructures and designing applications that can store, interpret, and report on the assembled evidence.
+- 
+#### Hands on research
 
 #### Conclusion and Recommendations  
 IoT forensics is a combination of other forensic methods, such as Cloud, Mobile and Network forensics. 
