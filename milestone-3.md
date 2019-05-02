@@ -110,12 +110,6 @@ For the image below, you can see all the names of the companies the Google Home 
 Below you will see the advertisement and tracker names that appeared, some of which occurred after the songs ended when playing music on YouTube. 
 <img width="1156" alt="adsview_googlemini" src="https://user-images.githubusercontent.com/45551925/56473202-45de1900-642d-11e9-96be-ca515932b2ad.png">
 
-
-##### No Encryption View, Insecure Encryption, & Weak Encryption  
-For the three views mentioned above, there wasn't any data captured. The image below displays what the user would see for this case.    
-![image](https://user-images.githubusercontent.com/45551925/56855967-6f5be080-6916-11e9-8ecc-e10f8e60c242.png)
-
-
  #### Hands on research with Ubertooth 
  We set up an [Ubertooth One](https://github.com/greatscottgadgets/ubertooth/wiki/Ubertooth-One) environment using an Ubuntu VM designed for Bluetooth sniffing, an obsolete, available Android phone, and IoT devices. The IoT devices used were a Garmin HR+ and Metawear CPRO. (The Android phone available was mostly arbitrary, since we were just interested in capturing the Bluetooth packets to analyze.)  
  
@@ -131,9 +125,7 @@ For the three views mentioned above, there wasn't any data captured. The image b
 
 ![Wireshark screenshot](https://i.imgur.com/RXeJxax.png) 
 ##### Garmin Captures  
-One of the wearables we analyzed over Bluetooth was a Garmin Vivosmart HR+. Through trial and error, we recovered "CONNECT_REQ" packets between our wearable and Android phone when pairing. However, traffic back and forth from the devices showed little information. It was found the communication between the two devices were encrypted and thus we were unable to read the packets.  
-  
-To look for further solutions, we found a tool named [Crackle](https://github.com/mikeryan/crackle) that is designed to crack Bluetooth Low Energy (BLE) Encryption. With Crackle, it has two modes: Crack TK (Temporary Key), and Decrypt with LTK (Long Term Key). At first the Crack TK mode was used. Between four .pcap files from the Garmin and Android phone, the command sequence "./crackle -i [inputfile].pcap -o [inputresult].pcap" was used. The -i flag is self-explanatory, and the -o flag is used to tell which file to save results in. With any of the .pcap files, however, they all did not work.
+One of the wearables we analyzed over Bluetooth was a Garmin Vivosmart HR+. Through trial and error, we recovered "CONNECT_REQ" packets between our wearable and Android phone when pairing. However, traffic back and forth from the devices showed little information. The communication between the two devices were encrypted and thus we were unable to read the packets. Therefore we attempted to use [Crackle](https://github.com/mikeryan/crackle) which is designed to crack Bluetooth Low Energy (BLE) Encryption. Crackle has two modes: Crack TK (Temporary Key) and Decrypt with LTK (Long Term Key). We attempted to use Crackle's Crack TK mode which was unsuccessful with each of the four    .pcap files from the Garmin and Android phone. We used the following command sequence "./crackle -i [inputfile].pcap -o [inputresult].pcap". 
 
 ![old-captured .pcap file](https://i.imgur.com/p2hVxxF.jpg)  
 
