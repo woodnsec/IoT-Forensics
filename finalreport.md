@@ -3,7 +3,7 @@
 **Members:** Elisabeth Henderson, Ashley Leedom, Amber Makovicka, Ronald Ramirez, & Nathan Wood  
 
 - [Executive Summary](#excutive-summary)
-- [Project goals](#project-goals)
+- [Project Goals](#project-goals)
 - [Project Methodology](#project-methodology)
 - [Results / Findings](#results--findings) 
 
