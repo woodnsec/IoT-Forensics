@@ -64,6 +64,6 @@ Upon concluding our experiments, we found that the best means of acquiring foren
 
 Since the principle barrier to the creation of an IoT forensic framework standard is the mass diversity between the hardware and storage capabilities of IoT devices, we recommend introducing production standards in the field. This would allow toolkits to be created that can support multiple devices of a similar creed.  
 
-Due to the amount of data that gets offloaded from IoT devices to the cloud, legislation and procedures must be enacted that enable authorized investigators to gain access to that data.  
+Due to the amount of data that gets offloaded from IoT devices to the cloud, legislation and procedures must be enacted that enable authorized investigators to gain access to that data. Investigators, of course, must possess a warrant or subpoena. Security should not be compromised for the sake of convenience.
 
-The wide variety of IoT device types and data gathering capabilities means it may be difficult for investigators to identify which devices bear forensically-relevant information. An open-source library that details what general information is stored on each device will help investigators target only the devices that are likely to be relevant to the investigation. 
+The wide variety of IoT device types and data gathering capabilities means it may be difficult for investigators to identify which devices bear forensically-relevant information. Organizations should introduce publically-available libraries tjat detail the general information that is stored on their devices (assuming internal storage does exist on that device). This information can help investigators target devices that will likely hold relevant information for an investigation.
